@@ -4,7 +4,14 @@ curator: ''
 source: ''
 tags: []
 license: ''
-files: []
+files:
+- name: robots
+  filename: robots.txt
+  type: document
+  format: Plain Text
+  size: 23
+  md5: 96108642adb6973a93e0c4af826d1d11
+  page: robots_page.md
 subdirs:
 - 学术文献
 - 政府及官方组织文件
