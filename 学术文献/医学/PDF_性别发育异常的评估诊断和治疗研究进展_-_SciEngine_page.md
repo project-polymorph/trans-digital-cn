@@ -1,7 +1,7 @@
 # PDF_性别发育异常的评估诊断和治疗研究进展_-_SciEngine
 
 <!-- tcd_download_link -->
-Download: [PDF_性别发育异常的评估诊断和治疗研究进展_-_SciEngine.pdf](PDF_性别发育异常的评估诊断和治疗研究进展_-_SciEngine.pdf)
+下载: [PDF_性别发育异常的评估诊断和治疗研究进展_-_SciEngine.pdf](PDF_性别发育异常的评估诊断和治疗研究进展_-_SciEngine.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

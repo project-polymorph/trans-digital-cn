@@ -1,7 +1,7 @@
 # MTF声音女性化手册
 
 <!-- tcd_download_link -->
-Download: [MTF声音女性化手册.pdf](MTF声音女性化手册.pdf)
+下载: [MTF声音女性化手册.pdf](MTF声音女性化手册.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

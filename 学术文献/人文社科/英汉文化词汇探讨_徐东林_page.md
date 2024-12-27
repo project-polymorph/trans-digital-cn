@@ -1,7 +1,7 @@
 # 英汉文化词汇探讨_徐东林
 
 <!-- tcd_download_link -->
-Download: [英汉文化词汇探讨_徐东林.pdf](英汉文化词汇探讨_徐东林.pdf)
+下载: [英汉文化词汇探讨_徐东林.pdf](英汉文化词汇探讨_徐东林.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

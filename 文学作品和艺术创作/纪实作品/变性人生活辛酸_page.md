@@ -1,7 +1,7 @@
 # 变性人生活辛酸
 
 <!-- tcd_download_link -->
-Download: [变性人生活辛酸.pdf](变性人生活辛酸.pdf)
+下载: [变性人生活辛酸.pdf](变性人生活辛酸.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

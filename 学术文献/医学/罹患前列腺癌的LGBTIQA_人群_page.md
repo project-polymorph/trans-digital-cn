@@ -1,7 +1,7 @@
 # 罹患前列腺癌的LGBTIQA_人群
 
 <!-- tcd_download_link -->
-Download: [罹患前列腺癌的LGBTIQA_人群.pdf](罹患前列腺癌的LGBTIQA_人群.pdf)
+下载: [罹患前列腺癌的LGBTIQA_人群.pdf](罹患前列腺癌的LGBTIQA_人群.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

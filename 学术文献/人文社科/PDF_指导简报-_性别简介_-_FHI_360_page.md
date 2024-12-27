@@ -1,7 +1,7 @@
 # PDF_指导简报-_性别简介_-_FHI_360
 
 <!-- tcd_download_link -->
-Download: [PDF_指导简报-_性别简介_-_FHI_360.pdf](PDF_指导简报-_性别简介_-_FHI_360.pdf)
+下载: [PDF_指导简报-_性别简介_-_FHI_360.pdf](PDF_指导简报-_性别简介_-_FHI_360.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

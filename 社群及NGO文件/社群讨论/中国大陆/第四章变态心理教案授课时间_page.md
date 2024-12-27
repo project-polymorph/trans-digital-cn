@@ -1,7 +1,7 @@
 # 第四章变态心理教案授课时间
 
 <!-- tcd_download_link -->
-Download: [第四章变态心理教案授课时间.pdf](第四章变态心理教案授课时间.pdf)
+下载: [第四章变态心理教案授课时间.pdf](第四章变态心理教案授课时间.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 非歧视与沟通援助_Providence_St._Joseph_健康中心
 
 <!-- tcd_download_link -->
-Download: [非歧视与沟通援助_Providence_St._Joseph_健康中心.pdf](非歧视与沟通援助_Providence_St._Joseph_健康中心.pdf)
+下载: [非歧视与沟通援助_Providence_St._Joseph_健康中心.pdf](非歧视与沟通援助_Providence_St._Joseph_健康中心.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

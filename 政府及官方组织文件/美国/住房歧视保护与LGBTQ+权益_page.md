@@ -1,7 +1,7 @@
 # 住房歧视保护与LGBTQ+权益
 
 <!-- tcd_download_link -->
-Download: [住房歧视保护与LGBTQ+权益.pdf](住房歧视保护与LGBTQ+权益.pdf)
+下载: [住房歧视保护与LGBTQ+权益.pdf](住房歧视保护与LGBTQ+权益.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

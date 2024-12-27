@@ -1,7 +1,7 @@
 # 我在泰国做“人妖”_尼莎
 
 <!-- tcd_download_link -->
-Download: [我在泰国做“人妖”_尼莎.pdf](我在泰国做“人妖”_尼莎.pdf)
+下载: [我在泰国做“人妖”_尼莎.pdf](我在泰国做“人妖”_尼莎.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

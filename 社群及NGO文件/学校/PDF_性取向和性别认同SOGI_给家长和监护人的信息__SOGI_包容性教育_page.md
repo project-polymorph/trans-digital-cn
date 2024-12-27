@@ -1,7 +1,7 @@
 # PDF_性取向和性别认同SOGI_给家长和监护人的信息__SOGI_包容性教育
 
 <!-- tcd_download_link -->
-Download: [PDF_性取向和性别认同SOGI_给家长和监护人的信息__SOGI_包容性教育.pdf](PDF_性取向和性别认同SOGI_给家长和监护人的信息__SOGI_包容性教育.pdf)
+下载: [PDF_性取向和性别认同SOGI_给家长和监护人的信息__SOGI_包容性教育.pdf](PDF_性取向和性别认同SOGI_给家长和监护人的信息__SOGI_包容性教育.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

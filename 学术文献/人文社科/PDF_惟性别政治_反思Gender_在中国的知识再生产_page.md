@@ -1,7 +1,7 @@
 # PDF_惟性别政治_反思Gender_在中国的知识再生产
 
 <!-- tcd_download_link -->
-Download: [PDF_惟性别政治_反思Gender_在中国的知识再生产.pdf](PDF_惟性别政治_反思Gender_在中国的知识再生产.pdf)
+下载: [PDF_惟性别政治_反思Gender_在中国的知识再生产.pdf](PDF_惟性别政治_反思Gender_在中国的知识再生产.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

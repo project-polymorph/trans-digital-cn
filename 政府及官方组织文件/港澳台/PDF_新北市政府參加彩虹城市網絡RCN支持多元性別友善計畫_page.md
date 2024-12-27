@@ -1,7 +1,7 @@
 # PDF_新北市政府參加彩虹城市網絡RCN支持多元性別友善計畫
 
 <!-- tcd_download_link -->
-Download: [PDF_新北市政府參加彩虹城市網絡RCN支持多元性別友善計畫.pdf](PDF_新北市政府參加彩虹城市網絡RCN支持多元性別友善計畫.pdf)
+下载: [PDF_新北市政府參加彩虹城市網絡RCN支持多元性別友善計畫.pdf](PDF_新北市政府參加彩虹城市網絡RCN支持多元性別友善計畫.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

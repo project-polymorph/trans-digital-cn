@@ -1,7 +1,7 @@
 # Gossip_Boys_and_Girls_-_跨性別資源中心
 
 <!-- tcd_download_link -->
-Download: [Gossip_Boys_and_Girls_-_跨性別資源中心.pdf](Gossip_Boys_and_Girls_-_跨性別資源中心.pdf)
+下载: [Gossip_Boys_and_Girls_-_跨性別資源中心.pdf](Gossip_Boys_and_Girls_-_跨性別資源中心.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

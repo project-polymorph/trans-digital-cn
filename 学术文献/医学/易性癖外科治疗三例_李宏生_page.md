@@ -1,7 +1,7 @@
 # 易性癖外科治疗三例_李宏生
 
 <!-- tcd_download_link -->
-Download: [易性癖外科治疗三例_李宏生.pdf](易性癖外科治疗三例_李宏生.pdf)
+下载: [易性癖外科治疗三例_李宏生.pdf](易性癖外科治疗三例_李宏生.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 道格拉斯县学区-_教育公平
 
 <!-- tcd_download_link -->
-Download: [道格拉斯县学区-_教育公平.pdf](道格拉斯县学区-_教育公平.pdf)
+下载: [道格拉斯县学区-_教育公平.pdf](道格拉斯县学区-_教育公平.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

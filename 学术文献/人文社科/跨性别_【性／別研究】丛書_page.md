@@ -1,7 +1,7 @@
 # 跨性别_【性／別研究】丛書
 
 <!-- tcd_download_link -->
-Download: [跨性别_【性／別研究】丛書.pdf](跨性别_【性／別研究】丛書.pdf)
+下载: [跨性别_【性／別研究】丛書.pdf](跨性别_【性／別研究】丛書.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

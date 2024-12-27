@@ -1,7 +1,7 @@
 # PDF_港区伴侣制度_适用手册（第１版）
 
 <!-- tcd_download_link -->
-Download: [PDF_港区伴侣制度_适用手册（第１版）.pdf](PDF_港区伴侣制度_适用手册（第１版）.pdf)
+下载: [PDF_港区伴侣制度_适用手册（第１版）.pdf](PDF_港区伴侣制度_适用手册（第１版）.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

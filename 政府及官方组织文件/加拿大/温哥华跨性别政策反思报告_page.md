@@ -1,7 +1,7 @@
 # 温哥华跨性别政策反思报告
 
 <!-- tcd_download_link -->
-Download: [温哥华跨性别政策反思报告.pdf](温哥华跨性别政策反思报告.pdf)
+下载: [温哥华跨性别政策反思报告.pdf](温哥华跨性别政策反思报告.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

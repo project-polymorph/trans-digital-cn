@@ -1,7 +1,7 @@
 # 2022年DEIA与健康公平报告
 
 <!-- tcd_download_link -->
-Download: [2022年DEIA与健康公平报告.pdf](2022年DEIA与健康公平报告.pdf)
+下载: [2022年DEIA与健康公平报告.pdf](2022年DEIA与健康公平报告.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

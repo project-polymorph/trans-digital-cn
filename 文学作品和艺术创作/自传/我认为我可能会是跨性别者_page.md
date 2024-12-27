@@ -1,7 +1,7 @@
 # 我认为我可能会是跨性别者
 
 <!-- tcd_download_link -->
-Download: [我认为我可能会是跨性别者.pdf](我认为我可能会是跨性别者.pdf)
+下载: [我认为我可能会是跨性别者.pdf](我认为我可能会是跨性别者.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

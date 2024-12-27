@@ -1,7 +1,7 @@
 # PDF_情况介绍平等和不歧视_-_ohchr
 
 <!-- tcd_download_link -->
-Download: [PDF_情况介绍平等和不歧视_-_ohchr.pdf](PDF_情况介绍平等和不歧视_-_ohchr.pdf)
+下载: [PDF_情况介绍平等和不歧视_-_ohchr.pdf](PDF_情况介绍平等和不歧视_-_ohchr.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

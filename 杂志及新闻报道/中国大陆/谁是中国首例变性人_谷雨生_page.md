@@ -1,7 +1,7 @@
 # 谁是中国首例变性人_谷雨生
 
 <!-- tcd_download_link -->
-Download: [谁是中国首例变性人_谷雨生.pdf](谁是中国首例变性人_谷雨生.pdf)
+下载: [谁是中国首例变性人_谷雨生.pdf](谁是中国首例变性人_谷雨生.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

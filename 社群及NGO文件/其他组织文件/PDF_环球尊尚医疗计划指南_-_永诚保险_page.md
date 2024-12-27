@@ -1,7 +1,7 @@
 # PDF_环球尊尚医疗计划指南_-_永诚保险
 
 <!-- tcd_download_link -->
-Download: [PDF_环球尊尚医疗计划指南_-_永诚保险.pdf](PDF_环球尊尚医疗计划指南_-_永诚保险.pdf)
+下载: [PDF_环球尊尚医疗计划指南_-_永诚保险.pdf](PDF_环球尊尚医疗计划指南_-_永诚保险.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

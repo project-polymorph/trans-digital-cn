@@ -1,7 +1,7 @@
 # 项目名项目合作协议
 
 <!-- tcd_download_link -->
-Download: [项目名项目合作协议.pdf](项目名项目合作协议.pdf)
+下载: [项目名项目合作协议.pdf](项目名项目合作协议.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

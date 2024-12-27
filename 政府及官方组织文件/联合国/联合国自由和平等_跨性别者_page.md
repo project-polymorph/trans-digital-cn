@@ -1,7 +1,7 @@
 # 联合国自由和平等_跨性别者
 
 <!-- tcd_download_link -->
-Download: [联合国自由和平等_跨性别者.pdf](联合国自由和平等_跨性别者.pdf)
+下载: [联合国自由和平等_跨性别者.pdf](联合国自由和平等_跨性别者.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

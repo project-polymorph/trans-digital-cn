@@ -1,7 +1,7 @@
 # 西方的变性热_王克强
 
 <!-- tcd_download_link -->
-Download: [西方的变性热_王克强.pdf](西方的变性热_王克强.pdf)
+下载: [西方的变性热_王克强.pdf](西方的变性热_王克强.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

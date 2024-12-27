@@ -1,7 +1,7 @@
 # 器官鹤植硇人身权问题研夯
 
 <!-- tcd_download_link -->
-Download: [器官鹤植硇人身权问题研夯.pdf](器官鹤植硇人身权问题研夯.pdf)
+下载: [器官鹤植硇人身权问题研夯.pdf](器官鹤植硇人身权问题研夯.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

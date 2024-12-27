@@ -1,7 +1,7 @@
 # 我的性别我做主_夏日艳阳
 
 <!-- tcd_download_link -->
-Download: [我的性别我做主_夏日艳阳.pdf](我的性别我做主_夏日艳阳.pdf)
+下载: [我的性别我做主_夏日艳阳.pdf](我的性别我做主_夏日艳阳.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

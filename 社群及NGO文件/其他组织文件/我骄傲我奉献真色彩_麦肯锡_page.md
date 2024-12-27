@@ -1,7 +1,7 @@
 # 我骄傲我奉献真色彩_麦肯锡
 
 <!-- tcd_download_link -->
-Download: [我骄傲我奉献真色彩_麦肯锡.pdf](我骄傲我奉献真色彩_麦肯锡.pdf)
+下载: [我骄傲我奉献真色彩_麦肯锡.pdf](我骄傲我奉献真色彩_麦肯锡.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

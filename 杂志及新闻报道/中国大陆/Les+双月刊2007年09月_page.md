@@ -1,7 +1,7 @@
 # Les+双月刊2007年09月
 
 <!-- tcd_download_link -->
-Download: [Les+双月刊2007年09月.pdf](Les+双月刊2007年09月.pdf)
+下载: [Les+双月刊2007年09月.pdf](Les+双月刊2007年09月.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

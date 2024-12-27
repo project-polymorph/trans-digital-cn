@@ -1,7 +1,7 @@
 # 个人化的婚姻和家庭
 
 <!-- tcd_download_link -->
-Download: [个人化的婚姻和家庭.pdf](个人化的婚姻和家庭.pdf)
+下载: [个人化的婚姻和家庭.pdf](个人化的婚姻和家庭.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

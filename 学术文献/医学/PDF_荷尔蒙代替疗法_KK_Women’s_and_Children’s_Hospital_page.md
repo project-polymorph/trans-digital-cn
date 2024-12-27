@@ -1,7 +1,7 @@
 # PDF_荷尔蒙代替疗法_KK_Women’s_and_Children’s_Hospital
 
 <!-- tcd_download_link -->
-Download: [PDF_荷尔蒙代替疗法_KK_Women’s_and_Children’s_Hospital.pdf](PDF_荷尔蒙代替疗法_KK_Women’s_and_Children’s_Hospital.pdf)
+下载: [PDF_荷尔蒙代替疗法_KK_Women’s_and_Children’s_Hospital.pdf](PDF_荷尔蒙代替疗法_KK_Women’s_and_Children’s_Hospital.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

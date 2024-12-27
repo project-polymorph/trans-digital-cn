@@ -1,7 +1,7 @@
 # PDF_BSA_指南有关性别认同问题的投诉
 
 <!-- tcd_download_link -->
-Download: [PDF_BSA_指南有关性别认同问题的投诉.pdf](PDF_BSA_指南有关性别认同问题的投诉.pdf)
+下载: [PDF_BSA_指南有关性别认同问题的投诉.pdf](PDF_BSA_指南有关性别认同问题的投诉.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # PDF_香港醫院管理局就性別不安所提供的治療
 
 <!-- tcd_download_link -->
-Download: [PDF_香港醫院管理局就性別不安所提供的治療.pdf](PDF_香港醫院管理局就性別不安所提供的治療.pdf)
+下载: [PDF_香港醫院管理局就性別不安所提供的治療.pdf](PDF_香港醫院管理局就性別不安所提供的治療.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

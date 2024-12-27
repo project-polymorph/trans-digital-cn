@@ -1,7 +1,7 @@
 # PDF_跨性别_反暴力_手册_跨青年教育中心
 
 <!-- tcd_download_link -->
-Download: [PDF_跨性别_反暴力_手册_跨青年教育中心.pdf](PDF_跨性别_反暴力_手册_跨青年教育中心.pdf)
+下载: [PDF_跨性别_反暴力_手册_跨青年教育中心.pdf](PDF_跨性别_反暴力_手册_跨青年教育中心.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

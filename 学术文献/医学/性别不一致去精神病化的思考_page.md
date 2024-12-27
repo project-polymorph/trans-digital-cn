@@ -1,7 +1,7 @@
 # 性别不一致去精神病化的思考
 
 <!-- tcd_download_link -->
-Download: [性别不一致去精神病化的思考.pdf](性别不一致去精神病化的思考.pdf)
+下载: [性别不一致去精神病化的思考.pdf](性别不一致去精神病化的思考.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # PDF_认识性别认同障碍-_醫院管理局
 
 <!-- tcd_download_link -->
-Download: [PDF_认识性别认同障碍-_醫院管理局.pdf](PDF_认识性别认同障碍-_醫院管理局.pdf)
+下载: [PDF_认识性别认同障碍-_醫院管理局.pdf](PDF_认识性别认同障碍-_醫院管理局.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

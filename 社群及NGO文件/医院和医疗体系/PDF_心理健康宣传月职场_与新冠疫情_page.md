@@ -1,7 +1,7 @@
 # PDF_心理健康宣传月职场_与新冠疫情
 
 <!-- tcd_download_link -->
-Download: [PDF_心理健康宣传月职场_与新冠疫情.pdf](PDF_心理健康宣传月职场_与新冠疫情.pdf)
+下载: [PDF_心理健康宣传月职场_与新冠疫情.pdf](PDF_心理健康宣传月职场_与新冠疫情.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 上政法律評論
 
 <!-- tcd_download_link -->
-Download: [上政法律評論.pdf](上政法律評論.pdf)
+下载: [上政法律評論.pdf](上政法律評論.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

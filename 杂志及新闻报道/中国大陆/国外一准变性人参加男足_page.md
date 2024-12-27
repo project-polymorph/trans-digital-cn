@@ -1,7 +1,7 @@
 # 国外一准变性人参加男足
 
 <!-- tcd_download_link -->
-Download: [国外一准变性人参加男足.PDF](国外一准变性人参加男足.PDF)
+下载: [国外一准变性人参加男足.PDF](国外一准变性人参加男足.PDF)
 <!-- tcd_download_link_end -->
 
 ## 摘要

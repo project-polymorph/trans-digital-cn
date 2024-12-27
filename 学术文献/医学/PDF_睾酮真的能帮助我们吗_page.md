@@ -1,7 +1,7 @@
 # PDF_睾酮真的能帮助我们吗
 
 <!-- tcd_download_link -->
-Download: [PDF_睾酮真的能帮助我们吗.pdf](PDF_睾酮真的能帮助我们吗.pdf)
+下载: [PDF_睾酮真的能帮助我们吗.pdf](PDF_睾酮真的能帮助我们吗.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

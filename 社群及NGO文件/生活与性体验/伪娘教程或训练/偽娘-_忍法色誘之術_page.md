@@ -1,7 +1,7 @@
 # 偽娘-_忍法色誘之術
 
 <!-- tcd_download_link -->
-Download: [偽娘-_忍法色誘之術.pdf](偽娘-_忍法色誘之術.pdf)
+下载: [偽娘-_忍法色誘之術.pdf](偽娘-_忍法色誘之術.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

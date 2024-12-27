@@ -1,7 +1,7 @@
 # PDF_联合国人权理事会_普遍定期审议工作组报告_AHRC4212
 
 <!-- tcd_download_link -->
-Download: [PDF_联合国人权理事会_普遍定期审议工作组报告_AHRC4212.pdf](PDF_联合国人权理事会_普遍定期审议工作组报告_AHRC4212.pdf)
+下载: [PDF_联合国人权理事会_普遍定期审议工作组报告_AHRC4212.pdf](PDF_联合国人权理事会_普遍定期审议工作组报告_AHRC4212.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

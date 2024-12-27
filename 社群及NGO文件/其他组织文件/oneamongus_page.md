@@ -1,7 +1,7 @@
 # oneamongus
 
 <!-- tcd_download_link -->
-Download: [oneamongus.pdf](oneamongus.pdf)
+下载: [oneamongus.pdf](oneamongus.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

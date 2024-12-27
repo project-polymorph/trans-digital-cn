@@ -1,7 +1,7 @@
 # PDF_專題說明_-_女學學誌
 
 <!-- tcd_download_link -->
-Download: [PDF_專題說明_-_女學學誌.pdf](PDF_專題說明_-_女學學誌.pdf)
+下载: [PDF_專題說明_-_女學學誌.pdf](PDF_專題說明_-_女學學誌.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

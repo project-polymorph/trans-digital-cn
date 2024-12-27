@@ -1,7 +1,7 @@
 # LGBTQIA性少数族群+咨询代表会问答_警察改革工作组
 
 <!-- tcd_download_link -->
-Download: [LGBTQIA性少数族群+咨询代表会问答_警察改革工作组.pdf](LGBTQIA性少数族群+咨询代表会问答_警察改革工作组.pdf)
+下载: [LGBTQIA性少数族群+咨询代表会问答_警察改革工作组.pdf](LGBTQIA性少数族群+咨询代表会问答_警察改革工作组.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

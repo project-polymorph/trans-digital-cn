@@ -1,7 +1,7 @@
 # PDF_药物性女性假两性畸形9例临床分析
 
 <!-- tcd_download_link -->
-Download: [PDF_药物性女性假两性畸形9例临床分析.pdf](PDF_药物性女性假两性畸形9例临床分析.pdf)
+下载: [PDF_药物性女性假两性畸形9例临床分析.pdf](PDF_药物性女性假两性畸形9例临床分析.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

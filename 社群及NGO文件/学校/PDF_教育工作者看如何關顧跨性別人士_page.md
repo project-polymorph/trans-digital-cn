@@ -1,7 +1,7 @@
 # PDF_教育工作者看如何關顧跨性別人士
 
 <!-- tcd_download_link -->
-Download: [PDF_教育工作者看如何關顧跨性別人士.pdf](PDF_教育工作者看如何關顧跨性別人士.pdf)
+下载: [PDF_教育工作者看如何關顧跨性別人士.pdf](PDF_教育工作者看如何關顧跨性別人士.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

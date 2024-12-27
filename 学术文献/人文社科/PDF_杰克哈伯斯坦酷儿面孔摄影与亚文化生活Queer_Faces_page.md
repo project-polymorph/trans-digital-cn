@@ -1,7 +1,7 @@
 # PDF_杰克哈伯斯坦酷儿面孔摄影与亚文化生活Queer_Faces
 
 <!-- tcd_download_link -->
-Download: [PDF_杰克哈伯斯坦酷儿面孔摄影与亚文化生活Queer_Faces.pdf](PDF_杰克哈伯斯坦酷儿面孔摄影与亚文化生活Queer_Faces.pdf)
+下载: [PDF_杰克哈伯斯坦酷儿面孔摄影与亚文化生活Queer_Faces.pdf](PDF_杰克哈伯斯坦酷儿面孔摄影与亚文化生活Queer_Faces.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

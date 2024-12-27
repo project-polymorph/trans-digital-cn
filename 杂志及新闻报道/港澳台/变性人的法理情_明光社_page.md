@@ -1,7 +1,7 @@
 # 变性人的法理情_明光社
 
 <!-- tcd_download_link -->
-Download: [变性人的法理情_明光社.pdf](变性人的法理情_明光社.pdf)
+下载: [变性人的法理情_明光社.pdf](变性人的法理情_明光社.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

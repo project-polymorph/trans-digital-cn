@@ -1,7 +1,7 @@
 # 酷儿理论等于同性恋研究吗
 
 <!-- tcd_download_link -->
-Download: [酷儿理论等于同性恋研究吗.pdf](酷儿理论等于同性恋研究吗.pdf)
+下载: [酷儿理论等于同性恋研究吗.pdf](酷儿理论等于同性恋研究吗.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

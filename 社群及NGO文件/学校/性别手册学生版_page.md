@@ -1,7 +1,7 @@
 # 性别手册学生版
 
 <!-- tcd_download_link -->
-Download: [性别手册学生版.pdf](性别手册学生版.pdf)
+下载: [性别手册学生版.pdf](性别手册学生版.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

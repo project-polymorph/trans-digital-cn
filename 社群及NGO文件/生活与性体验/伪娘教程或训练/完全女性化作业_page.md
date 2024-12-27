@@ -1,7 +1,7 @@
 # 完全女性化作业
 
 <!-- tcd_download_link -->
-Download: [完全女性化作业.pdf](完全女性化作业.pdf)
+下载: [完全女性化作业.pdf](完全女性化作业.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

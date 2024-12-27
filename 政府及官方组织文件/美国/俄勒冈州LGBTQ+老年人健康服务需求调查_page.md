@@ -1,7 +1,7 @@
 # 俄勒冈州LGBTQ+老年人健康服务需求调查
 
 <!-- tcd_download_link -->
-Download: [俄勒冈州LGBTQ+老年人健康服务需求调查.pdf](俄勒冈州LGBTQ+老年人健康服务需求调查.pdf)
+下载: [俄勒冈州LGBTQ+老年人健康服务需求调查.pdf](俄勒冈州LGBTQ+老年人健康服务需求调查.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -46,6 +46,13 @@ files:
   size: 1583138
   md5: 424b25553fb65896b0b7b17fb0f04452
   page: 关于在住院期间某位患者的言论情况整理_page.md
+- name: 向死去的志愿者致哀！
+  filename: 向死去的志愿者致哀！.pdf
+  type: document
+  format: PDF Document
+  size: 141481
+  md5: df31d768e4c0b4dfd32f9f8a19a3d57d
+  page: 向死去的志愿者致哀！_page.md
 - name: 完全变装手册最后5章部分翻译
   filename: 完全变装手册最后5章部分翻译.pdf
   type: document
@@ -53,6 +60,13 @@ files:
   size: 612359
   md5: a9628752ee15481d1729762af49ed2fd
   page: 完全变装手册最后5章部分翻译_page.md
+- name: 我们是跨别的孩子——献给一位故去的跨性别志愿者
+  filename: 我们是跨别的孩子——献给一位故去的跨性别志愿者.doc
+  type: document
+  format: Microsoft Word Document
+  size: 17920
+  md5: bd1158c0c2a3246bed6049a55aac573f
+  page: 我们是跨别的孩子——献给一位故去的跨性别志愿者_page.md
 - name: 手术恢复
   filename: 手术恢复.jpg
   type: image
@@ -67,6 +81,13 @@ files:
   size: 2152009
   md5: 69514b89b8a81a1897550192051c09fd
   page: 搞事情_page.md
+- name: 某个网友对ag的看法，原名《何为ag》
+  filename: 某个网友对ag的看法，原名《何为ag》.doc
+  type: document
+  format: Microsoft Word Document
+  size: 26112
+  md5: 93a5057c995c2c719309c1ad32925e81
+  page: 某个网友对ag的看法，原名《何为ag》_page.md
 - name: 第四章变态心理教案授课时间
   filename: 第四章变态心理教案授课时间.pdf
   type: document
@@ -81,4 +102,11 @@ files:
   size: 2995594
   md5: 80357de3013a5d74362851ad6c7a0283
   page: 致函于贵院，关于一位患者在贵院西城院区住院期间的举报_北京友谊医院_page.md
+- name: 钱今凡回应网络对跨性别人士的谩骂
+  filename: 钱今凡回应网络对跨性别人士的谩骂.doc
+  type: document
+  format: Microsoft Word Document
+  size: 27648
+  md5: f61107679f388d1bb947322ba366afc3
+  page: 钱今凡回应网络对跨性别人士的谩骂_page.md
 subdirs: []

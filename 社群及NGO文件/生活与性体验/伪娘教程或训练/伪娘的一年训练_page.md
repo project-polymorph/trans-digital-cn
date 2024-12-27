@@ -1,7 +1,7 @@
 # 伪娘的一年训练
 
 <!-- tcd_download_link -->
-Download: [伪娘的一年训练.pdf](伪娘的一年训练.pdf)
+下载: [伪娘的一年训练.pdf](伪娘的一年训练.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

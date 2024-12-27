@@ -1,7 +1,7 @@
 # 跨性别者的嗓音调整
 
 <!-- tcd_download_link -->
-Download: [跨性别者的嗓音调整.pdf](跨性别者的嗓音调整.pdf)
+下载: [跨性别者的嗓音调整.pdf](跨性别者的嗓音调整.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

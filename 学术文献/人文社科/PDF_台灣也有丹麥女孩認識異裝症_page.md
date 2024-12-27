@@ -1,7 +1,7 @@
 # PDF_台灣也有丹麥女孩認識異裝症
 
 <!-- tcd_download_link -->
-Download: [PDF_台灣也有丹麥女孩認識異裝症.pdf](PDF_台灣也有丹麥女孩認識異裝症.pdf)
+下载: [PDF_台灣也有丹麥女孩認識異裝症.pdf](PDF_台灣也有丹麥女孩認識異裝症.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 瑞典性工作法律与废娼主义影响研究_Jay_Levy
 
 <!-- tcd_download_link -->
-Download: [瑞典性工作法律与废娼主义影响研究_Jay_Levy.pdf](瑞典性工作法律与废娼主义影响研究_Jay_Levy.pdf)
+下载: [瑞典性工作法律与废娼主义影响研究_Jay_Levy.pdf](瑞典性工作法律与废娼主义影响研究_Jay_Levy.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

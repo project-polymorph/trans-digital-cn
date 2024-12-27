@@ -1,7 +1,7 @@
 # 第三十一届联合国普遍定期审议工作组LGBT
 
 <!-- tcd_download_link -->
-Download: [第三十一届联合国普遍定期审议工作组LGBT.pdf](第三十一届联合国普遍定期审议工作组LGBT.pdf)
+下载: [第三十一届联合国普遍定期审议工作组LGBT.pdf](第三十一届联合国普遍定期审议工作组LGBT.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

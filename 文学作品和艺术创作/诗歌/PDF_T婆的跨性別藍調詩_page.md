@@ -1,7 +1,7 @@
 # PDF_T婆的跨性別藍調詩
 
 <!-- tcd_download_link -->
-Download: [PDF_T婆的跨性別藍調詩.pdf](PDF_T婆的跨性別藍調詩.pdf)
+下载: [PDF_T婆的跨性別藍調詩.pdf](PDF_T婆的跨性別藍調詩.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

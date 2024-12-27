@@ -1,7 +1,7 @@
 # PDF_促进LGBTI人权和包容_议员手册
 
 <!-- tcd_download_link -->
-Download: [PDF_促进LGBTI人权和包容_议员手册.pdf](PDF_促进LGBTI人权和包容_议员手册.pdf)
+下载: [PDF_促进LGBTI人权和包容_议员手册.pdf](PDF_促进LGBTI人权和包容_议员手册.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

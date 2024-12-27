@@ -1,7 +1,7 @@
 # SM_手册_我的身体我的心
 
 <!-- tcd_download_link -->
-Download: [SM_手册_我的身体我的心.pdf](SM_手册_我的身体我的心.pdf)
+下载: [SM_手册_我的身体我的心.pdf](SM_手册_我的身体我的心.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

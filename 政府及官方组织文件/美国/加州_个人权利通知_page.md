@@ -1,7 +1,7 @@
 # 加州_个人权利通知
 
 <!-- tcd_download_link -->
-Download: [加州_个人权利通知.pdf](加州_个人权利通知.pdf)
+下载: [加州_个人权利通知.pdf](加州_个人权利通知.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

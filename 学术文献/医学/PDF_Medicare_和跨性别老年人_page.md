@@ -1,7 +1,7 @@
 # PDF_Medicare_和跨性别老年人
 
 <!-- tcd_download_link -->
-Download: [PDF_Medicare_和跨性别老年人.pdf](PDF_Medicare_和跨性别老年人.pdf)
+下载: [PDF_Medicare_和跨性别老年人.pdf](PDF_Medicare_和跨性别老年人.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

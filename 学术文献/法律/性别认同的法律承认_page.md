@@ -1,7 +1,7 @@
 # 性别认同的法律承认
 
 <!-- tcd_download_link -->
-Download: [性别认同的法律承认.pdf](性别认同的法律承认.pdf)
+下载: [性别认同的法律承认.pdf](性别认同的法律承认.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

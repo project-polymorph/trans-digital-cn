@@ -1,7 +1,7 @@
 # 走出性别困境_跨性别_与_性别焦虑_的医疗援助_潘柏林_Z_Library
 
 <!-- tcd_download_link -->
-Download: [走出性别困境_跨性别_与_性别焦虑_的医疗援助_潘柏林_Z_Library.pdf](走出性别困境_跨性别_与_性别焦虑_的医疗援助_潘柏林_Z_Library.pdf)
+下载: [走出性别困境_跨性别_与_性别焦虑_的医疗援助_潘柏林_Z_Library.pdf](走出性别困境_跨性别_与_性别焦虑_的医疗援助_潘柏林_Z_Library.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

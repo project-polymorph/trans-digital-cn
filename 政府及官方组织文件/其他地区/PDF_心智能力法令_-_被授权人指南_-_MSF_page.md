@@ -1,7 +1,7 @@
 # PDF_心智能力法令_-_被授权人指南_-_MSF
 
 <!-- tcd_download_link -->
-Download: [PDF_心智能力法令_-_被授权人指南_-_MSF.pdf](PDF_心智能力法令_-_被授权人指南_-_MSF.pdf)
+下载: [PDF_心智能力法令_-_被授权人指南_-_MSF.pdf](PDF_心智能力法令_-_被授权人指南_-_MSF.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

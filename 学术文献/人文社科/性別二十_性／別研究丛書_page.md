@@ -1,7 +1,7 @@
 # 性別二十_性／別研究丛書
 
 <!-- tcd_download_link -->
-Download: [性別二十_性／別研究丛書.pdf](性別二十_性／別研究丛書.pdf)
+下载: [性別二十_性／別研究丛書.pdf](性別二十_性／別研究丛書.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

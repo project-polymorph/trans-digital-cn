@@ -1,7 +1,7 @@
 # PDF_雇员的权利谁是跨性别者或非性别常规者_-_Civil_Rights_Department
 
 <!-- tcd_download_link -->
-Download: [PDF_雇员的权利谁是跨性别者或非性别常规者_-_Civil_Rights_Department.pdf](PDF_雇员的权利谁是跨性别者或非性别常规者_-_Civil_Rights_Department.pdf)
+下载: [PDF_雇员的权利谁是跨性别者或非性别常规者_-_Civil_Rights_Department.pdf](PDF_雇员的权利谁是跨性别者或非性别常规者_-_Civil_Rights_Department.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

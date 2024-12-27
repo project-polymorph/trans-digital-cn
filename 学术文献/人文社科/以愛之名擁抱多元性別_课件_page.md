@@ -1,7 +1,7 @@
 # 以愛之名擁抱多元性別_课件
 
 <!-- tcd_download_link -->
-Download: [以愛之名擁抱多元性別_课件.pdf](以愛之名擁抱多元性別_课件.pdf)
+下载: [以愛之名擁抱多元性別_课件.pdf](以愛之名擁抱多元性別_课件.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

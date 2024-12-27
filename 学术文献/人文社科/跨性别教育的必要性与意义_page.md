@@ -1,7 +1,7 @@
 # 跨性别教育的必要性与意义
 
 <!-- tcd_download_link -->
-Download: [跨性别教育的必要性与意义.pdf](跨性别教育的必要性与意义.pdf)
+下载: [跨性别教育的必要性与意义.pdf](跨性别教育的必要性与意义.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

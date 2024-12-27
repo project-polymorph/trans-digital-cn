@@ -1,7 +1,7 @@
 # 我们内心的偏见展览脚本
 
 <!-- tcd_download_link -->
-Download: [我们内心的偏见展览脚本.pdf](我们内心的偏见展览脚本.pdf)
+下载: [我们内心的偏见展览脚本.pdf](我们内心的偏见展览脚本.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

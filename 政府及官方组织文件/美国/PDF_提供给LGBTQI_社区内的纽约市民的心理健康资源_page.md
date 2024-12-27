@@ -1,7 +1,7 @@
 # PDF_提供给LGBTQI_社区内的纽约市民的心理健康资源
 
 <!-- tcd_download_link -->
-Download: [PDF_提供给LGBTQI_社区内的纽约市民的心理健康资源.pdf](PDF_提供给LGBTQI_社区内的纽约市民的心理健康资源.pdf)
+下载: [PDF_提供给LGBTQI_社区内的纽约市民的心理健康资源.pdf](PDF_提供给LGBTQI_社区内的纽约市民的心理健康资源.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

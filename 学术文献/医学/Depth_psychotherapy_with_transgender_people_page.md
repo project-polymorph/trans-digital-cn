@@ -1,7 +1,7 @@
 # Depth_psychotherapy_with_transgender_people
 
 <!-- tcd_download_link -->
-Download: [Depth_psychotherapy_with_transgender_people.pdf](Depth_psychotherapy_with_transgender_people.pdf)
+下载: [Depth_psychotherapy_with_transgender_people.pdf](Depth_psychotherapy_with_transgender_people.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 一个阉人的真实故事
 
 <!-- tcd_download_link -->
-Download: [一个阉人的真实故事.pdf](一个阉人的真实故事.pdf)
+下载: [一个阉人的真实故事.pdf](一个阉人的真实故事.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

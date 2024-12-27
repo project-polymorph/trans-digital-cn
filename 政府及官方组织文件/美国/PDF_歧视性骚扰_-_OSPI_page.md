@@ -1,7 +1,7 @@
 # PDF_歧视性骚扰_-_OSPI
 
 <!-- tcd_download_link -->
-Download: [PDF_歧视性骚扰_-_OSPI.pdf](PDF_歧视性骚扰_-_OSPI.pdf)
+下载: [PDF_歧视性骚扰_-_OSPI.pdf](PDF_歧视性骚扰_-_OSPI.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

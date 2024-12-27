@@ -1,7 +1,7 @@
 # 伟大小说的时间考量
 
 <!-- tcd_download_link -->
-Download: [伟大小说的时间考量.pdf](伟大小说的时间考量.pdf)
+下载: [伟大小说的时间考量.pdf](伟大小说的时间考量.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

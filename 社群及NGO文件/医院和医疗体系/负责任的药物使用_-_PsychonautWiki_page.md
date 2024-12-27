@@ -1,7 +1,7 @@
 # 负责任的药物使用_-_PsychonautWiki
 
 <!-- tcd_download_link -->
-Download: [负责任的药物使用_-_PsychonautWiki.pdf](负责任的药物使用_-_PsychonautWiki.pdf)
+下载: [负责任的药物使用_-_PsychonautWiki.pdf](负责任的药物使用_-_PsychonautWiki.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

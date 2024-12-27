@@ -1,7 +1,7 @@
 # 跨性别证件修改手册
 
 <!-- tcd_download_link -->
-Download: [跨性别证件修改手册.pdf](跨性别证件修改手册.pdf)
+下载: [跨性别证件修改手册.pdf](跨性别证件修改手册.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

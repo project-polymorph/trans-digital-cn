@@ -1,7 +1,7 @@
 # 探讨LGBT群体的权_利_骄傲与偏见
 
 <!-- tcd_download_link -->
-Download: [探讨LGBT群体的权_利_骄傲与偏见.pdf](探讨LGBT群体的权_利_骄傲与偏见.pdf)
+下载: [探讨LGBT群体的权_利_骄傲与偏见.pdf](探讨LGBT群体的权_利_骄傲与偏见.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # Laurel_Ridge小学社区利益相关者论坛倡议
 
 <!-- tcd_download_link -->
-Download: [Laurel_Ridge小学社区利益相关者论坛倡议.pdf](Laurel_Ridge小学社区利益相关者论坛倡议.pdf)
+下载: [Laurel_Ridge小学社区利益相关者论坛倡议.pdf](Laurel_Ridge小学社区利益相关者论坛倡议.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

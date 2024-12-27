@@ -1,7 +1,7 @@
 # PDF_国立大学咨询辅导中心
 
 <!-- tcd_download_link -->
-Download: [PDF_国立大学咨询辅导中心.pdf](PDF_国立大学咨询辅导中心.pdf)
+下载: [PDF_国立大学咨询辅导中心.pdf](PDF_国立大学咨询辅导中心.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

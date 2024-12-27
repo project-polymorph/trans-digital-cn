@@ -1,7 +1,7 @@
 # 2022年青少年COVID-19疫苗接种登记表
 
 <!-- tcd_download_link -->
-Download: [2022年青少年COVID-19疫苗接种登记表.pdf](2022年青少年COVID-19疫苗接种登记表.pdf)
+下载: [2022年青少年COVID-19疫苗接种登记表.pdf](2022年青少年COVID-19疫苗接种登记表.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

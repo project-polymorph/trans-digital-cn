@@ -1,7 +1,7 @@
 # PDF_性別承認議題公眾諮詢FAQ1_-_立法會
 
 <!-- tcd_download_link -->
-Download: [PDF_性別承認議題公眾諮詢FAQ1_-_立法會.pdf](PDF_性別承認議題公眾諮詢FAQ1_-_立法會.pdf)
+下载: [PDF_性別承認議題公眾諮詢FAQ1_-_立法會.pdf](PDF_性別承認議題公眾諮詢FAQ1_-_立法會.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

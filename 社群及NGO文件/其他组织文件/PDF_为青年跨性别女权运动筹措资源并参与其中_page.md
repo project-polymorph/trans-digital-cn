@@ -1,7 +1,7 @@
 # PDF_为青年跨性别女权运动筹措资源并参与其中
 
 <!-- tcd_download_link -->
-Download: [PDF_为青年跨性别女权运动筹措资源并参与其中.pdf](PDF_为青年跨性别女权运动筹措资源并参与其中.pdf)
+下载: [PDF_为青年跨性别女权运动筹措资源并参与其中.pdf](PDF_为青年跨性别女权运动筹措资源并参与其中.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

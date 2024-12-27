@@ -1,7 +1,7 @@
 # 俄勒冈州hMPXV疫情信息与应对指南
 
 <!-- tcd_download_link -->
-Download: [俄勒冈州hMPXV疫情信息与应对指南.pdf](俄勒冈州hMPXV疫情信息与应对指南.pdf)
+下载: [俄勒冈州hMPXV疫情信息与应对指南.pdf](俄勒冈州hMPXV疫情信息与应对指南.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

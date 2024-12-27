@@ -1,7 +1,7 @@
 # 華人性權研究_總第七期
 
 <!-- tcd_download_link -->
-Download: [華人性權研究_總第七期.pdf](華人性權研究_總第七期.pdf)
+下载: [華人性權研究_總第七期.pdf](華人性權研究_總第七期.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

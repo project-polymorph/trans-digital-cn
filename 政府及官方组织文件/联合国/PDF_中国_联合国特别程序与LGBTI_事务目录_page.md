@@ -1,7 +1,7 @@
 # PDF_中国_联合国特别程序与LGBTI_事务目录
 
 <!-- tcd_download_link -->
-Download: [PDF_中国_联合国特别程序与LGBTI_事务目录.pdf](PDF_中国_联合国特别程序与LGBTI_事务目录.pdf)
+下载: [PDF_中国_联合国特别程序与LGBTI_事务目录.pdf](PDF_中国_联合国特别程序与LGBTI_事务目录.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

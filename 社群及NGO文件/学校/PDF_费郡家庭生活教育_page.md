@@ -1,7 +1,7 @@
 # PDF_费郡家庭生活教育
 
 <!-- tcd_download_link -->
-Download: [PDF_费郡家庭生活教育.pdf](PDF_费郡家庭生活教育.pdf)
+下载: [PDF_费郡家庭生活教育.pdf](PDF_费郡家庭生活教育.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 跨性别_如何安全注射激素
 
 <!-- tcd_download_link -->
-Download: [跨性别_如何安全注射激素.pdf](跨性别_如何安全注射激素.pdf)
+下载: [跨性别_如何安全注射激素.pdf](跨性别_如何安全注射激素.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

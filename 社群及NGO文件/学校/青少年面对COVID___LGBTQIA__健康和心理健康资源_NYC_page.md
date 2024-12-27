@@ -1,7 +1,7 @@
 # 青少年面对COVID__(LGBTQIA)_健康和心理健康资源_NYC
 
 <!-- tcd_download_link -->
-Download: [青少年面对COVID__(LGBTQIA)_健康和心理健康资源_NYC.pdf](青少年面对COVID__(LGBTQIA)_健康和心理健康资源_NYC.pdf)
+下载: [青少年面对COVID___LGBTQIA__健康和心理健康资源_NYC.pdf](青少年面对COVID___LGBTQIA__健康和心理健康资源_NYC.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

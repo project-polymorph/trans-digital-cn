@@ -1,7 +1,7 @@
 # 科克地区LGBTQ服务与支持资源汇编
 
 <!-- tcd_download_link -->
-Download: [科克地区LGBTQ服务与支持资源汇编.pdf](科克地区LGBTQ服务与支持资源汇编.pdf)
+下载: [科克地区LGBTQ服务与支持资源汇编.pdf](科克地区LGBTQ服务与支持资源汇编.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

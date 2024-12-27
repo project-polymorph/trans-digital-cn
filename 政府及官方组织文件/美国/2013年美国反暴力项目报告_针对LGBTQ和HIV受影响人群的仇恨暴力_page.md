@@ -1,7 +1,7 @@
 # 2013年美国反暴力项目报告_针对LGBTQ和HIV受影响人群的仇恨暴力
 
 <!-- tcd_download_link -->
-Download: [2013年美国反暴力项目报告_针对LGBTQ和HIV受影响人群的仇恨暴力.pdf](2013年美国反暴力项目报告_针对LGBTQ和HIV受影响人群的仇恨暴力.pdf)
+下载: [2013年美国反暴力项目报告_针对LGBTQ和HIV受影响人群的仇恨暴力.pdf](2013年美国反暴力项目报告_针对LGBTQ和HIV受影响人群的仇恨暴力.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 秦惠英，你在哪里？_方刚
 
 <!-- tcd_download_link -->
-Download: [秦惠英，你在哪里？_方刚.pdf](秦惠英，你在哪里？_方刚.pdf)
+下载: [秦惠英，你在哪里？_方刚.pdf](秦惠英，你在哪里？_方刚.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

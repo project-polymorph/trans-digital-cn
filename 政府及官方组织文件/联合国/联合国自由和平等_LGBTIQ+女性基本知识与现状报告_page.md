@@ -1,7 +1,7 @@
 # 联合国自由和平等_LGBTIQ+女性基本知识与现状报告
 
 <!-- tcd_download_link -->
-Download: [联合国自由和平等_LGBTIQ+女性基本知识与现状报告.pdf](联合国自由和平等_LGBTIQ+女性基本知识与现状报告.pdf)
+下载: [联合国自由和平等_LGBTIQ+女性基本知识与现状报告.pdf](联合国自由和平等_LGBTIQ+女性基本知识与现状报告.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

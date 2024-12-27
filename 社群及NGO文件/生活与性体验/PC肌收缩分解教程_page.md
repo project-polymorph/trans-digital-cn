@@ -1,7 +1,7 @@
 # PC肌收缩分解教程
 
 <!-- tcd_download_link -->
-Download: [PC肌收缩分解教程.pdf](PC肌收缩分解教程.pdf)
+下载: [PC肌收缩分解教程.pdf](PC肌收缩分解教程.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

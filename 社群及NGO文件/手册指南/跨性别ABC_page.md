@@ -1,7 +1,7 @@
 # 跨性别ABC
 
 <!-- tcd_download_link -->
-Download: [跨性别ABC.pdf](跨性别ABC.pdf)
+下载: [跨性别ABC.pdf](跨性别ABC.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 全球范围内感染HIV的跨性别者数量在不断攀升
 
 <!-- tcd_download_link -->
-Download: [全球范围内感染HIV的跨性别者数量在不断攀升.pdf](全球范围内感染HIV的跨性别者数量在不断攀升.pdf)
+下载: [全球范围内感染HIV的跨性别者数量在不断攀升.pdf](全球范围内感染HIV的跨性别者数量在不断攀升.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

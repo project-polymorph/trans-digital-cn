@@ -1,7 +1,7 @@
 # PDF_农村和城市活动家改变__女性__生活
 
 <!-- tcd_download_link -->
-Download: [PDF_农村和城市活动家改变__女性__生活.pdf](PDF_农村和城市活动家改变__女性__生活.pdf)
+下载: [PDF_农村和城市活动家改变__女性__生活.pdf](PDF_农村和城市活动家改变__女性__生活.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

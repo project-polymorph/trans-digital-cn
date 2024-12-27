@@ -1,7 +1,7 @@
 # PDF_雌二醇片雌二醇地屈孕酮片复合包装说明书_-_Abbott
 
 <!-- tcd_download_link -->
-Download: [PDF_雌二醇片雌二醇地屈孕酮片复合包装说明书_-_Abbott.pdf](PDF_雌二醇片雌二醇地屈孕酮片复合包装说明书_-_Abbott.pdf)
+下载: [PDF_雌二醇片雌二醇地屈孕酮片复合包装说明书_-_Abbott.pdf](PDF_雌二醇片雌二醇地屈孕酮片复合包装说明书_-_Abbott.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

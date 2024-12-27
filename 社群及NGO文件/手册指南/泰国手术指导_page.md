@@ -1,7 +1,7 @@
 # 泰国手术指导
 
 <!-- tcd_download_link -->
-Download: [泰国手术指导.pdf](泰国手术指导.pdf)
+下载: [泰国手术指导.pdf](泰国手术指导.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

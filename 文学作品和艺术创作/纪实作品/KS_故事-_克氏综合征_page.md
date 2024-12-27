@@ -1,7 +1,7 @@
 # KS_故事-_克氏综合征
 
 <!-- tcd_download_link -->
-Download: [KS_故事-_克氏综合征.pdf](KS_故事-_克氏综合征.pdf)
+下载: [KS_故事-_克氏综合征.pdf](KS_故事-_克氏综合征.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

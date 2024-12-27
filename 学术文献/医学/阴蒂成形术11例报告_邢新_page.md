@@ -1,7 +1,7 @@
 # 阴蒂成形术11例报告_邢新
 
 <!-- tcd_download_link -->
-Download: [阴蒂成形术11例报告_邢新.pdf](阴蒂成形术11例报告_邢新.pdf)
+下载: [阴蒂成形术11例报告_邢新.pdf](阴蒂成形术11例报告_邢新.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 很高興認識你跨性別者_XX的房間導讀
 
 <!-- tcd_download_link -->
-Download: [很高興認識你跨性別者_XX的房間導讀.pdf](很高興認識你跨性別者_XX的房間導讀.pdf)
+下载: [很高興認識你跨性別者_XX的房間導讀.pdf](很高興認識你跨性別者_XX的房間導讀.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

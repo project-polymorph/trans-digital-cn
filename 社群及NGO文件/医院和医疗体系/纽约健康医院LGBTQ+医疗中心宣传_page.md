@@ -1,7 +1,7 @@
 # 纽约健康医院LGBTQ+医疗中心宣传
 
 <!-- tcd_download_link -->
-Download: [纽约健康医院LGBTQ+医疗中心宣传.pdf](纽约健康医院LGBTQ+医疗中心宣传.pdf)
+下载: [纽约健康医院LGBTQ+医疗中心宣传.pdf](纽约健康医院LGBTQ+医疗中心宣传.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

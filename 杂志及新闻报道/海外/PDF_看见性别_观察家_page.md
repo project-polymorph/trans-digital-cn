@@ -1,7 +1,7 @@
 # PDF_看见性别_观察家
 
 <!-- tcd_download_link -->
-Download: [PDF_看见性别_观察家.pdf](PDF_看见性别_观察家.pdf)
+下载: [PDF_看见性别_观察家.pdf](PDF_看见性别_观察家.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

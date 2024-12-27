@@ -1,7 +1,7 @@
 # 肤色国籍年龄身心障碍或性别
 
 <!-- tcd_download_link -->
-Download: [肤色国籍年龄身心障碍或性别.pdf](肤色国籍年龄身心障碍或性别.pdf)
+下载: [肤色国籍年龄身心障碍或性别.pdf](肤色国籍年龄身心障碍或性别.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

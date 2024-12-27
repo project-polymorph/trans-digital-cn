@@ -1,7 +1,7 @@
 # 联合国自由和平等_LGBTIQ青少年_学校中的欺凌与暴力
 
 <!-- tcd_download_link -->
-Download: [联合国自由和平等_LGBTIQ青少年_学校中的欺凌与暴力.pdf](联合国自由和平等_LGBTIQ青少年_学校中的欺凌与暴力.pdf)
+下载: [联合国自由和平等_LGBTIQ青少年_学校中的欺凌与暴力.pdf](联合国自由和平等_LGBTIQ青少年_学校中的欺凌与暴力.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

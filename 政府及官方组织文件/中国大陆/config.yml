@@ -45,13 +45,13 @@ files:
   size: 160252
   md5: acbac8f3611950620ef3977ba19ec43b
   page: MCHD_COVID_疫苗接种登记表_2022_page.md
-- name: PDF_先天性结构畸形救助项目(2021年版)
-  filename: PDF_先天性结构畸形救助项目(2021年版).pdf
+- name: PDF_先天性结构畸形救助项目_2021年版_
+  filename: PDF_先天性结构畸形救助项目_2021年版_.pdf
   type: document
   format: PDF Document
   size: 4279230
   md5: 629ba870448d274ab34cb4484bcc1a81
-  page: PDF_先天性结构畸形救助项目(2021年版)_page.md
+  page: PDF_先天性结构畸形救助项目_2021年版__page.md
 - name: PDF_附件_2021年国家级继续医学教育项目表
   filename: PDF_附件_2021年国家级继续医学教育项目表.pdf
   type: document

@@ -1,7 +1,7 @@
 # 認定自己生錯了性別_大公报
 
 <!-- tcd_download_link -->
-Download: [認定自己生錯了性別_大公报.pdf](認定自己生錯了性別_大公报.pdf)
+下载: [認定自己生錯了性別_大公报.pdf](認定自己生錯了性別_大公报.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

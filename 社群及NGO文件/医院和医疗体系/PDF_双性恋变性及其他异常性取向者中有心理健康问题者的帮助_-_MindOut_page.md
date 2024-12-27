@@ -1,7 +1,7 @@
 # PDF_双性恋变性及其他异常性取向者中有心理健康问题者的帮助_-_MindOut
 
 <!-- tcd_download_link -->
-Download: [PDF_双性恋变性及其他异常性取向者中有心理健康问题者的帮助_-_MindOut.pdf](PDF_双性恋变性及其他异常性取向者中有心理健康问题者的帮助_-_MindOut.pdf)
+下载: [PDF_双性恋变性及其他异常性取向者中有心理健康问题者的帮助_-_MindOut.pdf](PDF_双性恋变性及其他异常性取向者中有心理健康问题者的帮助_-_MindOut.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # PDF_联合国艾滋病防治重要政策文件汇编
 
 <!-- tcd_download_link -->
-Download: [PDF_联合国艾滋病防治重要政策文件汇编.pdf](PDF_联合国艾滋病防治重要政策文件汇编.pdf)
+下载: [PDF_联合国艾滋病防治重要政策文件汇编.pdf](PDF_联合国艾滋病防治重要政策文件汇编.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

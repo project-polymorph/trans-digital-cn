@@ -1,7 +1,7 @@
 # 俄勒冈州健康青少年计划报告
 
 <!-- tcd_download_link -->
-Download: [俄勒冈州健康青少年计划报告.pdf](俄勒冈州健康青少年计划报告.pdf)
+下载: [俄勒冈州健康青少年计划报告.pdf](俄勒冈州健康青少年计划报告.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

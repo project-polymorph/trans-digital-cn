@@ -93,13 +93,13 @@ files:
   size: 8426774
   md5: 5002f5c2aecaa65677aee4a65ec3326a
   page: 亚太跨性别健康蓝图_page.md
-- name: 伴您同行_专为跨性别儿童的父母准备的指南(SG出柜指南_原版)
-  filename: 伴您同行_专为跨性别儿童的父母准备的指南(SG出柜指南_原版).pdf
+- name: 伴您同行_专为跨性别儿童的父母准备的指南_SG出柜指南_原版_
+  filename: 伴您同行_专为跨性别儿童的父母准备的指南_SG出柜指南_原版_.pdf
   type: document
   format: PDF Document
   size: 18705720
   md5: b35dcebc987983a703784091f2914fa6
-  page: 伴您同行_专为跨性别儿童的父母准备的指南(SG出柜指南_原版)_page.md
+  page: 伴您同行_专为跨性别儿童的父母准备的指南_SG出柜指南_原版__page.md
 - name: 关于LGBTQ群体的倡导与支持建议
   filename: 关于LGBTQ群体的倡导与支持建议.pdf
   type: document
@@ -226,13 +226,6 @@ files:
   size: 2834944
   md5: b3b99eef3b83e7bb214b8bbaec7545fb
   page: 自切教程萱酱版_page.md
-- name: 艺术家保障性收入计划指南
-  filename: 艺术家保障性收入计划指南.pdf
-  type: document
-  format: PDF Document
-  size: 806510
-  md5: aa845850c59a54752e11361b74de8a91
-  page: 艺术家保障性收入计划指南_page.md
 - name: 跨儿的性别困惑与身份认同
   filename: 跨儿的性别困惑与身份认同.pdf
   type: document
@@ -275,13 +268,13 @@ files:
   size: 161413
   md5: b8593f61a5458408ac369dd83b33bd0e
   page: 跨性别出柜手册_page.md
-- name: 跨性别和多元性别人群健康照护指南（第八版)
-  filename: 跨性别和多元性别人群健康照护指南（第八版).pdf
+- name: 跨性别和多元性别人群健康照护指南（第八版_
+  filename: 跨性别和多元性别人群健康照护指南（第八版_.pdf
   type: document
   format: PDF Document
   size: 3738717
   md5: 168fc7b79987574bdd192280702eaa32
-  page: 跨性别和多元性别人群健康照护指南（第八版)_page.md
+  page: 跨性别和多元性别人群健康照护指南（第八版__page.md
 - name: 跨性别安全指南
   filename: 跨性别安全指南.pdf
   type: document

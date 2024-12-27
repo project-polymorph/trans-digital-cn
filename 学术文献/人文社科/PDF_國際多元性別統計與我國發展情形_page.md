@@ -1,7 +1,7 @@
 # PDF_國際多元性別統計與我國發展情形
 
 <!-- tcd_download_link -->
-Download: [PDF_國際多元性別統計與我國發展情形.pdf](PDF_國際多元性別統計與我國發展情形.pdf)
+下载: [PDF_國際多元性別統計與我國發展情形.pdf](PDF_國際多元性別統計與我國發展情形.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

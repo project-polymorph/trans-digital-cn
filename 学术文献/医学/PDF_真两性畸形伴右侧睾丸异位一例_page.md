@@ -1,7 +1,7 @@
 # PDF_真两性畸形伴右侧睾丸异位一例
 
 <!-- tcd_download_link -->
-Download: [PDF_真两性畸形伴右侧睾丸异位一例.pdf](PDF_真两性畸形伴右侧睾丸异位一例.pdf)
+下载: [PDF_真两性畸形伴右侧睾丸异位一例.pdf](PDF_真两性畸形伴右侧睾丸异位一例.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

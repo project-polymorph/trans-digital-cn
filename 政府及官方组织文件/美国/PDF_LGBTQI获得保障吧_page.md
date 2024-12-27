@@ -1,7 +1,7 @@
 # PDF_LGBTQI获得保障吧
 
 <!-- tcd_download_link -->
-Download: [PDF_LGBTQI获得保障吧.pdf](PDF_LGBTQI获得保障吧.pdf)
+下载: [PDF_LGBTQI获得保障吧.pdf](PDF_LGBTQI获得保障吧.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

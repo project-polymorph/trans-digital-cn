@@ -1,7 +1,7 @@
 # El_Dorado县健康教育课程
 
 <!-- tcd_download_link -->
-Download: [El_Dorado县健康教育课程.pdf](El_Dorado县健康教育课程.pdf)
+下载: [El_Dorado县健康教育课程.pdf](El_Dorado县健康教育课程.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

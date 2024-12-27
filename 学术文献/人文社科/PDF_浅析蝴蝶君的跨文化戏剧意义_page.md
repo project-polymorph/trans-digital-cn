@@ -1,7 +1,7 @@
 # PDF_浅析蝴蝶君的跨文化戏剧意义
 
 <!-- tcd_download_link -->
-Download: [PDF_浅析蝴蝶君的跨文化戏剧意义.pdf](PDF_浅析蝴蝶君的跨文化戏剧意义.pdf)
+下载: [PDF_浅析蝴蝶君的跨文化戏剧意义.pdf](PDF_浅析蝴蝶君的跨文化戏剧意义.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

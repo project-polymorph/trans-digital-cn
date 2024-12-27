@@ -1,7 +1,7 @@
 # PDF_艾滋病预防路线图2025
 
 <!-- tcd_download_link -->
-Download: [PDF_艾滋病预防路线图2025.pdf](PDF_艾滋病预防路线图2025.pdf)
+下载: [PDF_艾滋病预防路线图2025.pdf](PDF_艾滋病预防路线图2025.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 支持性别多样化儿童和跨性别青少年_-_Trans_Care_BC
 
 <!-- tcd_download_link -->
-Download: [支持性别多样化儿童和跨性别青少年_-_Trans_Care_BC.pdf](支持性别多样化儿童和跨性别青少年_-_Trans_Care_BC.pdf)
+下载: [支持性别多样化儿童和跨性别青少年_-_Trans_Care_BC.pdf](支持性别多样化儿童和跨性别青少年_-_Trans_Care_BC.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

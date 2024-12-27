@@ -1,7 +1,7 @@
 # 人性III_酷兒釋經_2018
 
 <!-- tcd_download_link -->
-Download: [人性III_酷兒釋經_2018.pdf](人性III_酷兒釋經_2018.pdf)
+下载: [人性III_酷兒釋經_2018.pdf](人性III_酷兒釋經_2018.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

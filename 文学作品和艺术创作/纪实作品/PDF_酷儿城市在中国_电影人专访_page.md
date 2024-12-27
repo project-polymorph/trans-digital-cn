@@ -1,7 +1,7 @@
 # PDF_酷儿城市在中国_电影人专访
 
 <!-- tcd_download_link -->
-Download: [PDF_酷儿城市在中国_电影人专访.pdf](PDF_酷儿城市在中国_电影人专访.pdf)
+下载: [PDF_酷儿城市在中国_电影人专访.pdf](PDF_酷儿城市在中国_电影人专访.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

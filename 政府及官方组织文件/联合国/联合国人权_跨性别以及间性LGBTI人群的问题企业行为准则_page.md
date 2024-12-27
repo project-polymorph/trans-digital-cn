@@ -1,7 +1,7 @@
 # 联合国人权_跨性别以及间性LGBTI人群的问题企业行为准则
 
 <!-- tcd_download_link -->
-Download: [联合国人权_跨性别以及间性LGBTI人群的问题企业行为准则.pdf](联合国人权_跨性别以及间性LGBTI人群的问题企业行为准则.pdf)
+下载: [联合国人权_跨性别以及间性LGBTI人群的问题企业行为准则.pdf](联合国人权_跨性别以及间性LGBTI人群的问题企业行为准则.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # PDF_行政院我國多元性別LGBTI者生活狀況調查研究案
 
 <!-- tcd_download_link -->
-Download: [PDF_行政院我國多元性別LGBTI者生活狀況調查研究案.pdf](PDF_行政院我國多元性別LGBTI者生活狀況調查研究案.pdf)
+下载: [PDF_行政院我國多元性別LGBTI者生活狀況調查研究案.pdf](PDF_行政院我國多元性別LGBTI者生活狀況調查研究案.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

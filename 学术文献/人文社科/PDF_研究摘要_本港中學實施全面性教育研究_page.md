@@ -1,7 +1,7 @@
 # PDF_研究摘要_本港中學實施全面性教育研究
 
 <!-- tcd_download_link -->
-Download: [PDF_研究摘要_本港中學實施全面性教育研究.pdf](PDF_研究摘要_本港中學實施全面性教育研究.pdf)
+下载: [PDF_研究摘要_本港中學實施全面性教育研究.pdf](PDF_研究摘要_本港中學實施全面性教育研究.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

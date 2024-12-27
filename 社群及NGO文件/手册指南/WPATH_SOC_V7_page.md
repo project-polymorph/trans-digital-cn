@@ -1,7 +1,7 @@
 # WPATH_SOC_V7
 
 <!-- tcd_download_link -->
-Download: [WPATH_SOC_V7.pdf](WPATH_SOC_V7.pdf)
+下载: [WPATH_SOC_V7.pdf](WPATH_SOC_V7.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

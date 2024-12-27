@@ -1,7 +1,7 @@
 # PDF_获得医疗的法定权利to_health_care
 
 <!-- tcd_download_link -->
-Download: [PDF_获得医疗的法定权利to_health_care.pdf](PDF_获得医疗的法定权利to_health_care.pdf)
+下载: [PDF_获得医疗的法定权利to_health_care.pdf](PDF_获得医疗的法定权利to_health_care.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

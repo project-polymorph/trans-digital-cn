@@ -1,7 +1,7 @@
 # 為兒童和青少年保留選擇權
 
 <!-- tcd_download_link -->
-Download: [為兒童和青少年保留選擇權.pdf](為兒童和青少年保留選擇權.pdf)
+下载: [為兒童和青少年保留選擇權.pdf](為兒童和青少年保留選擇權.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

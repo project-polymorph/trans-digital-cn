@@ -1,7 +1,7 @@
 # PDF_HRT_激素替代疗法HRT_NHS_SCOTLAND
 
 <!-- tcd_download_link -->
-Download: [PDF_HRT_激素替代疗法HRT_NHS_SCOTLAND.pdf](PDF_HRT_激素替代疗法HRT_NHS_SCOTLAND.pdf)
+下载: [PDF_HRT_激素替代疗法HRT_NHS_SCOTLAND.pdf](PDF_HRT_激素替代疗法HRT_NHS_SCOTLAND.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

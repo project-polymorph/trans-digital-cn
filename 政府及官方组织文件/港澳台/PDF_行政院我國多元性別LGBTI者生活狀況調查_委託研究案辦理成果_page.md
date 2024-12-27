@@ -1,7 +1,7 @@
 # PDF_行政院我國多元性別LGBTI者生活狀況調查_委託研究案辦理成果
 
 <!-- tcd_download_link -->
-Download: [PDF_行政院我國多元性別LGBTI者生活狀況調查_委託研究案辦理成果.pdf](PDF_行政院我國多元性別LGBTI者生活狀況調查_委託研究案辦理成果.pdf)
+下载: [PDF_行政院我國多元性別LGBTI者生活狀況調查_委託研究案辦理成果.pdf](PDF_行政院我國多元性別LGBTI者生活狀況調查_委託研究案辦理成果.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

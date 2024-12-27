@@ -1,7 +1,7 @@
 # 酷儿电影中的跨性别身份认同
 
 <!-- tcd_download_link -->
-Download: [酷儿电影中的跨性别身份认同.pdf](酷儿电影中的跨性别身份认同.pdf)
+下载: [酷儿电影中的跨性别身份认同.pdf](酷儿电影中的跨性别身份认同.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

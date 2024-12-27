@@ -1,7 +1,7 @@
 # 应对扭转治疗手册
 
 <!-- tcd_download_link -->
-Download: [应对扭转治疗手册.pdf](应对扭转治疗手册.pdf)
+下载: [应对扭转治疗手册.pdf](应对扭转治疗手册.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

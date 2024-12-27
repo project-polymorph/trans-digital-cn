@@ -1,7 +1,7 @@
 # 常见假药
 
 <!-- tcd_download_link -->
-Download: [常见假药.pdf](常见假药.pdf)
+下载: [常见假药.pdf](常见假药.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

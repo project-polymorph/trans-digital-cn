@@ -1,7 +1,7 @@
 # 卑诗公园局包容性承诺报告
 
 <!-- tcd_download_link -->
-Download: [卑诗公园局包容性承诺报告.pdf](卑诗公园局包容性承诺报告.pdf)
+下载: [卑诗公园局包容性承诺报告.pdf](卑诗公园局包容性承诺报告.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

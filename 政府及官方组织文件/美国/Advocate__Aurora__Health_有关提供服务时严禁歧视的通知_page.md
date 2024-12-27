@@ -1,7 +1,7 @@
 # Advocate__Aurora__Health_有关提供服务时严禁歧视的通知
 
 <!-- tcd_download_link -->
-Download: [Advocate__Aurora__Health_有关提供服务时严禁歧视的通知.pdf](Advocate__Aurora__Health_有关提供服务时严禁歧视的通知.pdf)
+下载: [Advocate__Aurora__Health_有关提供服务时严禁歧视的通知.pdf](Advocate__Aurora__Health_有关提供服务时严禁歧视的通知.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

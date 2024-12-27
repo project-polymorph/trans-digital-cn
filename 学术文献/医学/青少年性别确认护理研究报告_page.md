@@ -1,7 +1,7 @@
 # 青少年性别确认护理研究报告
 
 <!-- tcd_download_link -->
-Download: [青少年性别确认护理研究报告.pdf](青少年性别确认护理研究报告.pdf)
+下载: [青少年性别确认护理研究报告.pdf](青少年性别确认护理研究报告.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

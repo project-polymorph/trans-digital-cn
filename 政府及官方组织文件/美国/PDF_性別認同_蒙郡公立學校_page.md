@@ -1,7 +1,7 @@
 # PDF_性別認同_蒙郡公立學校
 
 <!-- tcd_download_link -->
-Download: [PDF_性別認同_蒙郡公立學校.pdf](PDF_性別認同_蒙郡公立學校.pdf)
+下载: [PDF_性別認同_蒙郡公立學校.pdf](PDF_性別認同_蒙郡公立學校.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

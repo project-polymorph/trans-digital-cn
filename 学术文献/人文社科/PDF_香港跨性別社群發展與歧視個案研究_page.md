@@ -1,7 +1,7 @@
 # PDF_香港跨性別社群發展與歧視個案研究
 
 <!-- tcd_download_link -->
-Download: [PDF_香港跨性別社群發展與歧視個案研究.pdf](PDF_香港跨性別社群發展與歧視個案研究.pdf)
+下载: [PDF_香港跨性別社群發展與歧視個案研究.pdf](PDF_香港跨性別社群發展與歧視個案研究.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

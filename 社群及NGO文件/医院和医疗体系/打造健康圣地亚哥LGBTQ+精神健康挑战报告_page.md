@@ -1,7 +1,7 @@
 # 打造健康圣地亚哥LGBTQ+精神健康挑战报告
 
 <!-- tcd_download_link -->
-Download: [打造健康圣地亚哥LGBTQ+精神健康挑战报告.pdf](打造健康圣地亚哥LGBTQ+精神健康挑战报告.pdf)
+下载: [打造健康圣地亚哥LGBTQ+精神健康挑战报告.pdf](打造健康圣地亚哥LGBTQ+精神健康挑战报告.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

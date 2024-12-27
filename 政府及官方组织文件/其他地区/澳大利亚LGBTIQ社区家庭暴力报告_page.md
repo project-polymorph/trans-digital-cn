@@ -1,7 +1,7 @@
 # 澳大利亚LGBTIQ社区家庭暴力报告
 
 <!-- tcd_download_link -->
-Download: [澳大利亚LGBTIQ社区家庭暴力报告.pdf](澳大利亚LGBTIQ社区家庭暴力报告.pdf)
+下载: [澳大利亚LGBTIQ社区家庭暴力报告.pdf](澳大利亚LGBTIQ社区家庭暴力报告.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

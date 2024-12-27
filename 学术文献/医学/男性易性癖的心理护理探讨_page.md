@@ -1,7 +1,7 @@
 # 男性易性癖的心理护理探讨
 
 <!-- tcd_download_link -->
-Download: [男性易性癖的心理护理探讨.pdf](男性易性癖的心理护理探讨.pdf)
+下载: [男性易性癖的心理护理探讨.pdf](男性易性癖的心理护理探讨.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

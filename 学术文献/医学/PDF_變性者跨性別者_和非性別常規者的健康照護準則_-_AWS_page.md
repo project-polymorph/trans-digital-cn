@@ -1,7 +1,7 @@
 # PDF_變性者跨性別者_和非性別常規者的健康照護準則_-_AWS
 
 <!-- tcd_download_link -->
-Download: [PDF_變性者跨性別者_和非性別常規者的健康照護準則_-_AWS.pdf](PDF_變性者跨性別者_和非性別常規者的健康照護準則_-_AWS.pdf)
+下载: [PDF_變性者跨性別者_和非性別常規者的健康照護準則_-_AWS.pdf](PDF_變性者跨性別者_和非性別常規者的健康照護準則_-_AWS.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

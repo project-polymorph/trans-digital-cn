@@ -1,7 +1,7 @@
 # 循证医学与性医学研究探讨
 
 <!-- tcd_download_link -->
-Download: [循证医学与性医学研究探讨.pdf](循证医学与性医学研究探讨.pdf)
+下载: [循证医学与性医学研究探讨.pdf](循证医学与性医学研究探讨.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

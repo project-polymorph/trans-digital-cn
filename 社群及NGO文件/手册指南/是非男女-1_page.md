@@ -1,7 +1,7 @@
 # 是非男女-1
 
 <!-- tcd_download_link -->
-Download: [是非男女-1.pdf](是非男女-1.pdf)
+下载: [是非男女-1.pdf](是非男女-1.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

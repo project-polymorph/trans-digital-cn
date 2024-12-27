@@ -1,7 +1,7 @@
 # PDF_雌二醇凝胶临床应用指导建议
 
 <!-- tcd_download_link -->
-Download: [PDF_雌二醇凝胶临床应用指导建议.pdf](PDF_雌二醇凝胶临床应用指导建议.pdf)
+下载: [PDF_雌二醇凝胶临床应用指导建议.pdf](PDF_雌二醇凝胶临床应用指导建议.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

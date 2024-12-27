@@ -1,7 +1,7 @@
 # 芝加哥_性别认同歧视
 
 <!-- tcd_download_link -->
-Download: [芝加哥_性别认同歧视.pdf](芝加哥_性别认同歧视.pdf)
+下载: [芝加哥_性别认同歧视.pdf](芝加哥_性别认同歧视.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

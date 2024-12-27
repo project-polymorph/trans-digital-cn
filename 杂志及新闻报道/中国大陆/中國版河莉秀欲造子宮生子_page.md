@@ -1,7 +1,7 @@
 # 中國版河莉秀欲造子宮生子
 
 <!-- tcd_download_link -->
-Download: [中國版河莉秀欲造子宮生子.pdf](中國版河莉秀欲造子宮生子.pdf)
+下载: [中國版河莉秀欲造子宮生子.pdf](中國版河莉秀欲造子宮生子.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

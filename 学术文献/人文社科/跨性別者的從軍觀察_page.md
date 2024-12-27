@@ -1,7 +1,7 @@
 # 跨性別者的從軍觀察
 
 <!-- tcd_download_link -->
-Download: [跨性別者的從軍觀察.pdf](跨性別者的從軍觀察.pdf)
+下载: [跨性別者的從軍觀察.pdf](跨性別者的從軍觀察.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

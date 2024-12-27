@@ -1,7 +1,7 @@
 # PDF_真两性畸形合并先天性无子宫1例
 
 <!-- tcd_download_link -->
-Download: [PDF_真两性畸形合并先天性无子宫1例.pdf](PDF_真两性畸形合并先天性无子宫1例.pdf)
+下载: [PDF_真两性畸形合并先天性无子宫1例.pdf](PDF_真两性畸形合并先天性无子宫1例.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

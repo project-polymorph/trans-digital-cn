@@ -1,7 +1,7 @@
 # PDF_主題變性學生支持指南_關鍵術語定義_-_Hawaii_DOE
 
 <!-- tcd_download_link -->
-Download: [PDF_主題變性學生支持指南_關鍵術語定義_-_Hawaii_DOE.pdf](PDF_主題變性學生支持指南_關鍵術語定義_-_Hawaii_DOE.pdf)
+下载: [PDF_主題變性學生支持指南_關鍵術語定義_-_Hawaii_DOE.pdf](PDF_主題變性學生支持指南_關鍵術語定義_-_Hawaii_DOE.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

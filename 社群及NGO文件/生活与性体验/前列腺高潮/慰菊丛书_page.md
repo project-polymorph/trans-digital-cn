@@ -1,7 +1,7 @@
 # 慰菊丛书
 
 <!-- tcd_download_link -->
-Download: [慰菊丛书.pdf](慰菊丛书.pdf)
+下载: [慰菊丛书.pdf](慰菊丛书.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

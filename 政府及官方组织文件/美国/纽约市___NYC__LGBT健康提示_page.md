@@ -1,7 +1,7 @@
 # 纽约市__(NYC)_LGBT健康提示
 
 <!-- tcd_download_link -->
-Download: [纽约市__(NYC)_LGBT健康提示.pdf](纽约市__(NYC)_LGBT健康提示.pdf)
+下载: [纽约市___NYC__LGBT健康提示.pdf](纽约市___NYC__LGBT健康提示.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

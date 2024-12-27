@@ -1,7 +1,7 @@
 # CareOregon_性別確認照護
 
 <!-- tcd_download_link -->
-Download: [CareOregon_性別確認照護.pdf](CareOregon_性別確認照護.pdf)
+下载: [CareOregon_性別確認照護.pdf](CareOregon_性別確認照護.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

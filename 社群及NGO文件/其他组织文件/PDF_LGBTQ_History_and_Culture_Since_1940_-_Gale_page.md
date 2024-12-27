@@ -1,7 +1,7 @@
 # PDF_LGBTQ_History_and_Culture_Since_1940_-_Gale
 
 <!-- tcd_download_link -->
-Download: [PDF_LGBTQ_History_and_Culture_Since_1940_-_Gale.pdf](PDF_LGBTQ_History_and_Culture_Since_1940_-_Gale.pdf)
+下载: [PDF_LGBTQ_History_and_Culture_Since_1940_-_Gale.pdf](PDF_LGBTQ_History_and_Culture_Since_1940_-_Gale.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

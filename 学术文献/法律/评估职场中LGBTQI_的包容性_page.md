@@ -1,7 +1,7 @@
 # 评估职场中LGBTQI_的包容性
 
 <!-- tcd_download_link -->
-Download: [评估职场中LGBTQI_的包容性.pdf](评估职场中LGBTQI_的包容性.pdf)
+下载: [评估职场中LGBTQI_的包容性.pdf](评估职场中LGBTQI_的包容性.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 对歧视骚扰零容忍政策报告
 
 <!-- tcd_download_link -->
-Download: [对歧视骚扰零容忍政策报告.pdf](对歧视骚扰零容忍政策报告.pdf)
+下载: [对歧视骚扰零容忍政策报告.pdf](对歧视骚扰零容忍政策报告.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

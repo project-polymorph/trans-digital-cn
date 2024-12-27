@@ -1,7 +1,7 @@
 # PDF_中国大陆对LGBTQ_群体的正面态度
 
 <!-- tcd_download_link -->
-Download: [PDF_中国大陆对LGBTQ_群体的正面态度.pdf](PDF_中国大陆对LGBTQ_群体的正面态度.pdf)
+下载: [PDF_中国大陆对LGBTQ_群体的正面态度.pdf](PDF_中国大陆对LGBTQ_群体的正面态度.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # LGBTQI+抗争中的双语表达_2023_ANU_Press
 
 <!-- tcd_download_link -->
-Download: [LGBTQI+抗争中的双语表达_2023_ANU_Press.pdf](LGBTQI+抗争中的双语表达_2023_ANU_Press.pdf)
+下载: [LGBTQI+抗争中的双语表达_2023_ANU_Press.pdf](LGBTQI+抗争中的双语表达_2023_ANU_Press.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

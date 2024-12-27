@@ -1,7 +1,7 @@
 # 联合国难民署男同性恋双性恋变性人间性人和酷儿LGBTIQ
 
 <!-- tcd_download_link -->
-Download: [联合国难民署男同性恋双性恋变性人间性人和酷儿LGBTIQ.pdf](联合国难民署男同性恋双性恋变性人间性人和酷儿LGBTIQ.pdf)
+下载: [联合国难民署男同性恋双性恋变性人间性人和酷儿LGBTIQ.pdf](联合国难民署男同性恋双性恋变性人间性人和酷儿LGBTIQ.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 国际劳工组织_跨性别者间性人和酷儿LGBTIQ融入劳动世界
 
 <!-- tcd_download_link -->
-Download: [国际劳工组织_跨性别者间性人和酷儿LGBTIQ融入劳动世界.pdf](国际劳工组织_跨性别者间性人和酷儿LGBTIQ融入劳动世界.pdf)
+下载: [国际劳工组织_跨性别者间性人和酷儿LGBTIQ融入劳动世界.pdf](国际劳工组织_跨性别者间性人和酷儿LGBTIQ融入劳动世界.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

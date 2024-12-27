@@ -1,7 +1,7 @@
 # 中国性研究_性别起点论
 
 <!-- tcd_download_link -->
-Download: [中国性研究_性别起点论.pdf](中国性研究_性别起点论.pdf)
+下载: [中国性研究_性别起点论.pdf](中国性研究_性别起点论.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

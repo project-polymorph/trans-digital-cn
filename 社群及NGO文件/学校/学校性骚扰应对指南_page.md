@@ -1,7 +1,7 @@
 # 学校性骚扰应对指南
 
 <!-- tcd_download_link -->
-Download: [学校性骚扰应对指南.pdf](学校性骚扰应对指南.pdf)
+下载: [学校性骚扰应对指南.pdf](学校性骚扰应对指南.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

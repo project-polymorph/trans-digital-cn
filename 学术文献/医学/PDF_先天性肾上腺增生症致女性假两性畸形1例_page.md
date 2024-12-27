@@ -1,7 +1,7 @@
 # PDF_先天性肾上腺增生症致女性假两性畸形1例
 
 <!-- tcd_download_link -->
-Download: [PDF_先天性肾上腺增生症致女性假两性畸形1例.pdf](PDF_先天性肾上腺增生症致女性假两性畸形1例.pdf)
+下载: [PDF_先天性肾上腺增生症致女性假两性畸形1例.pdf](PDF_先天性肾上腺增生症致女性假两性畸形1例.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

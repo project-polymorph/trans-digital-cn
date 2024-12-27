@@ -1,7 +1,7 @@
 # T_S_W简报09_跨性别性工作者的需求与权利
 
 <!-- tcd_download_link -->
-Download: [T_S_W简报09_跨性别性工作者的需求与权利.pdf](T_S_W简报09_跨性别性工作者的需求与权利.pdf)
+下载: [T_S_W简报09_跨性别性工作者的需求与权利.pdf](T_S_W简报09_跨性别性工作者的需求与权利.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

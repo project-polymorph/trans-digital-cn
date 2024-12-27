@@ -1,7 +1,7 @@
 # 一个变性手术专家的手记
 
 <!-- tcd_download_link -->
-Download: [一个变性手术专家的手记.pdf](一个变性手术专家的手记.pdf)
+下载: [一个变性手术专家的手记.pdf](一个变性手术专家的手记.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

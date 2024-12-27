@@ -1,7 +1,7 @@
 # hormones_MTF
 
 <!-- tcd_download_link -->
-Download: [hormones_MTF.pdf](hormones_MTF.pdf)
+下载: [hormones_MTF.pdf](hormones_MTF.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

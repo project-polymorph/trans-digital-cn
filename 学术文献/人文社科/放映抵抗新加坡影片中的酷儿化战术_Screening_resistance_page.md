@@ -1,7 +1,7 @@
 # 放映抵抗新加坡影片中的酷儿化战术_Screening_resistance
 
 <!-- tcd_download_link -->
-Download: [放映抵抗新加坡影片中的酷儿化战术_Screening_resistance.pdf](放映抵抗新加坡影片中的酷儿化战术_Screening_resistance.pdf)
+下载: [放映抵抗新加坡影片中的酷儿化战术_Screening_resistance.pdf](放映抵抗新加坡影片中的酷儿化战术_Screening_resistance.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

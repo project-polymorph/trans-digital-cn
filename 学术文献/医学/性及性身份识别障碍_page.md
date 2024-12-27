@@ -1,7 +1,7 @@
 # 性及性身份识别障碍
 
 <!-- tcd_download_link -->
-Download: [性及性身份识别障碍.pdf](性及性身份识别障碍.pdf)
+下载: [性及性身份识别障碍.pdf](性及性身份识别障碍.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

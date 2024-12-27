@@ -1,7 +1,7 @@
 # 妇女权益保障法修订草案意见征集指南_2023_Rachel
 
 <!-- tcd_download_link -->
-Download: [妇女权益保障法修订草案意见征集指南_2023_Rachel.pdf](妇女权益保障法修订草案意见征集指南_2023_Rachel.pdf)
+下载: [妇女权益保障法修订草案意见征集指南_2023_Rachel.pdf](妇女权益保障法修订草案意见征集指南_2023_Rachel.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

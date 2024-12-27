@@ -1,7 +1,7 @@
 # PDF_歌曲文本的性别符号传播
 
 <!-- tcd_download_link -->
-Download: [PDF_歌曲文本的性别符号传播.pdf](PDF_歌曲文本的性别符号传播.pdf)
+下载: [PDF_歌曲文本的性别符号传播.pdf](PDF_歌曲文本的性别符号传播.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

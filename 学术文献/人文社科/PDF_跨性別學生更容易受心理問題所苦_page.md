@@ -1,7 +1,7 @@
 # PDF_跨性別學生更容易受心理問題所苦
 
 <!-- tcd_download_link -->
-Download: [PDF_跨性別學生更容易受心理問題所苦.pdf](PDF_跨性別學生更容易受心理問題所苦.pdf)
+下载: [PDF_跨性別學生更容易受心理問題所苦.pdf](PDF_跨性別學生更容易受心理問題所苦.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

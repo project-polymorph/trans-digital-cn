@@ -1,7 +1,7 @@
 # 虛實之間Cosplay_中的反串行為與性別認同
 
 <!-- tcd_download_link -->
-Download: [虛實之間Cosplay_中的反串行為與性別認同.pdf](虛實之間Cosplay_中的反串行為與性別認同.pdf)
+下载: [虛實之間Cosplay_中的反串行為與性別認同.pdf](虛實之間Cosplay_中的反串行為與性別認同.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

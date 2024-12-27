@@ -1,7 +1,7 @@
 # 巴特勒作品集
 
 <!-- tcd_download_link -->
-Download: [巴特勒作品集.pdf](巴特勒作品集.pdf)
+下载: [巴特勒作品集.pdf](巴特勒作品集.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 图解现代人心理新话题
 
 <!-- tcd_download_link -->
-Download: [图解现代人心理新话题.pdf](图解现代人心理新话题.pdf)
+下载: [图解现代人心理新话题.pdf](图解现代人心理新话题.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

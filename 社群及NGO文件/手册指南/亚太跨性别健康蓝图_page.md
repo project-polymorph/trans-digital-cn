@@ -1,7 +1,7 @@
 # 亚太跨性别健康蓝图
 
 <!-- tcd_download_link -->
-Download: [亚太跨性别健康蓝图.pdf](亚太跨性别健康蓝图.pdf)
+下载: [亚太跨性别健康蓝图.pdf](亚太跨性别健康蓝图.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

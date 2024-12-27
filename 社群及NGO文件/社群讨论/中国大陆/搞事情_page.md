@@ -1,7 +1,7 @@
 # 搞事情
 
 <!-- tcd_download_link -->
-Download: [搞事情.pdf](搞事情.pdf)
+下载: [搞事情.pdf](搞事情.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

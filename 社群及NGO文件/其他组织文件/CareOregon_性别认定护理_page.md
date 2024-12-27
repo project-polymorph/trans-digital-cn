@@ -1,7 +1,7 @@
 # CareOregon_性别认定护理
 
 <!-- tcd_download_link -->
-Download: [CareOregon_性别认定护理.pdf](CareOregon_性别认定护理.pdf)
+下载: [CareOregon_性别认定护理.pdf](CareOregon_性别认定护理.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

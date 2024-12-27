@@ -1,7 +1,7 @@
 # 2020年迈克尔·尤因印度尼西亚LGBT应用影响研究
 
 <!-- tcd_download_link -->
-Download: [2020年迈克尔·尤因印度尼西亚LGBT应用影响研究.pdf](2020年迈克尔·尤因印度尼西亚LGBT应用影响研究.pdf)
+下载: [2020年迈克尔·尤因印度尼西亚LGBT应用影响研究.pdf](2020年迈克尔·尤因印度尼西亚LGBT应用影响研究.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

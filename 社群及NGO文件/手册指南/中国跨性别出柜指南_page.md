@@ -1,7 +1,7 @@
 # 中国跨性别出柜指南
 
 <!-- tcd_download_link -->
-Download: [中国跨性别出柜指南.pdf](中国跨性别出柜指南.pdf)
+下载: [中国跨性别出柜指南.pdf](中国跨性别出柜指南.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

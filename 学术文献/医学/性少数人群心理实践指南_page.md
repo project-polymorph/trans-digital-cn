@@ -1,7 +1,7 @@
 # 性少数人群心理实践指南
 
 <!-- tcd_download_link -->
-Download: [性少数人群心理实践指南.pdf](性少数人群心理实践指南.pdf)
+下载: [性少数人群心理实践指南.pdf](性少数人群心理实践指南.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

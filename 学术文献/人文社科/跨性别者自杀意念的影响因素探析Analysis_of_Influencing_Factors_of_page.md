@@ -1,7 +1,7 @@
 # 跨性别者自杀意念的影响因素探析Analysis_of_Influencing_Factors_of
 
 <!-- tcd_download_link -->
-Download: [跨性别者自杀意念的影响因素探析Analysis_of_Influencing_Factors_of.pdf](跨性别者自杀意念的影响因素探析Analysis_of_Influencing_Factors_of.pdf)
+下载: [跨性别者自杀意念的影响因素探析Analysis_of_Influencing_Factors_of.pdf](跨性别者自杀意念的影响因素探析Analysis_of_Influencing_Factors_of.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

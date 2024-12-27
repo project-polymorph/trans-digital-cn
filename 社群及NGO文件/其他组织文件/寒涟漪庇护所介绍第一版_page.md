@@ -1,7 +1,7 @@
 # 寒涟漪庇护所介绍第一版
 
 <!-- tcd_download_link -->
-Download: [寒涟漪庇护所介绍第一版.pdf](寒涟漪庇护所介绍第一版.pdf)
+下载: [寒涟漪庇护所介绍第一版.pdf](寒涟漪庇护所介绍第一版.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

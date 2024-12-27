@@ -1,7 +1,7 @@
 # 易性癖外科治疗八例_杨东
 
 <!-- tcd_download_link -->
-Download: [易性癖外科治疗八例_杨东.pdf](易性癖外科治疗八例_杨东.pdf)
+下载: [易性癖外科治疗八例_杨东.pdf](易性癖外科治疗八例_杨东.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # PDF_三個不利跨性身分的迷思_-_Dean_Spade
 
 <!-- tcd_download_link -->
-Download: [PDF_三個不利跨性身分的迷思_-_Dean_Spade.pdf](PDF_三個不利跨性身分的迷思_-_Dean_Spade.pdf)
+下载: [PDF_三個不利跨性身分的迷思_-_Dean_Spade.pdf](PDF_三個不利跨性身分的迷思_-_Dean_Spade.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

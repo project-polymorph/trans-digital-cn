@@ -1,7 +1,7 @@
 # PDF_低剂量阴道雌激素治疗患者指南
 
 <!-- tcd_download_link -->
-Download: [PDF_低剂量阴道雌激素治疗患者指南.pdf](PDF_低剂量阴道雌激素治疗患者指南.pdf)
+下载: [PDF_低剂量阴道雌激素治疗患者指南.pdf](PDF_低剂量阴道雌激素治疗患者指南.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

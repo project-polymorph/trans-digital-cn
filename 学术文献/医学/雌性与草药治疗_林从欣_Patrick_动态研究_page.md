@@ -1,7 +1,7 @@
 # 雌性与草药治疗_林从欣_Patrick_动态研究
 
 <!-- tcd_download_link -->
-Download: [雌性与草药治疗_林从欣_Patrick_动态研究.pdf](雌性与草药治疗_林从欣_Patrick_动态研究.pdf)
+下载: [雌性与草药治疗_林从欣_Patrick_动态研究.pdf](雌性与草药治疗_林从欣_Patrick_动态研究.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

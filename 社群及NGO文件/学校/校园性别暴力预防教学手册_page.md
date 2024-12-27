@@ -1,7 +1,7 @@
 # 校园性别暴力预防教学手册
 
 <!-- tcd_download_link -->
-Download: [校园性别暴力预防教学手册.pdf](校园性别暴力预防教学手册.pdf)
+下载: [校园性别暴力预防教学手册.pdf](校园性别暴力预防教学手册.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

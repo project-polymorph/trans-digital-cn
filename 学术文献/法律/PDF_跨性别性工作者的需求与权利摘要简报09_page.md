@@ -1,7 +1,7 @@
 # PDF_跨性别性工作者的需求与权利摘要简报09
 
 <!-- tcd_download_link -->
-Download: [PDF_跨性别性工作者的需求与权利摘要简报09.pdf](PDF_跨性别性工作者的需求与权利摘要简报09.pdf)
+下载: [PDF_跨性别性工作者的需求与权利摘要简报09.pdf](PDF_跨性别性工作者的需求与权利摘要简报09.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # PDF_性工作者经济赋权简报
 
 <!-- tcd_download_link -->
-Download: [PDF_性工作者经济赋权简报.pdf](PDF_性工作者经济赋权简报.pdf)
+下载: [PDF_性工作者经济赋权简报.pdf](PDF_性工作者经济赋权简报.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

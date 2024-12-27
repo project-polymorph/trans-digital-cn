@@ -1,7 +1,7 @@
 # PDF_性别表演新潮演剧中的男扮女装
 
 <!-- tcd_download_link -->
-Download: [PDF_性别表演新潮演剧中的男扮女装.pdf](PDF_性别表演新潮演剧中的男扮女装.pdf)
+下载: [PDF_性别表演新潮演剧中的男扮女装.pdf](PDF_性别表演新潮演剧中的男扮女装.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

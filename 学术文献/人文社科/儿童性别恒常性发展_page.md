@@ -1,7 +1,7 @@
 # 儿童性别恒常性发展
 
 <!-- tcd_download_link -->
-Download: [儿童性别恒常性发展.pdf](儿童性别恒常性发展.pdf)
+下载: [儿童性别恒常性发展.pdf](儿童性别恒常性发展.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

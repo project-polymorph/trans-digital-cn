@@ -1,7 +1,7 @@
 # 酷儿新声_性／別研究丛書
 
 <!-- tcd_download_link -->
-Download: [酷儿新声_性／別研究丛書.pdf](酷儿新声_性／別研究丛書.pdf)
+下载: [酷儿新声_性／別研究丛書.pdf](酷儿新声_性／別研究丛書.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

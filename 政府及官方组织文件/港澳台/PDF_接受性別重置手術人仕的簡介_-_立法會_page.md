@@ -1,7 +1,7 @@
 # PDF_接受性別重置手術人仕的簡介_-_立法會
 
 <!-- tcd_download_link -->
-Download: [PDF_接受性別重置手術人仕的簡介_-_立法會.pdf](PDF_接受性別重置手術人仕的簡介_-_立法會.pdf)
+下载: [PDF_接受性別重置手術人仕的簡介_-_立法會.pdf](PDF_接受性別重置手術人仕的簡介_-_立法會.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

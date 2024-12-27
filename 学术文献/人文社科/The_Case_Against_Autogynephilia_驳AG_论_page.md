@@ -1,7 +1,7 @@
 # The_Case_Against_Autogynephilia_驳AG_论
 
 <!-- tcd_download_link -->
-Download: [The_Case_Against_Autogynephilia_驳AG_论.pdf](The_Case_Against_Autogynephilia_驳AG_论.pdf)
+下载: [The_Case_Against_Autogynephilia_驳AG_论.pdf](The_Case_Against_Autogynephilia_驳AG_论.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

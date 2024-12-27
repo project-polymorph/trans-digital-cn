@@ -1,7 +1,7 @@
 # PDF_国内LGBTQ社区建设经验分享
 
 <!-- tcd_download_link -->
-Download: [PDF_国内LGBTQ社区建设经验分享.pdf](PDF_国内LGBTQ社区建设经验分享.pdf)
+下载: [PDF_国内LGBTQ社区建设经验分享.pdf](PDF_国内LGBTQ社区建设经验分享.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

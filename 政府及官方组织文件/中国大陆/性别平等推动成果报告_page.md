@@ -1,7 +1,7 @@
 # 性别平等推动成果报告
 
 <!-- tcd_download_link -->
-Download: [性别平等推动成果报告.pdf](性别平等推动成果报告.pdf)
+下载: [性别平等推动成果报告.pdf](性别平等推动成果报告.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

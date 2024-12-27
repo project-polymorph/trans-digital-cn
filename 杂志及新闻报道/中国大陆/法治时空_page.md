@@ -1,7 +1,7 @@
 # 法治时空
 
 <!-- tcd_download_link -->
-Download: [法治时空.pdf](法治时空.pdf)
+下载: [法治时空.pdf](法治时空.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

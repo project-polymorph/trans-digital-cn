@@ -11,6 +11,13 @@ tags:
 - NGO
 license: ''
 files:
+- name: 2021年度多元与包容报告_拳头公司
+  filename: 2021年度多元与包容报告_拳头公司.pdf
+  type: document
+  format: PDF Document
+  size: 2592687
+  md5: 18b67646c4aa65c7e7891719868b827b
+  page: 2021年度多元与包容报告_拳头公司_page.md
 - name: 2023_陪伴支持与多元文化社区服务报告
   filename: 2023_陪伴支持与多元文化社区服务报告.pdf
   type: document
@@ -32,6 +39,13 @@ files:
   size: 505511
   md5: 2b1bfef5b6e90b083013e76d91a6a905
   page: CareOregon_性别认定护理_page.md
+- name: GALE精选图书目录_2023-2024
+  filename: GALE精选图书目录_2023-2024.pdf
+  type: document
+  format: PDF Document
+  size: 4517425
+  md5: 026edddc2b4ffecff7d30199b3909238
+  page: GALE精选图书目录_2023-2024_page.md
 - name: PDF_LGBTQ_History_and_Culture_Since_1940_-_Gale
   filename: PDF_LGBTQ_History_and_Culture_Since_1940_-_Gale.pdf
   type: document
@@ -165,6 +179,13 @@ files:
   size: 274287
   md5: 7821fc43dd5ef4560ad4f241c9075df9
   page: 药明生物员工多元化政策_2023_page.md
+- name: 跨儿心理-跨儿心理工作手册
+  filename: 跨儿心理-跨儿心理工作手册.pdf
+  type: document
+  format: PDF Document
+  size: 3267324
+  md5: 11a5bb55bade581b8fe0f33578f4a589
+  page: 跨儿心理-跨儿心理工作手册_page.md
 - name: 跨性别子女父母心声分享——后同盟提供的支持
   filename: 跨性别子女父母心声分享——后同盟提供的支持.pdf
   type: document

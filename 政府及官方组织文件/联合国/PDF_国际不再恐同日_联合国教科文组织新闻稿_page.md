@@ -1,7 +1,7 @@
 # PDF_国际不再恐同日_联合国教科文组织新闻稿
 
 <!-- tcd_download_link -->
-Download: [PDF_国际不再恐同日_联合国教科文组织新闻稿.pdf](PDF_国际不再恐同日_联合国教科文组织新闻稿.pdf)
+下载: [PDF_国际不再恐同日_联合国教科文组织新闻稿.pdf](PDF_国际不再恐同日_联合国教科文组织新闻稿.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

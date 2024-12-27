@@ -1,7 +1,7 @@
 # PDF_專訪雙性人細細老師
 
 <!-- tcd_download_link -->
-Download: [PDF_專訪雙性人細細老師.pdf](PDF_專訪雙性人細細老師.pdf)
+下载: [PDF_專訪雙性人細細老師.pdf](PDF_專訪雙性人細細老師.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

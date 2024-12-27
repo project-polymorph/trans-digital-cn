@@ -1,7 +1,7 @@
 # 住房需求评估与援助指南
 
 <!-- tcd_download_link -->
-Download: [住房需求评估与援助指南.pdf](住房需求评估与援助指南.pdf)
+下载: [住房需求评估与援助指南.pdf](住房需求评估与援助指南.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

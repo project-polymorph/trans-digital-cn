@@ -1,7 +1,7 @@
 # 压枪详细教程
 
 <!-- tcd_download_link -->
-Download: [压枪详细教程.pdf](压枪详细教程.pdf)
+下载: [压枪详细教程.pdf](压枪详细教程.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

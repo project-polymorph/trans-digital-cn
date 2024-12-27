@@ -1,7 +1,7 @@
 # 男性性别认同与心理健康研究_Pink_Therapy
 
 <!-- tcd_download_link -->
-Download: [男性性别认同与心理健康研究_Pink_Therapy.pdf](男性性别认同与心理健康研究_Pink_Therapy.pdf)
+下载: [男性性别认同与心理健康研究_Pink_Therapy.pdf](男性性别认同与心理健康研究_Pink_Therapy.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

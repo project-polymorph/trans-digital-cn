@@ -1,7 +1,7 @@
 # PDF_反人权运动对性工作者的影响简报
 
 <!-- tcd_download_link -->
-Download: [PDF_反人权运动对性工作者的影响简报.pdf](PDF_反人权运动对性工作者的影响简报.pdf)
+下载: [PDF_反人权运动对性工作者的影响简报.pdf](PDF_反人权运动对性工作者的影响简报.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

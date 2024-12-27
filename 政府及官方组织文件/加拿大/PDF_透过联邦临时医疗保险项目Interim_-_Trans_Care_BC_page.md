@@ -1,7 +1,7 @@
 # PDF_透过联邦临时医疗保险项目Interim_-_Trans_Care_BC
 
 <!-- tcd_download_link -->
-Download: [PDF_透过联邦临时医疗保险项目Interim_-_Trans_Care_BC.pdf](PDF_透过联邦临时医疗保险项目Interim_-_Trans_Care_BC.pdf)
+下载: [PDF_透过联邦临时医疗保险项目Interim_-_Trans_Care_BC.pdf](PDF_透过联邦临时医疗保险项目Interim_-_Trans_Care_BC.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

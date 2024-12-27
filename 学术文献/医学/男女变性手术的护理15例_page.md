@@ -1,7 +1,7 @@
 # 男女变性手术的护理15例
 
 <!-- tcd_download_link -->
-Download: [男女变性手术的护理15例.pdf](男女变性手术的护理15例.pdf)
+下载: [男女变性手术的护理15例.pdf](男女变性手术的护理15例.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

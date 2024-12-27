@@ -1,7 +1,7 @@
 # 经济及社会理事会
 
 <!-- tcd_download_link -->
-Download: [经济及社会理事会.pdf](经济及社会理事会.pdf)
+下载: [经济及社会理事会.pdf](经济及社会理事会.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

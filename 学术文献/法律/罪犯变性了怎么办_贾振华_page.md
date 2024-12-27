@@ -1,7 +1,7 @@
 # 罪犯变性了怎么办_贾振华
 
 <!-- tcd_download_link -->
-Download: [罪犯变性了怎么办_贾振华.pdf](罪犯变性了怎么办_贾振华.pdf)
+下载: [罪犯变性了怎么办_贾振华.pdf](罪犯变性了怎么办_贾振华.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

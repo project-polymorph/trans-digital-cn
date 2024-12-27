@@ -1,7 +1,7 @@
 # PDF_與人士相遇於工作間_-_Gender_Empowerment_性別空間
 
 <!-- tcd_download_link -->
-Download: [PDF_與人士相遇於工作間_-_Gender_Empowerment_性別空間.pdf](PDF_與人士相遇於工作間_-_Gender_Empowerment_性別空間.pdf)
+下载: [PDF_與人士相遇於工作間_-_Gender_Empowerment_性別空間.pdf](PDF_與人士相遇於工作間_-_Gender_Empowerment_性別空間.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

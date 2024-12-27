@@ -1,7 +1,7 @@
 # PDF_北京2019_年跨性别医疗学术研讨会_-_WPATH
 
 <!-- tcd_download_link -->
-Download: [PDF_北京2019_年跨性别医疗学术研讨会_-_WPATH.pdf](PDF_北京2019_年跨性别医疗学术研讨会_-_WPATH.pdf)
+下载: [PDF_北京2019_年跨性别医疗学术研讨会_-_WPATH.pdf](PDF_北京2019_年跨性别医疗学术研讨会_-_WPATH.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

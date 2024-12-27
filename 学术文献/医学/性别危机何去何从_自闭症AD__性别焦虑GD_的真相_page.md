@@ -1,7 +1,7 @@
 # 性别危机何去何从_自闭症AD__性别焦虑GD_的真相
 
 <!-- tcd_download_link -->
-Download: [性别危机何去何从_自闭症AD__性别焦虑GD_的真相.pdf](性别危机何去何从_自闭症AD__性别焦虑GD_的真相.pdf)
+下载: [性别危机何去何从_自闭症AD__性别焦虑GD_的真相.pdf](性别危机何去何从_自闭症AD__性别焦虑GD_的真相.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

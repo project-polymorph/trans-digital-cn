@@ -472,7 +472,7 @@
   md5: 4b899cdddd0f86c17fff90b0465acccb
 2021年度多元与包容报告_拳头公司.pdf:
   name: 2021年度多元与包容报告_拳头公司.pdf
-  path: 杂志及新闻报道/海外/2021年度多元与包容报告_拳头公司.pdf
+  path: 社群及NGO文件/其他组织文件/2021年度多元与包容报告_拳头公司.pdf
   md5: 18b67646c4aa65c7e7891719868b827b
 2021年拳头游戏多元与包容进展报告.pdf:
   name: 2021年拳头游戏多元与包容进展报告.pdf
@@ -512,7 +512,7 @@
   md5: 92420ecf110efa3e5ef2550202b1d0b2
 2023_多元性别与媒体再现.pdf:
   name: 2023_多元性别与媒体再现.pdf
-  path: 学术文献/2023_多元性别与媒体再现.pdf
+  path: 学术文献/人文社科/2023_多元性别与媒体再现.pdf
   md5: e94162284dd1358d987ada6abc7444de
 2023_年兒童青少年精神科專科醫師繼續教育課程_跨性別與性別多元化.pdf:
   name: 2023_年兒童青少年精神科專科醫師繼續教育課程_跨性別與性別多元化.pdf
@@ -592,7 +592,7 @@
   md5: b3765dda40c2ea3251d349ae583701d5
 2024年威尼斯双年展素人艺术家展评.pdf:
   name: 2024年威尼斯双年展素人艺术家展评.pdf
-  path: 文学作品和艺术创作/2024年威尼斯双年展素人艺术家展评.pdf
+  path: 文学作品和艺术创作/其他/2024年威尼斯双年展素人艺术家展评.pdf
   md5: a917c0611a68126b806cc1f41fe83ab6
 2024年波士顿老年人需求评估报告.pdf:
   name: 2024年波士顿老年人需求评估报告.pdf
@@ -750,6 +750,10 @@
   name: 8.png
   path: 文学作品和艺术创作/自传/一个阉人的真实故事/8.png
   md5: 10d14df4b6f84ee433f14a748965a15c
+801137525-野史3-为防止拼多多盗印暂不提供封面.pdf:
+  name: 801137525-野史3-为防止拼多多盗印暂不提供封面.pdf
+  path: 文学作品和艺术创作/其他/801137525-野史3-为防止拼多多盗印暂不提供封面.pdf
+  md5: c497cd4ec54fd0e79aab6e9837ac7e85
 9.png:
   name: 9.png
   path: 文学作品和艺术创作/自传/一个阉人的真实故事/9.png
@@ -796,7 +800,7 @@ G05_性别重置技术临床应用管理规范.pdf:
   md5: c21f01d4ca58541cb10d2e965ea73a5d
 GALE精选图书目录_2023-2024.pdf:
   name: GALE精选图书目录_2023-2024.pdf
-  path: 学术文献/GALE精选图书目录_2023-2024.pdf
+  path: 社群及NGO文件/其他组织文件/GALE精选图书目录_2023-2024.pdf
   md5: 026edddc2b4ffecff7d30199b3909238
 Gossip_Boys_and_Girls_-_跨性別資源中心.pdf:
   name: Gossip_Boys_and_Girls_-_跨性別資源中心.pdf
@@ -970,9 +974,9 @@ PDF_促进LGBTI人权和包容_议员手册.pdf:
   name: PDF_促进LGBTI人权和包容_议员手册.pdf
   path: 政府及官方组织文件/联合国/PDF_促进LGBTI人权和包容_议员手册.pdf
   md5: 7958613d21381f63c0f505baa0572ed3
-PDF_先天性结构畸形救助项目(2021年版).pdf:
-  name: PDF_先天性结构畸形救助项目(2021年版).pdf
-  path: 政府及官方组织文件/中国大陆/PDF_先天性结构畸形救助项目(2021年版).pdf
+PDF_先天性结构畸形救助项目_2021年版_.pdf:
+  name: PDF_先天性结构畸形救助项目_2021年版_.pdf
+  path: 政府及官方组织文件/中国大陆/PDF_先天性结构畸形救助项目_2021年版_.pdf
   md5: 629ba870448d274ab34cb4484bcc1a81
 PDF_先天性肾上腺增生症致女性假两性畸形1例.pdf:
   name: PDF_先天性肾上腺增生症致女性假两性畸形1例.pdf
@@ -1378,9 +1382,9 @@ PDF_解讀台灣綜藝節目反串模仿秀_的性別文化_-_中央大學性別
   name: PDF_解讀台灣綜藝節目反串模仿秀_的性別文化_-_中央大學性別研究室.pdf
   path: 学术文献/人文社科/PDF_解讀台灣綜藝節目反串模仿秀_的性別文化_-_中央大學性別研究室.pdf
   md5: 58b215aea4cdfb2be61f9c0deb85cecf
-PDF_認識多元性別_分享人處王振圍(好性會秘書長).pdf:
-  name: PDF_認識多元性別_分享人處王振圍(好性會秘書長).pdf
-  path: 学术文献/人文社科/PDF_認識多元性別_分享人處王振圍(好性會秘書長).pdf
+PDF_認識多元性別_分享人處王振圍_好性會秘書長_.pdf:
+  name: PDF_認識多元性別_分享人處王振圍_好性會秘書長_.pdf
+  path: 学术文献/人文社科/PDF_認識多元性別_分享人處王振圍_好性會秘書長_.pdf
   md5: 72b06172eddb058ac8eb076869b128a0
 PDF_認識多元性別打開性別的眼睛第183期.pdf:
   name: PDF_認識多元性別打開性別的眼睛第183期.pdf
@@ -1550,6 +1554,10 @@ WPATH_SOC_V7.pdf:
   name: WPATH_SOC_V7.pdf
   path: 社群及NGO文件/手册指南/WPATH_SOC_V7.pdf
   md5: b9ed2f347e493da7dd9c2c4fb4040ee5
+_其他__说好的论文，论变身小说的两种流派.txt:
+  name: _其他__说好的论文，论变身小说的两种流派.txt
+  path: 文学作品和艺术创作/小说/_其他__说好的论文，论变身小说的两种流派.txt
+  md5: b18bd68300bc6a1b7cfc3040608f9f47
 hormones_MTF.pdf:
   name: hormones_MTF.pdf
   path: 学术文献/医学/hormones_MTF.pdf
@@ -1858,9 +1866,9 @@ q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf:
   name: 伪娘的一年训练.pdf
   path: 社群及NGO文件/生活与性体验/伪娘教程或训练/伪娘的一年训练.pdf
   md5: 73fc4dd0fc15e1f190b41bffdc0b26f5
-伴您同行_专为跨性别儿童的父母准备的指南(SG出柜指南_原版).pdf:
-  name: 伴您同行_专为跨性别儿童的父母准备的指南(SG出柜指南_原版).pdf
-  path: 社群及NGO文件/手册指南/伴您同行_专为跨性别儿童的父母准备的指南(SG出柜指南_原版).pdf
+伴您同行_专为跨性别儿童的父母准备的指南_SG出柜指南_原版_.pdf:
+  name: 伴您同行_专为跨性别儿童的父母准备的指南_SG出柜指南_原版_.pdf
+  path: 社群及NGO文件/手册指南/伴您同行_专为跨性别儿童的父母准备的指南_SG出柜指南_原版_.pdf
   md5: b35dcebc987983a703784091f2914fa6
 住房歧视保护与LGBTQ+权益.pdf:
   name: 住房歧视保护与LGBTQ+权益.pdf
@@ -1996,7 +2004,7 @@ q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf:
   md5: 424b25553fb65896b0b7b17fb0f04452
 关于现代汉语中‘族’与‘党’的演变研究_索非亚·巴雷托_2016.pdf:
   name: 关于现代汉语中‘族’与‘党’的演变研究_索非亚·巴雷托_2016.pdf
-  path: 学术文献/关于现代汉语中‘族’与‘党’的演变研究_索非亚·巴雷托_2016.pdf
+  path: 学术文献/人文社科/关于现代汉语中‘族’与‘党’的演变研究_索非亚·巴雷托_2016.pdf
   md5: bbf612e06862b19aa27474167f6e261a
 关于跨性别者和性别非二元_人群的初级和性别肯定护理_指南_UCSF.pdf:
   name: 关于跨性别者和性别非二元_人群的初级和性别肯定护理_指南_UCSF.pdf
@@ -2026,14 +2034,14 @@ q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf:
   name: 初次前高体验分享.docx
   path: 社群及NGO文件/生活与性体验/前列腺高潮/初次前高体验分享.docx
   md5: 08760159600946cb00e65d80c01a2612
-前列腺高潮教程(建议新手看)接地气版玩家建议.jpg:
-  name: 前列腺高潮教程(建议新手看)接地气版玩家建议.jpg
-  path: 社群及NGO文件/生活与性体验/前列腺高潮/前列腺高潮教程(建议新手看)接地气版玩家建议.jpg
-  md5: 4e96ac5ad577b2d7ac68c27fc5db6022
 前列腺高潮教程.jpg:
   name: 前列腺高潮教程.jpg
   path: 社群及NGO文件/生活与性体验/前列腺高潮/前列腺高潮教程.jpg
   md5: 6e86de8bd1d78ddc8fe382755f463d7a
+前列腺高潮教程_建议新手看_接地气版玩家建议.jpg:
+  name: 前列腺高潮教程_建议新手看_接地气版玩家建议.jpg
+  path: 社群及NGO文件/生活与性体验/前列腺高潮/前列腺高潮教程_建议新手看_接地气版玩家建议.jpg
+  md5: 4e96ac5ad577b2d7ac68c27fc5db6022
 前列腺高潮新方法1.pdf:
   name: 前列腺高潮新方法1.pdf
   path: 社群及NGO文件/生活与性体验/前列腺高潮/前列腺高潮新方法1.pdf
@@ -2202,9 +2210,9 @@ q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf:
   name: 变性手术算病假_整容手术算病假吗.pdf
   path: 学术文献/法律/变性手术算病假_整容手术算病假吗.pdf
   md5: 3e3d6fe2c9a5dfe23757539272240c57
-变性手术资料(1).doc:
-  name: 变性手术资料(1).doc
-  path: 社群及NGO文件/医院和医疗体系/变性手术资料(1).doc
+变性手术资料_1_.doc:
+  name: 变性手术资料_1_.doc
+  path: 社群及NGO文件/医院和医疗体系/变性手术资料_1_.doc
   md5: d2d09d69df973015a230757902ac5e27
 变性手术道德三思_冯泽永.pdf:
   name: 变性手术道德三思_冯泽永.pdf
@@ -2214,9 +2222,13 @@ q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf:
   name: 变性术典型病例_-_美容与再造整形手术实例彩色图谱·躯干、会阴及四肢分册_-_中国工具书网络出版总库_20170326044255.png
   path: 学术文献/医学/变性术典型病例_-_美容与再造整形手术实例彩色图谱·躯干、会阴及四肢分册_-_中国工具书网络出版总库_20170326044255.png
   md5: 0f3cb10f542c32f73cbe00f81237bd9f
-台湾酷儿小说中跨性别与父权的关系（一九九〇——一九九九).pdf:
-  name: 台湾酷儿小说中跨性别与父权的关系（一九九〇——一九九九).pdf
-  path: 学术文献/人文社科/台湾酷儿小说中跨性别与父权的关系（一九九〇——一九九九).pdf
+变文研究.txt:
+  name: 变文研究.txt
+  path: 文学作品和艺术创作/小说/变文研究.txt
+  md5: e6364d3bebdf939b9f6fc4b0e6790488
+台湾酷儿小说中跨性别与父权的关系（一九九〇——一九九九_.pdf:
+  name: 台湾酷儿小说中跨性别与父权的关系（一九九〇——一九九九_.pdf
+  path: 学术文献/人文社科/台湾酷儿小说中跨性别与父权的关系（一九九〇——一九九九_.pdf
   md5: 3a26a6ffe548b828e1354cb90867836f
 叶面纱曳叙事时空研究_唐玫_池州学院.pdf:
   name: 叶面纱曳叙事时空研究_唐玫_池州学院.pdf
@@ -2238,13 +2250,21 @@ q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf:
   name: 同聲同氣_香港年長女同志口述史_鄧芝珊_伍詠欣Chinese_手民出版社.pdf
   path: 文学作品和艺术创作/纪实作品/同聲同氣_香港年長女同志口述史_鄧芝珊_伍詠欣Chinese_手民出版社.pdf
   md5: fb8b70df0dc26d2c5688e4c98f873874
+同语《多元性别权益：从草根到联合国》.pdf:
+  name: 同语《多元性别权益：从草根到联合国》.pdf
+  path: 社群及NGO文件/统计报告/同语《多元性别权益：从草根到联合国》.pdf
+  md5: 7fc85bc6c2c82ff884d4915c8e461ce0
 后人类时代的非自然叙事与边界消弭_思想战线_舒凌鸿_2018.pdf:
   name: 后人类时代的非自然叙事与边界消弭_思想战线_舒凌鸿_2018.pdf
   path: 学术文献/人文社科/后人类时代的非自然叙事与边界消弭_思想战线_舒凌鸿_2018.pdf
   md5: 99bdf8c03cea389cf9603a0966175236
+向死去的志愿者致哀！.pdf:
+  name: 向死去的志愿者致哀！.pdf
+  path: 社群及NGO文件/社群讨论/中国大陆/向死去的志愿者致哀！.pdf
+  md5: df31d768e4c0b4dfd32f9f8a19a3d57d
 吴曾_镜头切开身份_艺术创作与酷儿文化.pdf:
   name: 吴曾_镜头切开身份_艺术创作与酷儿文化.pdf
-  path: 文学作品和艺术创作/吴曾_镜头切开身份_艺术创作与酷儿文化.pdf
+  path: 文学作品和艺术创作/其他/吴曾_镜头切开身份_艺术创作与酷儿文化.pdf
   md5: 916560cc15b3e25646a104869fdf351c
 哥伦比亚特区人权办公室公平住宅在线研讨会记录.pdf:
   name: 哥伦比亚特区人权办公室公平住宅在线研讨会记录.pdf
@@ -2344,7 +2364,7 @@ q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf:
   md5: a36920794cc69c68d3b3703072e54e09
 多元性别与艺术界动态.pdf:
   name: 多元性别与艺术界动态.pdf
-  path: 文学作品和艺术创作/多元性别与艺术界动态.pdf
+  path: 文学作品和艺术创作/其他/多元性别与艺术界动态.pdf
   md5: 0880adc239f6214909692e74548af1fc
 多元性别主题书展书单_陈洛葳_2011.pdf:
   name: 多元性别主题书展书单_陈洛葳_2011.pdf
@@ -2482,9 +2502,9 @@ q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf:
   name: 小号中的叙事认同与爵士乐身份.pdf
   path: 学术文献/人文社科/小号中的叙事认同与爵士乐身份.pdf
   md5: 3789deefe8db4bff01cde81d58897e45
-屁穴高潮方法_(2).pdf:
-  name: 屁穴高潮方法_(2).pdf
-  path: 社群及NGO文件/生活与性体验/前列腺高潮/屁穴高潮方法_(2).pdf
+屁穴高潮方法__2_.pdf:
+  name: 屁穴高潮方法__2_.pdf
+  path: 社群及NGO文件/生活与性体验/前列腺高潮/屁穴高潮方法__2_.pdf
   md5: 35b9d66c30a5639de65f7a53000b915b
 州長CUOMO_宣佈擬議法規以讓醫療補助覆蓋對跨性別者的__-_NYgov.pdf:
   name: 州長CUOMO_宣佈擬議法規以讓醫療補助覆蓋對跨性別者的__-_NYgov.pdf
@@ -2500,11 +2520,11 @@ q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf:
   md5: 2504780d960977d92d561255d7ace15f
 巴特勒作品集.pdf:
   name: 巴特勒作品集.pdf
-  path: 文学作品和艺术创作/巴特勒作品集.pdf
+  path: 文学作品和艺术创作/其他/巴特勒作品集.pdf
   md5: ee4c6ce5299761688ff36b76b19b855e
 布林客007-偶像与情感-2015.pdf:
   name: 布林客007-偶像与情感-2015.pdf
-  path: 文学作品和艺术创作/布林客007-偶像与情感-2015.pdf
+  path: 文学作品和艺术创作/其他/布林客007-偶像与情感-2015.pdf
   md5: e1b6620cb837707eb11ccf713853fad9
 常见假药.pdf:
   name: 常见假药.pdf
@@ -2770,6 +2790,10 @@ q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf:
   name: 我们内心的偏见展览脚本.pdf
   path: 学术文献/人文社科/我们内心的偏见展览脚本.pdf
   md5: 8d06178e8309c5549ba5466c5b123ff0
+我们是跨别的孩子——献给一位故去的跨性别志愿者.doc:
+  name: 我们是跨别的孩子——献给一位故去的跨性别志愿者.doc
+  path: 社群及NGO文件/社群讨论/中国大陆/我们是跨别的孩子——献给一位故去的跨性别志愿者.doc
+  md5: bd1158c0c2a3246bed6049a55aac573f
 我国心理健康研究现状的文献计量学分析.pdf:
   name: 我国心理健康研究现状的文献计量学分析.pdf
   path: 学术文献/人文社科/我国心理健康研究现状的文献计量学分析.pdf
@@ -2930,6 +2954,10 @@ q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf:
   name: 构筑弹性的《婚姻法》调适变性伦理_特约评论员_杜宇.pdf
   path: 杂志及新闻报道/中国大陆/构筑弹性的《婚姻法》调适变性伦理_特约评论员_杜宇.pdf
   md5: c6f263e699ce769269a20e0cf38a9be2
+某个网友对ag的看法，原名《何为ag》.doc:
+  name: 某个网友对ag的看法，原名《何为ag》.doc
+  path: 社群及NGO文件/社群讨论/中国大陆/某个网友对ag的看法，原名《何为ag》.doc
+  md5: 93a5057c995c2c719309c1ad32925e81
 校园性别暴力预防教学手册.pdf:
   name: 校园性别暴力预防教学手册.pdf
   path: 社群及NGO文件/学校/校园性别暴力预防教学手册.pdf
@@ -3000,7 +3028,7 @@ q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf:
   md5: 0816243be7f0d66e5cb90f9285c308d5
 海伦·马尔滕与亚力汉德罗·西塞科_艺术创作与社会介入_2011.pdf:
   name: 海伦·马尔滕与亚力汉德罗·西塞科_艺术创作与社会介入_2011.pdf
-  path: 文学作品和艺术创作/海伦·马尔滕与亚力汉德罗·西塞科_艺术创作与社会介入_2011.pdf
+  path: 文学作品和艺术创作/其他/海伦·马尔滕与亚力汉德罗·西塞科_艺术创作与社会介入_2011.pdf
   md5: 3e8ad1f38764d1f21715adbf37193260
 海华郡公立学校学生与家长手册_2018-2019.pdf:
   name: 海华郡公立学校学生与家长手册_2018-2019.pdf
@@ -3116,8 +3144,12 @@ q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf:
   md5: e1e75201421f541ce8cf7f78608dd884
 白蛇主题的多维视角研究_罗靓_现代华文文学.pdf:
   name: 白蛇主题的多维视角研究_罗靓_现代华文文学.pdf
-  path: 文学作品和艺术创作/白蛇主题的多维视角研究_罗靓_现代华文文学.pdf
+  path: 学术文献/人文社科/白蛇主题的多维视角研究_罗靓_现代华文文学.pdf
   md5: b5901b71e27dedf6ee680615892dd698
+相约自杀、囤积药物、计划搬家…川普胜选令LGBTQ+群体焦虑，担心权利被剥夺.pdf:
+  name: 相约自杀、囤积药物、计划搬家…川普胜选令LGBTQ+群体焦虑，担心权利被剥夺.pdf
+  path: 杂志及新闻报道/海外/相约自杀、囤积药物、计划搬家…川普胜选令LGBTQ+群体焦虑，担心权利被剥夺.pdf
+  md5: 3ca4201ff05406f4f5ef322283c443af
 省属公立医院医疗服务项目价格一览表.pdf:
   name: 省属公立医院医疗服务项目价格一览表.pdf
   path: 社群及NGO文件/医院和医疗体系/省属公立医院医疗服务项目价格一览表.pdf
@@ -3226,9 +3258,9 @@ q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf:
   name: 纽约健康医院LGBTQ+医疗中心宣传.pdf
   path: 社群及NGO文件/医院和医疗体系/纽约健康医院LGBTQ+医疗中心宣传.pdf
   md5: 436ecf51bd037d02ef2e1e1536b9a70b
-纽约市__(NYC)_LGBT健康提示.pdf:
-  name: 纽约市__(NYC)_LGBT健康提示.pdf
-  path: 政府及官方组织文件/美国/纽约市__(NYC)_LGBT健康提示.pdf
+纽约市___NYC__LGBT健康提示.pdf:
+  name: 纽约市___NYC__LGBT健康提示.pdf
+  path: 政府及官方组织文件/美国/纽约市___NYC__LGBT健康提示.pdf
   md5: c85ad4157a8369142866c3a9900ae5f6
 经济与法律学院.pdf:
   name: 经济与法律学院.pdf
@@ -3422,14 +3454,6 @@ q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf:
   name: 臺南市政府民政局性別平等宣導報告.pdf
   path: 政府及官方组织文件/港澳台/臺南市政府民政局性別平等宣導報告.pdf
   md5: aca2a7e21cb7cd16c6b62e25c3b356ed
-艺术家保障性收入计划指南.pdf:
-  name: 艺术家保障性收入计划指南.pdf
-  path: 社群及NGO文件/手册指南/艺术家保障性收入计划指南.pdf
-  md5: aa845850c59a54752e11361b74de8a91
-艺术家就业计划指引_2022_Creatives_Rebuild_New_York.pdf:
-  name: 艺术家就业计划指引_2022_Creatives_Rebuild_New_York.pdf
-  path: 文学作品和艺术创作/艺术家就业计划指引_2022_Creatives_Rebuild_New_York.pdf
-  md5: 138abc3e7e4144cbc2695fbb2238a7e0
 艾滋病与性别议题书目.pdf:
   name: 艾滋病与性别议题书目.pdf
   path: 学术文献/人文社科/艾滋病与性别议题书目.pdf
@@ -3448,7 +3472,7 @@ q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf:
   md5: 53650c3d14af253ba1911a3d0956130f
 艾萨克朱利安：新的未来与酷儿往事.pdf:
   name: 艾萨克朱利安：新的未来与酷儿往事.pdf
-  path: 文学作品和艺术创作/艾萨克朱利安：新的未来与酷儿往事.pdf
+  path: 文学作品和艺术创作/其他/艾萨克朱利安：新的未来与酷儿往事.pdf
   md5: 9fdbe417c32d69b09f84914c26f011c1
 芝加哥_性别认同歧视.pdf:
   name: 芝加哥_性别认同歧视.pdf
@@ -3522,9 +3546,9 @@ q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf:
   name: 認定自己生錯了性別_大公报.pdf
   path: 杂志及新闻报道/港澳台/認定自己生錯了性別_大公报.pdf
   md5: 651093630c662350235f1522b8c6b980
-論邦斯的性別形上學與性別詞理論_(2).pdf:
-  name: 論邦斯的性別形上學與性別詞理論_(2).pdf
-  path: 学术文献/人文社科/論邦斯的性別形上學與性別詞理論_(2).pdf
+論邦斯的性別形上學與性別詞理論__2_.pdf:
+  name: 論邦斯的性別形上學與性別詞理論__2_.pdf
+  path: 学术文献/人文社科/論邦斯的性別形上學與性別詞理論__2_.pdf
   md5: 83192da4e502c40267060b4f42718a93
 變性人與非二元性別者姓名性別變更常見問題_NYCgov_2019.pdf:
   name: 變性人與非二元性別者姓名性別變更常見問題_NYCgov_2019.pdf
@@ -3614,6 +3638,10 @@ q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf:
   name: 超长与微短_互联网时代的文学形态_王小英.pdf
   path: 学术文献/人文社科/超长与微短_互联网时代的文学形态_王小英.pdf
   md5: de781abd8596526412371827237f9747
+跨儿心理-跨儿心理工作手册.pdf:
+  name: 跨儿心理-跨儿心理工作手册.pdf
+  path: 社群及NGO文件/其他组织文件/跨儿心理-跨儿心理工作手册.pdf
+  md5: 11a5bb55bade581b8fe0f33578f4a589
 跨儿的性别困惑与身份认同.pdf:
   name: 跨儿的性别困惑与身份认同.pdf
   path: 社群及NGO文件/手册指南/跨儿的性别困惑与身份认同.pdf
@@ -3658,9 +3686,9 @@ q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf:
   name: 跨性别出柜手册.pdf
   path: 社群及NGO文件/手册指南/跨性别出柜手册.pdf
   md5: b8593f61a5458408ac369dd83b33bd0e
-跨性别和多元性别人群健康照护指南（第八版).pdf:
-  name: 跨性别和多元性别人群健康照护指南（第八版).pdf
-  path: 社群及NGO文件/手册指南/跨性别和多元性别人群健康照护指南（第八版).pdf
+跨性别和多元性别人群健康照护指南（第八版_.pdf:
+  name: 跨性别和多元性别人群健康照护指南（第八版_.pdf
+  path: 社群及NGO文件/手册指南/跨性别和多元性别人群健康照护指南（第八版_.pdf
   md5: 168fc7b79987574bdd192280702eaa32
 跨性别女性HIV感染情况及其危险因素研究进展.pdf:
   name: 跨性别女性HIV感染情况及其危险因素研究进展.pdf
@@ -3854,6 +3882,10 @@ q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf:
   name: 针对戒网瘾学校非法绑架未成年人的逃生方法解析.pdf
   path: 社群及NGO文件/手册指南/针对戒网瘾学校非法绑架未成年人的逃生方法解析.pdf
   md5: d5353b9094b1a5c38be45db573f1bb11
+钱今凡回应网络对跨性别人士的谩骂.doc:
+  name: 钱今凡回应网络对跨性别人士的谩骂.doc
+  path: 社群及NGO文件/社群讨论/中国大陆/钱今凡回应网络对跨性别人士的谩骂.doc
+  md5: f61107679f388d1bb947322ba366afc3
 银荆的告白.01.epub:
   name: 银荆的告白.01.epub
   path: 文学作品和艺术创作/小说/《银荆的告白》1-5卷/银荆的告白.01.epub
@@ -3934,9 +3966,9 @@ q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf:
   name: 青少年网络流行文化现象研究报告.pdf
   path: 学术文献/人文社科/青少年网络流行文化现象研究报告.pdf
   md5: feb556f2220c977765a09a45bb4d5495
-青少年面对COVID__(LGBTQIA)_健康和心理健康资源_NYC.pdf:
-  name: 青少年面对COVID__(LGBTQIA)_健康和心理健康资源_NYC.pdf
-  path: 社群及NGO文件/学校/青少年面对COVID__(LGBTQIA)_健康和心理健康资源_NYC.pdf
+青少年面对COVID___LGBTQIA__健康和心理健康资源_NYC.pdf:
+  name: 青少年面对COVID___LGBTQIA__健康和心理健康资源_NYC.pdf
+  path: 社群及NGO文件/学校/青少年面对COVID___LGBTQIA__健康和心理健康资源_NYC.pdf
   md5: e0d60dd869d64f2a3a00b194da070146
 非歧视与沟通援助_Providence_St._Joseph_健康中心.pdf:
   name: 非歧视与沟通援助_Providence_St._Joseph_健康中心.pdf

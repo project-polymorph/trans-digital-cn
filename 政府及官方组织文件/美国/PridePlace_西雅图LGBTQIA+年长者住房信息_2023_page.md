@@ -1,7 +1,7 @@
 # PridePlace_西雅图LGBTQIA+年长者住房信息_2023
 
 <!-- tcd_download_link -->
-Download: [PridePlace_西雅图LGBTQIA+年长者住房信息_2023.pdf](PridePlace_西雅图LGBTQIA+年长者住房信息_2023.pdf)
+下载: [PridePlace_西雅图LGBTQIA+年长者住房信息_2023.pdf](PridePlace_西雅图LGBTQIA+年长者住房信息_2023.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

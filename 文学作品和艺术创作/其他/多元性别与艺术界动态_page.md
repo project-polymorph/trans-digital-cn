@@ -1,7 +1,7 @@
 # 多元性别与艺术界动态
 
 <!-- tcd_download_link -->
-Download: [多元性别与艺术界动态.pdf](多元性别与艺术界动态.pdf)
+下载: [多元性别与艺术界动态.pdf](多元性别与艺术界动态.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

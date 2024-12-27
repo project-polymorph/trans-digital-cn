@@ -1,7 +1,7 @@
 # 性别苦恼的临床研究新进展DSM-5_新标准
 
 <!-- tcd_download_link -->
-Download: [性别苦恼的临床研究新进展DSM-5_新标准.pdf](性别苦恼的临床研究新进展DSM-5_新标准.pdf)
+下载: [性别苦恼的临床研究新进展DSM-5_新标准.pdf](性别苦恼的临床研究新进展DSM-5_新标准.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

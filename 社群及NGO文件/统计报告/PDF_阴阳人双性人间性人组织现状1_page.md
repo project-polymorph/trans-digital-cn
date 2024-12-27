@@ -1,7 +1,7 @@
 # PDF_阴阳人双性人间性人组织现状1
 
 <!-- tcd_download_link -->
-Download: [PDF_阴阳人双性人间性人组织现状1.pdf](PDF_阴阳人双性人间性人组织现状1.pdf)
+下载: [PDF_阴阳人双性人间性人组织现状1.pdf](PDF_阴阳人双性人间性人组织现状1.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

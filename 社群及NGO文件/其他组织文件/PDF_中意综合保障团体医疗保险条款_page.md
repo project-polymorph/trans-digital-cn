@@ -1,7 +1,7 @@
 # PDF_中意综合保障团体医疗保险条款
 
 <!-- tcd_download_link -->
-Download: [PDF_中意综合保障团体医疗保险条款.pdf](PDF_中意综合保障团体医疗保险条款.pdf)
+下载: [PDF_中意综合保障团体医疗保险条款.pdf](PDF_中意综合保障团体医疗保险条款.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

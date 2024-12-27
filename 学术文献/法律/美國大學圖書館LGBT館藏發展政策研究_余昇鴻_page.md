@@ -1,7 +1,7 @@
 # 美國大學圖書館LGBT館藏發展政策研究_余昇鴻
 
 <!-- tcd_download_link -->
-Download: [美國大學圖書館LGBT館藏發展政策研究_余昇鴻.pdf](美國大學圖書館LGBT館藏發展政策研究_余昇鴻.pdf)
+下载: [美國大學圖書館LGBT館藏發展政策研究_余昇鴻.pdf](美國大學圖書館LGBT館藏發展政策研究_余昇鴻.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

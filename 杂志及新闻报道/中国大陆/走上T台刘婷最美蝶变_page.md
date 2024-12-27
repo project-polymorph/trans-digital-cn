@@ -1,7 +1,7 @@
 # 走上T台刘婷最美蝶变
 
 <!-- tcd_download_link -->
-Download: [走上T台刘婷最美蝶变.pdf](走上T台刘婷最美蝶变.pdf)
+下载: [走上T台刘婷最美蝶变.pdf](走上T台刘婷最美蝶变.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 加州保护LGBTQ_人士的公民权利
 
 <!-- tcd_download_link -->
-Download: [加州保护LGBTQ_人士的公民权利.pdf](加州保护LGBTQ_人士的公民权利.pdf)
+下载: [加州保护LGBTQ_人士的公民权利.pdf](加州保护LGBTQ_人士的公民权利.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

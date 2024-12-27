@@ -1,7 +1,7 @@
 # 跨性别女性HIV感染情况及其危险因素研究进展
 
 <!-- tcd_download_link -->
-Download: [跨性别女性HIV感染情况及其危险因素研究进展.pdf](跨性别女性HIV感染情况及其危险因素研究进展.pdf)
+下载: [跨性别女性HIV感染情况及其危险因素研究进展.pdf](跨性别女性HIV感染情况及其危险因素研究进展.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

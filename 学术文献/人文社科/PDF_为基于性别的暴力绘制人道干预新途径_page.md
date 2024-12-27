@@ -1,7 +1,7 @@
 # PDF_为基于性别的暴力绘制人道干预新途径
 
 <!-- tcd_download_link -->
-Download: [PDF_为基于性别的暴力绘制人道干预新途径.pdf](PDF_为基于性别的暴力绘制人道干预新途径.pdf)
+下载: [PDF_为基于性别的暴力绘制人道干预新途径.pdf](PDF_为基于性别的暴力绘制人道干预新途径.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 性别变更更正办理服务指南
 
 <!-- tcd_download_link -->
-Download: [性别变更更正办理服务指南.pdf](性别变更更正办理服务指南.pdf)
+下载: [性别变更更正办理服务指南.pdf](性别变更更正办理服务指南.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

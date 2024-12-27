@@ -1,7 +1,7 @@
 # 性别烦躁的诊断和治疗
 
 <!-- tcd_download_link -->
-Download: [性别烦躁的诊断和治疗.pdf](性别烦躁的诊断和治疗.pdf)
+下载: [性别烦躁的诊断和治疗.pdf](性别烦躁的诊断和治疗.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

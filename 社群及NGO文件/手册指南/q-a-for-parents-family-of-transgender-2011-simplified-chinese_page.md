@@ -1,7 +1,7 @@
 # q-a-for-parents-family-of-transgender-2011-simplified-chinese
 
 <!-- tcd_download_link -->
-Download: [q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf](q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf)
+下载: [q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf](q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

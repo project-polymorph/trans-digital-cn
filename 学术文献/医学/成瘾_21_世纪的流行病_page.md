@@ -1,7 +1,7 @@
 # 成瘾_21_世纪的流行病
 
 <!-- tcd_download_link -->
-Download: [成瘾_21_世纪的流行病.pdf](成瘾_21_世纪的流行病.pdf)
+下载: [成瘾_21_世纪的流行病.pdf](成瘾_21_世纪的流行病.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

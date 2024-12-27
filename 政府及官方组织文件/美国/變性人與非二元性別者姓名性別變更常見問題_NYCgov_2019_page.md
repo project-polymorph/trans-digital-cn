@@ -1,7 +1,7 @@
 # 變性人與非二元性別者姓名性別變更常見問題_NYCgov_2019
 
 <!-- tcd_download_link -->
-Download: [變性人與非二元性別者姓名性別變更常見問題_NYCgov_2019.pdf](變性人與非二元性別者姓名性別變更常見問題_NYCgov_2019.pdf)
+下载: [變性人與非二元性別者姓名性別變更常見問題_NYCgov_2019.pdf](變性人與非二元性別者姓名性別變更常見問題_NYCgov_2019.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

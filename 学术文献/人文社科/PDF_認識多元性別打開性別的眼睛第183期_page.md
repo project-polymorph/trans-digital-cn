@@ -1,7 +1,7 @@
 # PDF_認識多元性別打開性別的眼睛第183期
 
 <!-- tcd_download_link -->
-Download: [PDF_認識多元性別打開性別的眼睛第183期.pdf](PDF_認識多元性別打開性別的眼睛第183期.pdf)
+下载: [PDF_認識多元性別打開性別的眼睛第183期.pdf](PDF_認識多元性別打開性別的眼睛第183期.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

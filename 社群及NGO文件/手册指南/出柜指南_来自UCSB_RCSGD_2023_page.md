@@ -1,7 +1,7 @@
 # 出柜指南_来自UCSB_RCSGD_2023
 
 <!-- tcd_download_link -->
-Download: [出柜指南_来自UCSB_RCSGD_2023.pdf](出柜指南_来自UCSB_RCSGD_2023.pdf)
+下载: [出柜指南_来自UCSB_RCSGD_2023.pdf](出柜指南_来自UCSB_RCSGD_2023.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # PDF_蝴蝶君对性别和种族的解构
 
 <!-- tcd_download_link -->
-Download: [PDF_蝴蝶君对性别和种族的解构.pdf](PDF_蝴蝶君对性别和种族的解构.pdf)
+下载: [PDF_蝴蝶君对性别和种族的解构.pdf](PDF_蝴蝶君对性别和种族的解构.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

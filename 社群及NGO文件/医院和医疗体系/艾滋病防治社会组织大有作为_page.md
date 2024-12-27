@@ -1,7 +1,7 @@
 # 艾滋病防治社会组织大有作为
 
 <!-- tcd_download_link -->
-Download: [艾滋病防治社会组织大有作为.pdf](艾滋病防治社会组织大有作为.pdf)
+下载: [艾滋病防治社会组织大有作为.pdf](艾滋病防治社会组织大有作为.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

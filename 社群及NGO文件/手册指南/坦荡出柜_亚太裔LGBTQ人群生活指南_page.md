@@ -1,7 +1,7 @@
 # 坦荡出柜_亚太裔LGBTQ人群生活指南
 
 <!-- tcd_download_link -->
-Download: [坦荡出柜_亚太裔LGBTQ人群生活指南.pdf](坦荡出柜_亚太裔LGBTQ人群生活指南.pdf)
+下载: [坦荡出柜_亚太裔LGBTQ人群生活指南.pdf](坦荡出柜_亚太裔LGBTQ人群生活指南.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

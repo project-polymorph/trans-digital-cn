@@ -1,7 +1,7 @@
 # 夏威夷州教育署Hawaii_State_Department_of_Education不
 
 <!-- tcd_download_link -->
-Download: [夏威夷州教育署Hawaii_State_Department_of_Education不.pdf](夏威夷州教育署Hawaii_State_Department_of_Education不.pdf)
+下载: [夏威夷州教育署Hawaii_State_Department_of_Education不.pdf](夏威夷州教育署Hawaii_State_Department_of_Education不.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

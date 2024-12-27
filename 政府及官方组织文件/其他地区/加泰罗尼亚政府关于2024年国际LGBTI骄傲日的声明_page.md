@@ -1,7 +1,7 @@
 # 加泰罗尼亚政府关于2024年国际LGBTI骄傲日的声明
 
 <!-- tcd_download_link -->
-Download: [加泰罗尼亚政府关于2024年国际LGBTI骄傲日的声明.pdf](加泰罗尼亚政府关于2024年国际LGBTI骄傲日的声明.pdf)
+下载: [加泰罗尼亚政府关于2024年国际LGBTI骄傲日的声明.pdf](加泰罗尼亚政府关于2024年国际LGBTI骄傲日的声明.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

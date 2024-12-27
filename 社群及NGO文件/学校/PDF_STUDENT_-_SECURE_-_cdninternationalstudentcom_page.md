@@ -1,7 +1,7 @@
 # PDF_STUDENT_-_SECURE_-_cdninternationalstudentcom
 
 <!-- tcd_download_link -->
-Download: [PDF_STUDENT_-_SECURE_-_cdninternationalstudentcom.pdf](PDF_STUDENT_-_SECURE_-_cdninternationalstudentcom.pdf)
+下载: [PDF_STUDENT_-_SECURE_-_cdninternationalstudentcom.pdf](PDF_STUDENT_-_SECURE_-_cdninternationalstudentcom.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

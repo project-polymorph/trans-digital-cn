@@ -1,7 +1,7 @@
 # PDF_平等和不歧视_自由和平等_联合国
 
 <!-- tcd_download_link -->
-Download: [PDF_平等和不歧视_自由和平等_联合国.pdf](PDF_平等和不歧视_自由和平等_联合国.pdf)
+下载: [PDF_平等和不歧视_自由和平等_联合国.pdf](PDF_平等和不歧视_自由和平等_联合国.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

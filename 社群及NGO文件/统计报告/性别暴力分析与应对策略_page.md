@@ -1,7 +1,7 @@
 # 性别暴力分析与应对策略
 
 <!-- tcd_download_link -->
-Download: [性别暴力分析与应对策略.pdf](性别暴力分析与应对策略.pdf)
+下载: [性别暴力分析与应对策略.pdf](性别暴力分析与应对策略.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

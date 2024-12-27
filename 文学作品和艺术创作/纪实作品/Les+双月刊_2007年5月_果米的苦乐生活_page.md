@@ -1,7 +1,7 @@
 # Les+双月刊_2007年5月_果米的苦乐生活
 
 <!-- tcd_download_link -->
-Download: [Les+双月刊_2007年5月_果米的苦乐生活.pdf](Les+双月刊_2007年5月_果米的苦乐生活.pdf)
+下载: [Les+双月刊_2007年5月_果米的苦乐生活.pdf](Les+双月刊_2007年5月_果米的苦乐生活.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

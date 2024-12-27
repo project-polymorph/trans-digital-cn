@@ -1,7 +1,7 @@
 # PDF_流行歌曲_性别符号学研究的一个特殊领域
 
 <!-- tcd_download_link -->
-Download: [PDF_流行歌曲_性别符号学研究的一个特殊领域.pdf](PDF_流行歌曲_性别符号学研究的一个特殊领域.pdf)
+下载: [PDF_流行歌曲_性别符号学研究的一个特殊领域.pdf](PDF_流行歌曲_性别符号学研究的一个特殊领域.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

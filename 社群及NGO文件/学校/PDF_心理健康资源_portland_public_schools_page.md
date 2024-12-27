@@ -1,7 +1,7 @@
 # PDF_心理健康资源_portland_public_schools
 
 <!-- tcd_download_link -->
-Download: [PDF_心理健康资源_portland_public_schools.pdf](PDF_心理健康资源_portland_public_schools.pdf)
+下载: [PDF_心理健康资源_portland_public_schools.pdf](PDF_心理健康资源_portland_public_schools.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

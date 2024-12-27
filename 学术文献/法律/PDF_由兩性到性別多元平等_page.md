@@ -1,7 +1,7 @@
 # PDF_由兩性到性別多元平等
 
 <!-- tcd_download_link -->
-Download: [PDF_由兩性到性別多元平等.pdf](PDF_由兩性到性別多元平等.pdf)
+下载: [PDF_由兩性到性別多元平等.pdf](PDF_由兩性到性別多元平等.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

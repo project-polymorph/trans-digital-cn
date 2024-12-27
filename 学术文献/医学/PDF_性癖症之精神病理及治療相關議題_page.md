@@ -1,7 +1,7 @@
 # PDF_性癖症之精神病理及治療相關議題
 
 <!-- tcd_download_link -->
-Download: [PDF_性癖症之精神病理及治療相關議題.pdf](PDF_性癖症之精神病理及治療相關議題.pdf)
+下载: [PDF_性癖症之精神病理及治療相關議題.pdf](PDF_性癖症之精神病理及治療相關議題.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

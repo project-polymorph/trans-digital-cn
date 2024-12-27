@@ -1,7 +1,7 @@
 # 变性人健康照护标准_WPATH_第七版
 
 <!-- tcd_download_link -->
-Download: [变性人健康照护标准_WPATH_第七版.pdf](变性人健康照护标准_WPATH_第七版.pdf)
+下载: [变性人健康照护标准_WPATH_第七版.pdf](变性人健康照护标准_WPATH_第七版.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
