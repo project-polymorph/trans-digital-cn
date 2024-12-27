@@ -29,3 +29,4 @@ ignore:
   - '.*LICENSE.*'
   - 'digital\.yml'
   - 'search_index\.yml'
+  - 'robots\.txt'
