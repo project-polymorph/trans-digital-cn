@@ -193,6 +193,20 @@ files:
   size: 1794915
   md5: f1e70f28c65387427946f98c052c15ac
   page: 跨性别子女父母心声分享——后同盟提供的支持_page.md
+- name: 跨性别组织或机构
+  filename: 跨性别组织或机构.docx
+  type: document
+  format: Microsoft Word Document (OpenXML)
+  size: 25974
+  md5: 54a268dadb71dfd39a5f233f8fa4120a
+  page: 跨性别组织或机构_page.md
+- name: 跨性别者生存现状
+  filename: 跨性别者生存现状.pdf
+  type: document
+  format: PDF Document
+  size: 2817852
+  md5: aef84d85657dc907e1f1c914b8021033
+  page: 跨性别者生存现状_page.md
 - name: 迈瑞_多元化平等与包容性政策
   filename: 迈瑞_多元化平等与包容性政策.pdf
   type: document
