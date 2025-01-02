@@ -1,7 +1,7 @@
 # 嗓音训练指南正式归档
 
 <!-- tcd_download_link -->
-Download: [嗓音训练指南正式归档.pdf](嗓音训练指南正式归档.pdf)
+下载: [嗓音训练指南正式归档.pdf](嗓音训练指南正式归档.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要

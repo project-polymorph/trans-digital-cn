@@ -3,7 +3,7 @@
 该目录下收录了与跨性别相关的社会科学研究文献，包括对跨性别群体的社会分析、文化研究以及相关的理论探讨。这些文献旨在提升对跨性别群体生活现状的理解与关注。
 
 
-总计 201 篇内容
+总计 218 篇内容
 
 
 
@@ -71,7 +71,22 @@
 - [PDF_跨性別學生更容易受心理問題所苦](PDF_跨性別學生更容易受心理問題所苦_page.md)
 - [PDF_軍隊助人者協助多元性別從軍者的輔導困境與挑戰性別觀點的分析](PDF_軍隊助人者協助多元性別從軍者的輔導困境與挑戰性別觀點的分析_page.md)
 - [PDF_香港跨性別社群發展與歧視個案研究](PDF_香港跨性別社群發展與歧視個案研究_page.md)
+- [Suicidal_ideation_and_attempted_suicide_amongst_Chinese_](Suicidal_ideation_and_attempted_suicide_amongst_Chinese__page.md)
+- [Supporting_Transgender_Children_New_Legal_Social_and_Medical_Approaches](Supporting_Transgender_Children_New_Legal_Social_and_Medical_Approaches_page.md)
+- [Supportive_Families,_Healthy_Children__-_FAP_English_Booklet_pst](Supportive_Families,_Healthy_Children__-_FAP_English_Booklet_pst_page.md)
+- [Synergies_in_health_and_human_rights_-_a_call_to_action_to_improve_transgender_health](Synergies_in_health_and_human_rights_-_a_call_to_action_to_improve_transgender_health_page.md)
+- [The__Slow__Depathologizing_of_Gender_Incongruence.11](The__Slow__Depathologizing_of_Gender_Incongruence.11_page.md)
+- [The_Bathroom_Case_Creating_a_Supportive_School__Environment_for_Transgender__and_Gender_Nonconforming__Students](The_Bathroom_Case_Creating_a_Supportive_School__Environment_for_Transgender__and_Gender_Nonconforming__Students_page.md)
 - [The_Case_Against_Autogynephilia_驳AG_论](The_Case_Against_Autogynephilia_驳AG_论_page.md)
+- [The_de_politicization_of_pronouns_implications_of_the_No_Big_Deal_Campaign_for_gender_expansive_educational_policy_and_practice](The_de_politicization_of_pronouns_implications_of_the_No_Big_Deal_Campaign_for_gender_expansive_educational_policy_and_practice_page.md)
+- [Transgender_health_-_an_opportunity_for_global_health_equity](Transgender_health_-_an_opportunity_for_global_health_equity_page.md)
+- [Transgender_Inmates_in_Prisons](Transgender_Inmates_in_Prisons_page.md)
+- [Transgender_Legal_Advocacy_-_What_Do_Feminist_Legal_Theories_Have_to_Offer?](Transgender_Legal_Advocacy_-_What_Do_Feminist_Legal_Theories_Have_to_Offer?_page.md)
+- [Transgender_Marriage_and_the_Legal_Obligation_to_Disclose_Gender_History](Transgender_Marriage_and_the_Legal_Obligation_to_Disclose_Gender_History_page.md)
+- [Transgender_patients_need_better_protection_in_China](Transgender_patients_need_better_protection_in_China_page.md)
+- [Transgender_people:_health_at_the_margins_of_society_-_Winter_et_al-2016](Transgender_people:_health_at_the_margins_of_society_-_Winter_et_al-2016_page.md)
+- [Transgender_People_in_the_Military](Transgender_People_in_the_Military_page.md)
+- [Transgender_Representation_by_the_People’s_Daily_Since_1949](Transgender_Representation_by_the_People’s_Daily_Since_1949_page.md)
 - [“伪娘”亚文化现象的美学解读_高妍](“伪娘”亚文化现象的美学解读_高妍_page.md)
 - [“灵魂”对“肉体”的背叛——变性人现象综述_祁冬涛](“灵魂”对“肉体”的背叛——变性人现象综述_祁冬涛_page.md)
 - [【书评】《谁在害怕性别？》当性别成为制造恐慌的鬼魂，巴特勒如何拆解](【书评】《谁在害怕性别？》当性别成为制造恐慌的鬼魂，巴特勒如何拆解_page.md)
@@ -135,6 +150,7 @@
 - [性别形成和差异的社会认知理论述评](性别形成和差异的社会认知理论述评_page.md)
 - [性别文化差异给跨性别文化交际带来的矛盾与困惑](性别文化差异给跨性别文化交际带来的矛盾与困惑_page.md)
 - [性别治理_性／別研究丛書](性别治理_性／別研究丛書_page.md)
+- [性少数人群的心理健康_理论模型与研究取向_张静](性少数人群的心理健康_理论模型与研究取向_张静_page.md)
 - [性少数人群的心理健康理论模型与研究取向](性少数人群的心理健康理论模型与研究取向_page.md)
 - [性行为和性规范多样性研讨会的内容探讨](性行为和性规范多样性研讨会的内容探讨_page.md)
 - [成为安迪沃霍尔：性别与社会的对话_2022年2月19日](成为安迪沃霍尔：性别与社会的对话_2022年2月19日_page.md)
@@ -210,5 +226,9 @@
 - [非西方酷兒理論與臺灣國族問題_劉文_2021.pdf](非西方酷兒理論與臺灣國族問題_劉文_2021.pdf_page.md)
 - [香港台湾与中国大陆的酷儿电影节研究](香港台湾与中国大陆的酷儿电影节研究_page.md)
 - [骄傲与偏见-变革的动力-经济学人智库报告-2018](骄傲与偏见-变革的动力-经济学人智库报告-2018_page.md)
+
+### 📎 其他
+
+- [跨性别心理咨询的理论与实践研究_吕娜](跨性别心理咨询的理论与实践研究_吕娜.caj)
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板
