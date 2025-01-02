@@ -4,14 +4,7 @@ curator: ''
 source: ''
 tags: []
 license: ''
-files:
-- name: combined_index
-  filename: combined_index.yml
-  type: other
-  format: Unknown Format
-  size: 18711523
-  md5: 42099c03d2c5db4cf0572ca1ac5e8461
-  page: combined_index.yml
+files: []
 subdirs:
 - 学术文献
 - 政府及官方组织文件

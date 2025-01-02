@@ -15,7 +15,7 @@
 根目录，按照内容与来源分类
 
 
-总计 9264 篇内容
+总计 9263 篇内容
 
 
 ### 📁 子目录
@@ -32,10 +32,6 @@
 - [变身文学与小说存档库一（剧情向）: https://xnovel.transchinese.org](https://xnovel.transchinese.org) (1676 篇内容)
 - [变身文学与小说存档库二（变百或变嫁）: https://novel.transchinese.org](https://novel.transchinese.org) (2317 篇内容)
 
-
-### 📎 其他
-
-- [combined_index](combined_index.yml)
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板
 
