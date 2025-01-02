@@ -11,7 +11,7 @@ Download: [嗓音训练指南正式归档.pdf](嗓音训练指南正式归档.pd
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [嗓音训练指南正式归档.pdf](嗓音训练指南正式归档.pd
 | Tags            | 嗓音训练, 跨性别, 多元性别, 声音表达, 心理支持, 技巧练习                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../嗓音训练指南正式归档.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

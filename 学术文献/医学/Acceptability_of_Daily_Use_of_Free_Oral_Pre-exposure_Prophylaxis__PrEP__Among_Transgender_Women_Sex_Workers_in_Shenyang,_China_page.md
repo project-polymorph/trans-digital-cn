@@ -11,7 +11,7 @@
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@
 | Tags            | 跨性别女性, 性工作者, 预暴露预防（PrEP）, HIV预防, 社会科学研究, 医学干预, 健康促进                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../Acceptability_of_Daily_Use_of_Free_Oral_Pre-exposure_Prophylaxis__PrEP__Among_Transgender_Women_Sex_Workers_in_Shenyang,_China.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+
