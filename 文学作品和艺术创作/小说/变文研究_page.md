@@ -1,7 +1,7 @@
 # 变文研究
 
 <!-- tcd_download_link -->
-Download: [变文研究.txt](变文研究.txt)
+下载: [变文研究.txt](变文研究.txt)
 <!-- tcd_download_link_end -->
 
 ## 摘要

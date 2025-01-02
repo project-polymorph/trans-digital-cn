@@ -26,6 +26,13 @@ files:
   size: 24281
   md5: b18bd68300bc6a1b7cfc3040608f9f47
   page: _其他__说好的论文，论变身小说的两种流派_page.md
+- name: 与夜共鸣-夜明珠书评
+  filename: 与夜共鸣-夜明珠书评.md
+  type: webpage
+  format: Markdown
+  size: 61771
+  md5: c97d8d686459ead612c570a3ec90f913
+  page: 与夜共鸣-夜明珠书评.md
 - name: 伟大小说的时间考量
   filename: 伟大小说的时间考量.pdf
   type: document
