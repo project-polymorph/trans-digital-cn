@@ -1,0 +1,20 @@
+name: 限制级内容
+description: 该目录收录了一些限制级内容，包括与跨性别者的医疗经历相关的音频和影像资料。这些内容探讨了在特定情况下进行手术等敏感话题，旨在为跨性别群体提供更深入的理解与支持。
+curator: ''
+source: ''
+tags:
+- 限制级内容
+- 跨性别手术
+- 医疗经历
+- 音频影像
+- 生存现状
+license: ''
+files:
+- name: 在宾馆里面黑切做去势手术
+  filename: 在宾馆里面黑切做去势手术.mp4
+  type: video
+  format: MPEG-4 Video
+  size: 26522297
+  md5: bcd5d274421b6eef7bad92df3a611555
+  page: 在宾馆里面黑切做去势手术_page.md
+subdirs: []
