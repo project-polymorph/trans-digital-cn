@@ -43,7 +43,7 @@ jobs:
       - name: Commit changes
         run: |
           git add .
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update for modify contents" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update for modify contents" && git push) || true 
       - name: Prepare site
         run: .github/site/prepare_site.sh
       - run: mkdocs gh-deploy --force
