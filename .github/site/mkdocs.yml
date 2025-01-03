@@ -24,6 +24,7 @@ theme:
     - navigation.prune 
     - navigation.indexes 
     - navigation.tracking
+    - toc.integrate
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
