@@ -19,7 +19,7 @@
 
 !!! note "📊 统计信息"
 
-    总计内容：5256 篇
+    总计内容：5263 篇
     标签：`学术文献` `跨性别` `多元性别` `文学艺术` `社会政策` `数据统计` `公共资源` `社区支持`
 
 
@@ -33,14 +33,14 @@
 <th style="width: 50%">简介</th>
 </tr></thead>
 <tbody>
-<tr data-name="学术文献" data-count="418" data-date="0000-00-00">
+<tr data-name="学术文献" data-count="426" data-date="0000-00-00">
                 <td><a href="学术文献" class="md-button">学术文献</a></td>
-                <td class="count-cell">418 篇</td>
+                <td class="count-cell">426 篇</td>
                 <td class="description-cell"><details markdown>
                     <summary>展开</summary>
                     <div class="description">
                         此目录包含关于跨性别议题的学术文献，包括人文、医学、法律和社会科学领域的研究和资料，包括但不限于发表于学术期刊的论文和由大学附属出版社出版的学术书籍。采用近似于学术写作的风格创作、发布于某些期刊杂志，但不确定是否为「学术」文献的，放置于「杂志及新闻报道」分类。
-                        <br>文件数量：418 篇
+                        <br>文件数量：426 篇
                     </div>
                 </details></td>
             </tr>
