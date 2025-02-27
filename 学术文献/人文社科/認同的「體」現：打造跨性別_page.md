@@ -1,7 +1,9 @@
 # 認同的「體」現：打造跨性別
 
 <!-- tcd_download_link -->
-下载: [認同的「體」現：打造跨性別.pdf](認同的「體」現：打造跨性別.pdf)
+下载: <a href="../認同的「體」現：打造跨性別.pdf" download>認同的「體」現：打造跨性別.pdf</a>
+
+
 <!-- tcd_download_link_end -->
 
 ## 摘要
