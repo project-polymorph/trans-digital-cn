@@ -14,7 +14,7 @@ search:
 
 !!! note "📊 统计信息"
 
-    总计内容：482 篇
+    总计内容：491 篇
     标签：`跨性别` `社群` `NGO` `医疗资源` `教育` `组织`
 
 
@@ -78,14 +78,14 @@ search:
                     </div>
                 </details></td>
             </tr>
-<tr data-name="生活与性体验" data-count="192" data-date="0000-00-00">
+<tr data-name="生活与性体验" data-count="201" data-date="0000-00-00">
                 <td><a href="生活与性体验" class="md-button">生活与性体验</a></td>
-                <td class="count-cell">192 篇</td>
+                <td class="count-cell">201 篇</td>
                 <td class="description-cell"><details markdown>
                     <summary>展开</summary>
                     <div class="description">
                         该目录包含关于生活与性体验的多个文件，旨在为跨性别者提供实用的知识与技能，促进性健康与身体认知。文件内容涵盖了肌肉控制、性愉悦技巧、身体认知、心理适应等方面。具体来说，包括PC肌的收缩分解、如何进行会阴按摩、乳首的开发技巧以及伪声与伪娘训练的方法。这些内容不仅帮助跨性别者了解和掌控自己的身体，还提供了一系列实践指导，旨在支持他们的生活质量与性体验。其中还涉及如何理解和参与性愉悦的多样性实践，秉持对个人身体和性别身份的尊重与认同。
-                        <br>文件数量：192 篇
+                        <br>文件数量：201 篇
                     </div>
                 </details></td>
             </tr>

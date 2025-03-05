@@ -1,7 +1,7 @@
 # {name}
 
 <!-- tcd_download_link -->
-下载: [{filename}]({filename})
+下载: <a href="../{filename}" download>{filename}</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,9 +11,11 @@
 
 <!-- tcd_abstract_end -->
 
-> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请在本页面协助编辑指正，不胜感激。
-
 ## 其他信息
+
+<details markdown>
+<summary>其他信息</summary>
+<!-- tcd_other_info -->
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,5 +30,8 @@
 | Region          | {region}                               |
 | Date            | {date}                                 |
 | Tags            | {tags}                                 |
+
+<!-- tcd_other_info_end -->
+</details>
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有，所有内容仅为历史资料保存及研究之用。如果原作者或相关方希望移除存档内容，请通过电子邮件与我们联系。

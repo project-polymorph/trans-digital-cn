@@ -77,6 +77,13 @@ files:
   md5: 288e8c95bdb46907e11268b7ea097631
   page: 4.9_无器具前高（前高高级阶段）_page.md
   visitors: 427
+- name: 5m圈玩法篇-菊花调教指南
+  filename: 5m圈玩法篇-菊花调教指南.pdf
+  type: document
+  format: PDF Document
+  size: 1340532
+  md5: 687552da3000979e951c6e025f1b5a73
+  page: 5m圈玩法篇-菊花调教指南_page.md
 - name: Super-O个人体验整理分享
   filename: Super-O个人体验整理分享.docx
   type: document
@@ -162,6 +169,13 @@ files:
   md5: 25fb33f43b9ccfc96b3dd3d897390c96
   page: 慰菊丛书_page.md
   visitors: 411
+- name: 爽的极限
+  filename: 爽的极限.docx
+  type: document
+  format: Microsoft Word Document (OpenXML)
+  size: 68267
+  md5: 8ec4024a0329853b3face471f69cd83a
+  page: 爽的极限_page.md
 - name: 爽的极限（含目录）
   filename: 爽的极限（含目录）.docx
   type: document
