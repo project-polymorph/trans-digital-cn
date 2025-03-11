@@ -14,7 +14,7 @@ search:
 
 !!! note "📊 统计信息"
 
-    总计内容：50 篇
+    总计内容：51 篇
     标签：`跨性别` `社群` `NGO` `中国大陆` `海外` `港澳台`
 
 
@@ -66,14 +66,14 @@ search:
                     </div>
                 </details></td>
             </tr>
-<tr data-name="中国大陆" data-count="34" data-date="0000-00-00">
+<tr data-name="中国大陆" data-count="35" data-date="0000-00-00">
                 <td><a href="中国大陆" class="md-button">中国大陆</a></td>
-                <td class="count-cell">34 篇</td>
+                <td class="count-cell">35 篇</td>
                 <td class="description-cell"><details markdown>
                     <summary>展开</summary>
                     <div class="description">
                         这一目录包含了有关中国大陆的跨性别社群及非政府组织（NGO）的信息和资源，旨在为跨性别者提供一个互助与支持的平台。
-                        <br>文件数量：34 篇
+                        <br>文件数量：35 篇
                     </div>
                 </details></td>
             </tr>

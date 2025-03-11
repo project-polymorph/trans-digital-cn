@@ -106,6 +106,13 @@ files:
   md5: 608cf0e40e3ccff01a4f56b18d73c8fe
   page: 变性人生活辛酸_page.md
   visitors: 30
+- name: 变性美人_2003
+  filename: 变性美人_2003.pdf
+  type: document
+  format: PDF Document
+  size: 21245488
+  md5: e5946414ab5f72b346892bbb84840e8b
+  page: 变性美人_2003_page.md
 - name: 同聲同氣_香港年長女同志口述史_鄧芝珊_伍詠欣Chinese_手民出版社
   filename: 同聲同氣_香港年長女同志口述史_鄧芝珊_伍詠欣Chinese_手民出版社.pdf
   type: document

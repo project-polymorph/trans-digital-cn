@@ -14,7 +14,7 @@ search:
 
 !!! note "📊 统计信息"
 
-    总计内容：59 篇
+    总计内容：62 篇
     标签：`跨性别` `杂志` `新闻报道` `生命故事` `社会环境`
 
 
@@ -28,14 +28,14 @@ search:
 <th style="width: 50%">简介</th>
 </tr></thead>
 <tbody>
-<tr data-name="中国大陆" data-count="42" data-date="0000-00-00">
+<tr data-name="中国大陆" data-count="43" data-date="0000-00-00">
                 <td><a href="中国大陆" class="md-button">中国大陆</a></td>
-                <td class="count-cell">42 篇</td>
+                <td class="count-cell">43 篇</td>
                 <td class="description-cell"><details markdown>
                     <summary>展开</summary>
                     <div class="description">
                         这一目录收录了来自中国大陆的杂志和新闻报道，涵盖了跨性别群体的各种生活与社会现象，提供了真实的视角和声音，展示了跨性别者在社会中所面临的挑战与成就。
-                        <br>文件数量：42 篇
+                        <br>文件数量：43 篇
                     </div>
                 </details></td>
             </tr>
@@ -50,14 +50,14 @@ search:
                     </div>
                 </details></td>
             </tr>
-<tr data-name="港澳台" data-count="11" data-date="0000-00-00">
+<tr data-name="港澳台" data-count="13" data-date="0000-00-00">
                 <td><a href="港澳台" class="md-button">港澳台</a></td>
-                <td class="count-cell">11 篇</td>
+                <td class="count-cell">13 篇</td>
                 <td class="description-cell"><details markdown>
                     <summary>展开</summary>
                     <div class="description">
                         本目录收录与港澳台地区相关的跨性别报道与杂志内容，包括对跨性别者的生活、法律、医疗等多方面的报道，旨在宣传和提高社会对跨性别问题的认知与理解。
-                        <br>文件数量：11 篇
+                        <br>文件数量：13 篇
                     </div>
                 </details></td>
             </tr>

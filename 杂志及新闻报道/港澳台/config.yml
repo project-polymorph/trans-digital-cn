@@ -11,6 +11,13 @@ tags:
 - 医疗资源
 license: ''
 files:
+- name: 2013年Jet_Magazine_绝代芳华_他和她的变性自白
+  filename: 2013年Jet_Magazine_绝代芳华_他和她的变性自白.pdf
+  type: document
+  format: PDF Document
+  size: 3052575
+  md5: 7850ed97224085b0a4cfc262090475f3
+  page: 2013年Jet_Magazine_绝代芳华_他和她的变性自白_page.md
 - name: PDF_台灣跨性別手術的最新進展
   filename: PDF_台灣跨性別手術的最新進展.pdf
   type: document
@@ -18,6 +25,13 @@ files:
   size: 798700
   md5: 2a82a5d8243079fd307eca70a8f1cf69
   page: PDF_台灣跨性別手術的最新進展_page.md
+- name: 中华民国教育部性别平等教育季刊_跨性别专题
+  filename: 中华民国教育部性别平等教育季刊_跨性别专题.pdf
+  type: document
+  format: PDF Document
+  size: 15765351
+  md5: 3155566dc899a73aeac74f5998726671
+  page: 中华民国教育部性别平等教育季刊_跨性别专题_page.md
 - name: 住錯性別身體的靈魂-人權全紀錄
   filename: 住錯性別身體的靈魂-人權全紀錄.pdf
   type: document

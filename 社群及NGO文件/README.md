@@ -14,7 +14,7 @@ search:
 
 !!! note "📊 统计信息"
 
-    总计内容：491 篇
+    总计内容：492 篇
     标签：`跨性别` `社群` `NGO` `医疗资源` `教育` `组织`
 
 
@@ -89,14 +89,14 @@ search:
                     </div>
                 </details></td>
             </tr>
-<tr data-name="社群讨论" data-count="50" data-date="0000-00-00">
+<tr data-name="社群讨论" data-count="51" data-date="0000-00-00">
                 <td><a href="社群讨论" class="md-button">社群讨论</a></td>
-                <td class="count-cell">50 篇</td>
+                <td class="count-cell">51 篇</td>
                 <td class="description-cell"><details markdown>
                     <summary>展开</summary>
                     <div class="description">
                         该目录包含了与跨性别社群相关的组织和非政府组织（NGO）的信息，包括中国大陆及海外的社群动态和资源。
-                        <br>文件数量：50 篇
+                        <br>文件数量：51 篇
                     </div>
                 </details></td>
             </tr>

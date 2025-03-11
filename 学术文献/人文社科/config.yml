@@ -126,6 +126,13 @@ files:
   md5: 92332b00f50ce73484bcc875cf847d3f
   page: 2021_卓芸萱_性別跨不跨_跨性別學生於友善校園成長的可能_page.md
   visitors: 3
+- name: 2021_孟嘉杰_性别研究遭遇华语语系之后_书评
+  filename: 2021_孟嘉杰_性别研究遭遇华语语系之后_书评.pdf
+  type: document
+  format: PDF Document
+  size: 611624
+  md5: 90868a9b2f24082ec9b5165fcf068fe3
+  page: 2021_孟嘉杰_性别研究遭遇华语语系之后_书评_page.md
 - name: 2021年卓芸萱_跨性別學生於友善校園成長的可能性
   filename: 2021年卓芸萱_跨性別學生於友善校園成長的可能性.pdf
   type: document
@@ -1126,6 +1133,13 @@ files:
   md5: 322501ab894fe574d4be4b29f14aa9b7
   page: 從當代電影看亞洲跨性別人士的困局_page.md
   visitors: 2
+- name: 德國跨性別人權與婚姻自由的法律分析_陳宜倩_2008
+  filename: 德國跨性別人權與婚姻自由的法律分析_陳宜倩_2008.pdf
+  type: document
+  format: PDF Document
+  size: 1035410
+  md5: cfc23cbb85b633a23a70d5e7bede4f84
+  page: 德國跨性別人權與婚姻自由的法律分析_陳宜倩_2008_page.md
 - name: 性与性别少数群体心理健康与亲密关系报告
   filename: 性与性别少数群体心理健康与亲密关系报告.pdf
   type: document
@@ -1148,6 +1162,13 @@ files:
   size: 9891121
   md5: 86dd2e6650d197c46aba05b4b1995f6f
   page: 性別二十_性／別研究丛書_page.md
+- name: 性別越界在1950年代的華語語系臺灣_姜學豪
+  filename: 性別越界在1950年代的華語語系臺灣_姜學豪.pdf
+  type: document
+  format: PDF Document
+  size: 1380621
+  md5: 17b74af4e545fe90ccef318a9753b39a
+  page: 性別越界在1950年代的華語語系臺灣_姜學豪_page.md
 - name: 性别互动论：基于“做性别”视角的探讨
   filename: 性别互动论：基于“做性别”视角的探讨.pdf
   type: document
@@ -1556,14 +1577,6 @@ files:
   size: 4886484
   md5: 279181e47f133fbd087d7b7c50424ba8
   page: 跨性别心理咨询的理论与实践研究_吕娜.caj
-- name: 跨性别教育与社会变迁观察报告_第二个十年
-  filename: 跨性别教育与社会变迁观察报告_第二个十年.pdf
-  type: document
-  format: PDF Document
-  size: 15765351
-  md5: 3155566dc899a73aeac74f5998726671
-  page: 跨性别教育与社会变迁观察报告_第二个十年_page.md
-  visitors: 1
 - name: 跨性别教育的必要性与意义
   filename: 跨性别教育的必要性与意义.pdf
   type: document

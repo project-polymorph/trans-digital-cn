@@ -13,6 +13,27 @@ tags:
 - 生命故事
 license: ''
 files:
+- name: 171本精品变文介绍：_变身文推荐员浮玉
+  filename: 171本精品变文介绍：_变身文推荐员浮玉.txt
+  type: document
+  format: Plain Text
+  size: 127875
+  md5: 7373624c2b80fba7f32bdb7be82cb92e
+  page: 171本精品变文介绍：_变身文推荐员浮玉_page.md
+- name: 2018~2021SF轻小说网嫁人文清单
+  filename: 2018~2021SF轻小说网嫁人文清单.csv
+  type: other
+  format: Unknown Format
+  size: 800721
+  md5: 247f128672b3c6d6d00d38fad808669a
+  page: 2018~2021SF轻小说网嫁人文清单.csv
+- name: 2021-08-起点图书单-变单百小说（粗整理）
+  filename: 2021-08-起点图书单-变单百小说（粗整理）.xlsx
+  type: other
+  format: Unknown Format
+  size: 774851
+  md5: 84b8c848346a88eeb50f482670fd31bb
+  page: 2021-08-起点图书单-变单百小说（粗整理）.xlsx
 - name: 2023花地文学榜
   filename: 2023花地文学榜.pdf
   type: document
@@ -69,6 +90,13 @@ files:
   md5: e6364d3bebdf939b9f6fc4b0e6790488
   page: 变文研究_page.md
   visitors: 43
+- name: 夜明珠_出版小说
+  filename: 夜明珠_出版小说.pdf
+  type: document
+  format: PDF Document
+  size: 76126561
+  md5: 015fe880cb893599838f90374ee80005
+  page: 夜明珠_出版小说_page.md
 - name: 王安黛-中篇严肃悬疑-缺耳女_二稿修正版
   filename: 王安黛-中篇严肃悬疑-缺耳女_二稿修正版.docx
   type: document
@@ -93,5 +121,12 @@ files:
   md5: 068ef1ef592f2ae5ef1561778550e40f
   page: 药娘的天空_page.md
   visitors: 264
+- name: 變性人姊姊和節慶甜點
+  filename: 變性人姊姊和節慶甜點.pdf
+  type: document
+  format: PDF Document
+  size: 5349889
+  md5: 14824ca4c6b291689dbd4201ad233298
+  page: 變性人姊姊和節慶甜點_page.md
 subdirs:
 - 《银荆的告白》1-5卷
