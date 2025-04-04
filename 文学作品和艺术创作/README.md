@@ -14,7 +14,7 @@ search:
 
 !!! note "📊 统计信息"
 
-    总计内容：199 篇
+    总计内容：198 篇
     标签：`跨性别` `文学作品` `艺术创作` `自传` `小说` `漫画` `纪实作品` `诗歌`
 
 
@@ -39,14 +39,14 @@ search:
                     </div>
                 </details></td>
             </tr>
-<tr data-name="图像" data-count="2" data-date="0000-00-00">
+<tr data-name="图像" data-count="1" data-date="0000-00-00">
                 <td><a href="图像" class="md-button">图像</a></td>
-                <td class="count-cell">2 篇</td>
+                <td class="count-cell">1 篇</td>
                 <td class="description-cell"><details markdown>
                     <summary>展开</summary>
                     <div class="description">
                         该目录收录了与跨性别主题相关的摄影、绘画等图片作品。
-                        <br>文件数量：2 篇
+                        <br>文件数量：1 篇
                     </div>
                 </details></td>
             </tr>
