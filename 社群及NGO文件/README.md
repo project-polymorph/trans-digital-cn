@@ -14,7 +14,7 @@ search:
 
 !!! note "📊 统计信息"
 
-    总计内容：492 篇
+    总计内容：493 篇
     标签：`跨性别` `社群` `NGO` `医疗资源` `教育` `组织`
 
 
@@ -61,9 +61,9 @@ search:
                     </div>
                 </details></td>
             </tr>
-<tr data-name="手册指南" data-count="58" data-date="0000-00-00">
+<tr data-name="手册指南" data-count="59" data-date="0000-00-00">
                 <td><a href="手册指南" class="md-button">手册指南</a></td>
-                <td class="count-cell">58 篇</td>
+                <td class="count-cell">59 篇</td>
                 <td class="description-cell"><details markdown>
                     <summary>展开</summary>
                     <div class="description">
@@ -74,7 +74,7 @@ search:
 文献中频繁提及的激素替代疗法（HRT）相关资料则深入探讨了为跨性别女性提供的激素治疗方式与考虑事项，确保患者在接受治疗时能具备充分的知识与准备。而数字暴力的报道指南则着重于如何在新闻报道中处理针对性别群体的暴力问题，强调了媒体在面对这些敏感话题时的道德责任。
 
 从《社群指南：性少数性工作者经历的恐同与恐跨性别》到《反暴力手册》，目录内容涵盖了跨性别者所面临的多重社会问题与健康挑战，明确了法律改革与社会支持的重要性。整体而言，该目录不仅着眼于医疗与法律的交集，更强调跨性别群体在社会环境中的生存状况，通过各种手册与指南促进理解与积极变革，为跨性别个体提供支持与希望。
-                        <br>文件数量：58 篇
+                        <br>文件数量：59 篇
                     </div>
                 </details></td>
             </tr>
