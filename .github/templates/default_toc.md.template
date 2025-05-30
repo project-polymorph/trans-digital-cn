@@ -13,9 +13,9 @@ search:
 
 <div class="grid" markdown>
 
-=== "最多访问"
+=== "最近更新"
 
-{{MOST_VISITED}}
+{{RECENT_UPDATES}}
 
 </div>
 
