@@ -14,7 +14,7 @@ search:
 
 !!! note "📊 统计信息"
 
-    总计内容：430 篇
+    总计内容：431 篇
     标签：`跨性别` `学术文献` `人文` `医学` `法律` `社会科学`
 
 
@@ -28,14 +28,14 @@ search:
 <th style="width: 50%">简介</th>
 </tr></thead>
 <tbody>
-<tr data-name="人文社科" data-count="239" data-date="0000-00-00">
+<tr data-name="人文社科" data-count="240" data-date="0000-00-00">
                 <td><a href="人文社科" class="md-button">人文社科</a></td>
-                <td class="count-cell">239 篇</td>
+                <td class="count-cell">240 篇</td>
                 <td class="description-cell"><details markdown>
                     <summary>展开</summary>
                     <div class="description">
                         该目录下收录了与跨性别相关的社会科学研究文献，包括对跨性别群体的社会分析、文化研究以及相关的理论探讨。这些文献旨在提升对跨性别群体生活现状的理解与关注。
-                        <br>文件数量：239 篇
+                        <br>文件数量：240 篇
                     </div>
                 </details></td>
             </tr>

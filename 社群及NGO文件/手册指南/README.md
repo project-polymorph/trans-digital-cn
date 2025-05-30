@@ -20,7 +20,7 @@ search:
 
 !!! note "📊 统计信息"
 
-    总计内容：59 篇
+    总计内容：60 篇
     标签：`跨性别医疗照护` `跨性别故事` `法律与政策` `激素替代疗法` `数字暴力` `健康指南` `跨性别权益` `性别认同` `社会环境` `支持资源`
 
 
@@ -199,6 +199,18 @@ search:
 总的来说，这本指南不仅帮助家长理解跨性别身份认同的基本知识，还为他们提供了实际的问题解决方案和支持措施，以帮助他们更好地陪伴自己的孩子度过这一重要的人生阶段。通过这本书籍，父母可以学习到如何与孩子进行有效的对话、关注孩子的需要、以及如何支持他们的性别认同之旅，从而增进亲子之间的信任与理解。
                         <br>年份：2022
                         <br>收录日期：2025-01-18
+                    </div>
+                </details></td>
+            </tr>
+<tr data-name="Shattered_Memories_自切教程" data-year="None" data-date="2025-05-30">
+                <td><a href="Shattered_Memories_自切教程_page" class="md-button">Shattered_Memories_自切教程</a></td>
+                <td class="year-cell">None</td>
+                <td class="description-cell"><details markdown>
+                    <summary>展开</summary>
+                    <div class="description">
+                        《Shattered Memories 自切教程》是一份以PDF格式发布在GitHub上的自助性别确认手术指南，标题为 “Orchiectomy Tutorial”，旨在向无法获得正规医疗支持的跨性别者或酷儿群体提供睾丸切除手术的基础操作思路与注意事项。从内容架构看，该教程可能包含手术前的身体准备、无菌操作、切口与缝合方法、术后护理与风险警示等环节，却反映出一份为资源匮乏的跨性别者群体自发编写的“自切”求生文件的雏形，具有重要的社会学研究与医疗伦理警示价值。
+                        <br>年份：None
+                        <br>收录日期：2025-05-30
                     </div>
                 </details></td>
             </tr>

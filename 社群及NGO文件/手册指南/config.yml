@@ -96,6 +96,13 @@ files:
   md5: 4227a50527ff344e76700e2c0b5ecc55
   page: SG出柜指南_去风险删减版_page.md
   visitors: 34
+- name: Shattered_Memories_自切教程
+  filename: Shattered_Memories_自切教程.pdf
+  type: document
+  format: PDF Document
+  size: 21965313
+  md5: 787901968bdece7c0f69f52d55464c03
+  page: Shattered_Memories_自切教程_page.md
 - name: WPATH_SOC_V7
   filename: WPATH_SOC_V7.pdf
   type: document
