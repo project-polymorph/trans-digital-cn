@@ -34,7 +34,7 @@ jobs:
             mkdocs-material-
       - run: pip install -r .github/scripts/requirements.txt
       - run: pip install -r .github/site/requirements.txt
-      - run: sudo apt-get install libcairo2-dev
+      - run: sudo apt-get update && sudo apt-get install libcairo2-dev
       # New steps start here
       - name: Generate and update TOC, generate and config other things
         run: |
