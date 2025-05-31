@@ -14,7 +14,7 @@ search:
 
 !!! note "📊 统计信息"
 
-    总计内容：198 篇
+    总计内容：197 篇
     标签：`跨性别` `文学作品` `艺术创作` `自传` `小说` `漫画` `纪实作品` `诗歌`
 
 
@@ -50,14 +50,14 @@ search:
                     </div>
                 </details></td>
             </tr>
-<tr data-name="小说" data-count="101" data-date="0000-00-00">
+<tr data-name="小说" data-count="100" data-date="0000-00-00">
                 <td><a href="小说" class="md-button">小说</a></td>
-                <td class="count-cell">101 篇</td>
+                <td class="count-cell">100 篇</td>
                 <td class="description-cell"><details markdown>
                     <summary>展开</summary>
                     <div class="description">
                         本目录收录与跨性别相关的小说作品，涵盖了跨性别者的生活经历、情感纠葛及自我认同等主题。作品通过文学的方式，表达了跨性别者的独特声音与故事，旨在提高社会对这一群体的理解与关注。注：本目录收录的文档仅为部分小说以及评论，更多请访问 性转小说档案 <https://novel.transchinese.org/>、 <https://xnovel.transchinese.org/> 和 <https://unovel.transchinese.org/> 获取。
-                        <br>文件数量：101 篇
+                        <br>文件数量：100 篇
                     </div>
                 </details></td>
             </tr>
