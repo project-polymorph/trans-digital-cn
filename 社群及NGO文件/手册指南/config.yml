@@ -246,6 +246,13 @@ files:
   size: 207141
   md5: 1ef67995c5206a49a0645bcba37d3b9b
   page: 学历学位信息问题的一条解决路径_page.md
+- name: 学历学位信息问题的一条解决路径_补充说明
+  filename: 学历学位信息问题的一条解决路径_补充说明.pdf
+  type: document
+  format: PDF Document
+  size: 97498
+  md5: 2ec791cb8976a072fdbc8a2ec564635b
+  page: 学历学位信息问题的一条解决路径_补充说明_page.md
 - name: 幫助家裡有同志_（女同性戀、男同性戀、雙性戀、跨性別）成員的家庭指南
   filename: 幫助家裡有同志_（女同性戀、男同性戀、雙性戀、跨性別）成員的家庭指南.pdf
   type: document
