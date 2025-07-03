@@ -1,0 +1,54 @@
+name: 催眠
+description: 该目录收录了多篇与催眠音声体验相关的详细文档，主要涉及跨性别和多元性别群体在生活与性体验领域中的实践和探索。从入门指南到基础篇、小技巧篇，再到催眠科普和进阶图，文档内容涵盖了催眠音声的使用方法、技巧、注意事项及心理和生理反应的观察。文档中既有作者以第一人称分享亲身体验的个人体悟，也有对催眠状态从放松、入门、深入到维持催眠体验整个过程的系统阐述。文件详细讨论了如何通过声音引导进入催眠状态，分析了常见问题与对策，如如何避免分心、如何调整呼吸和如何利用环境提示来增强体验效果。此外，还涉及了催眠状态下的独特生理反应描述，如身体各部位的感觉变化、快感体验以及心理状态的转移。整体上，这些文档体现了对催眠音声这一艺术与科学交融的体验方式的深入研究，既适用于初学者，也为有一定经验的听众提供了丰富的理论指导和实际操作建议。文中多次引用具体作品和实例，如VOICE
+  LOVER社团、ディーブルスト社团的相关音声案例，旨在为读者绘制一幅全方位的催眠体验图景，并探索其在多元性别和跨性别群体中的应用与意义。
+curator: ''
+source: ''
+tags:
+- 催眠音声
+- 体验指南
+- 多元性别
+- 跨性别
+- 性体验
+- 心理调适
+- 身体反应
+- 科普
+- 实践操作
+- 声音引导
+license: ''
+files:
+- name: Iria的催眠音声食用指南：入门篇
+  filename: Iria的催眠音声食用指南：入门篇.docx
+  type: document
+  format: Microsoft Word Document (OpenXML)
+  size: 4676899
+  md5: 3e79f4a69c2cd480ba52d950f0c1d832
+  page: Iria的催眠音声食用指南：入门篇_page.md
+- name: Iria的催眠音声食用指南：基础篇
+  filename: Iria的催眠音声食用指南：基础篇.docx
+  type: document
+  format: Microsoft Word Document (OpenXML)
+  size: 10379333
+  md5: 15e495d288de1a3d7c8591daad01c4e0
+  page: Iria的催眠音声食用指南：基础篇_page.md
+- name: Iria的催眠音声食用指南：小技巧篇
+  filename: Iria的催眠音声食用指南：小技巧篇.docx
+  type: document
+  format: Microsoft Word Document (OpenXML)
+  size: 3465192
+  md5: 17b56fe0c3b4eb4eca4f8672f7958e1a
+  page: Iria的催眠音声食用指南：小技巧篇_page.md
+- name: 催眠小科普
+  filename: 催眠小科普.pdf
+  type: document
+  format: PDF Document
+  size: 476540
+  md5: b18467e76128a7e860f6e12776ba42d5
+  page: 催眠小科普_page.md
+- name: 催眠音声进阶图
+  filename: 催眠音声进阶图.png
+  type: image
+  format: PNG Image
+  size: 2174332
+  md5: 0586caeda916020203faea845ebeac71
+  page: 催眠音声进阶图.png
+subdirs: []
