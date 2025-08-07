@@ -2,6 +2,8 @@
 
 <!-- tcd_download_link -->
 下载: <a href="../跨性别态度与信念量表中文版测评成年人的效度和信度.pdf" download>跨性别态度与信念量表中文版测评成年人的效度和信度.pdf</a>
+
+
 <!-- tcd_download_link_end -->
 
 ## 摘要
