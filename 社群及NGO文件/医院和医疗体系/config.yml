@@ -10,14 +10,13 @@ tags:
 - 医疗政策
 license: ''
 files:
-- name: 2022年青少年COVID-19疫苗接种登记表
-  filename: 2022年青少年COVID-19疫苗接种登记表.pdf
+- name: 411女性向性别确认手术常问问题与回答
+  filename: 411女性向性别确认手术常问问题与回答.pdf
   type: document
   format: PDF Document
-  size: 176821
-  md5: c921b1c75ba9974b1e33001364fed0c2
-  page: 2022年青少年COVID-19疫苗接种登记表_page.md
-  visitors: 12
+  size: 618148
+  md5: df656d5f7fd6cecffadc2ed2ac1fa0ce
+  page: 411女性向性别确认手术常问问题与回答_page.md
 - name: El_Dorado县健康教育课程
   filename: El_Dorado县健康教育课程.pdf
   type: document
@@ -146,14 +145,6 @@ files:
   md5: d2d09d69df973015a230757902ac5e27
   page: 变性手术资料_1__page.md
   visitors: 49
-- name: 家庭咨询服务会面记录
-  filename: 家庭咨询服务会面记录.pdf
-  type: document
-  format: PDF Document
-  size: 621762
-  md5: 1d3dd295a95d10857642cef45e876aa6
-  page: 家庭咨询服务会面记录_page.md
-  visitors: 1
 - name: 富德生命人寿终身护理保险产品说明书
   filename: 富德生命人寿终身护理保险产品说明书.pdf
   type: document

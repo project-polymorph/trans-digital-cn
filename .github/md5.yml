@@ -530,10 +530,6 @@
   name: 2022年DEIA与健康公平报告.pdf
   path: 政府及官方组织文件/其他地区/2022年DEIA与健康公平报告.pdf
   md5: 21a5630716918ef6954cecd09fbd4091
-2022年青少年COVID-19疫苗接种登记表.pdf:
-  name: 2022年青少年COVID-19疫苗接种登记表.pdf
-  path: 社群及NGO文件/医院和医疗体系/2022年青少年COVID-19疫苗接种登记表.pdf
-  md5: c921b1c75ba9974b1e33001364fed0c2
 2022版跨性别医疗照护手册.pdf:
   name: 2022版跨性别医疗照护手册.pdf
   path: 社群及NGO文件/手册指南/2022版跨性别医疗照护手册.pdf
@@ -746,6 +742,10 @@
   name: 41.png
   path: 文学作品和艺术创作/自传/一个阉人的真实故事/41.png
   md5: 51ddd47c9e47b405792c3813d2f58803
+411女性向性别确认手术常问问题与回答.pdf:
+  name: 411女性向性别确认手术常问问题与回答.pdf
+  path: 社群及NGO文件/医院和医疗体系/411女性向性别确认手术常问问题与回答.pdf
+  md5: df656d5f7fd6cecffadc2ed2ac1fa0ce
 42.png:
   name: 42.png
   path: 文学作品和艺术创作/自传/一个阉人的真实故事/42.png
@@ -2990,10 +2990,6 @@ transgender_performance_in_contemporary_Chinese_films.pdf:
   name: 实施变性手术应以法定程序的审理为前提_汤啸天.pdf
   path: 学术文献/法律/实施变性手术应以法定程序的审理为前提_汤啸天.pdf
   md5: 7b585517f8a86d0d5f5a7b1122e775d0
-家庭咨询服务会面记录.pdf:
-  name: 家庭咨询服务会面记录.pdf
-  path: 社群及NGO文件/医院和医疗体系/家庭咨询服务会面记录.pdf
-  md5: 1d3dd295a95d10857642cef45e876aa6
 家庭虐待服务需求研究报告.pdf:
   name: 家庭虐待服务需求研究报告.pdf
   path: 社群及NGO文件/统计报告/家庭虐待服务需求研究报告.pdf
@@ -3670,6 +3666,10 @@ transgender_performance_in_contemporary_Chinese_films.pdf:
   name: 澳门大学法医学教程进度（2015-2016学年度）.pdf
   path: 社群及NGO文件/学校/澳门大学法医学教程进度（2015-2016学年度）.pdf
   md5: faf54d5ccf303fb371b6313b0313fa25
+激素药物网络禁售后跨性别女性生活困境与照护需求的质性研究.pdf:
+  name: 激素药物网络禁售后跨性别女性生活困境与照护需求的质性研究.pdf
+  path: 学术文献/医学/激素药物网络禁售后跨性别女性生活困境与照护需求的质性研究.pdf
+  md5: f9713572e29563a6fe2835c07c506273
 為兒童和青少年保留選擇權.pdf:
   name: 為兒童和青少年保留選擇權.pdf
   path: 杂志及新闻报道/港澳台/為兒童和青少年保留選擇權.pdf
@@ -4398,6 +4398,10 @@ transgender_performance_in_contemporary_Chinese_films.pdf:
   name: 跨性别心理咨询的理论与实践研究_吕娜.caj
   path: 学术文献/人文社科/跨性别心理咨询的理论与实践研究_吕娜.caj
   md5: 279181e47f133fbd087d7b7c50424ba8
+跨性别态度与信念量表中文版测评成年人的效度和信度.pdf:
+  name: 跨性别态度与信念量表中文版测评成年人的效度和信度.pdf
+  path: 学术文献/医学/跨性别态度与信念量表中文版测评成年人的效度和信度.pdf
+  md5: 1615331d8dacc9515e7e7b3976a0d71c
 跨性别教育的必要性与意义.pdf:
   name: 跨性别教育的必要性与意义.pdf
   path: 学术文献/人文社科/跨性别教育的必要性与意义.pdf
@@ -4710,3 +4714,7 @@ transgender_performance_in_contemporary_Chinese_films.pdf:
   name: 高雄市性別友善觀光報告_2023.pdf
   path: 政府及官方组织文件/港澳台/高雄市性別友善觀光報告_2023.pdf
   md5: 79ee86bc43e88becc0e2d3c7d6d3fa61
+高齡與性別—多元性別高齡照護與政策建議.pdf:
+  name: 高齡與性別—多元性別高齡照護與政策建議.pdf
+  path: 学术文献/人文社科/高齡與性別—多元性別高齡照護與政策建議.pdf
+  md5: 63d9edafa403d7d31eb566324e50d948
