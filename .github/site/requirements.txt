@@ -65,7 +65,7 @@ pandas==2.2.3
 pathspec==0.12.1
 pdfminer.six==20250327
 pdfplumber==0.11.6
-pillow==11.2.1
+pillow==11.3.0
 platformdirs==4.3.8
 prettytable==3.16.0
 pycparser==2.22
