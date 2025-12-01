@@ -25,7 +25,7 @@ EbookLib==0.17.1
 epub2txt==0.1.6
 filelock==3.18.0
 filetype==1.2.0
-fonttools==4.58.1
+fonttools==4.61.0
 ghp-import==2.1.0
 gitdb==4.0.12
 GitPython==3.1.44
