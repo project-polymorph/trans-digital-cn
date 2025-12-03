@@ -1,7 +1,7 @@
 # PDF_性別手冊學生版
 
 <!-- tcd_download_link -->
-下载: <a href="../PDF_性別手冊學生版.pdf" download>PDF_性別手冊學生版.pdf</a>
+下载: <a href="https://www.chuo-u.ac.jp/campuslife/diversity/gs/book/" download>PDF_性別手冊學生版.pdf</a>
 
 
 <!-- tcd_download_link_end -->
@@ -25,7 +25,7 @@
 | Size            | 1892171 bytes                           |
 | MD5             | 3d35872f6a9866a9a2428feae63fed02                                  |
 | Archived Date   | 2024-11-07 19:38:08                             |
-| Original Link   | [https://www.chuo-u.ac.jp/uploads/2024/03/campuslife_diversity_gs_book_07.pdf?1711756800106](https://www.chuo-u.ac.jp/uploads/2024/03/campuslife_diversity_gs_book_07.pdf?1711756800106)                         |
+| Original Link   | [https://www.chuo-u.ac.jp/campuslife/diversity/gs/book/](https://www.chuo-u.ac.jp/campuslife/diversity/gs/book/)                         |
 | Author          | 中央大学多元化中心                               |
 | Region          | 日本                               |
 | Date            | 2024-01-01                                 |
@@ -37,8 +37,6 @@
 ## 正文 { data-search-exclude }
 
 <!-- tcd_main_text -->
-<iframe src="../PDF_性別手冊學生版.pdf" width="100%" height="600px">
-    <p>无法显示PDF，请下载查看。</p>
-</iframe>
+
 <!-- tcd_main_text_end -->
 
