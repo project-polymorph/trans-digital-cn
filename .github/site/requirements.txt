@@ -23,7 +23,7 @@ distro==1.9.0
 docx2txt==0.9
 EbookLib==0.17.1
 epub2txt==0.1.6
-filelock==3.20.1
+filelock==3.20.3
 filetype==1.2.0
 fonttools==4.61.0
 ghp-import==2.1.0
