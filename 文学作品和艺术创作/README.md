@@ -14,7 +14,7 @@ search:
 
 !!! note "📊 统计信息"
 
-    总计内容：197 篇
+    总计内容：195 篇
     标签：`跨性别` `文学作品` `艺术创作` `自传` `小说` `漫画` `纪实作品` `诗歌`
 
 
@@ -28,14 +28,14 @@ search:
 <th style="width: 50%">简介</th>
 </tr></thead>
 <tbody>
-<tr data-name="其他" data-count="8" data-date="0000-00-00">
+<tr data-name="其他" data-count="9" data-date="0000-00-00">
                 <td><a href="其他" class="md-button">其他</a></td>
-                <td class="count-cell">8 篇</td>
+                <td class="count-cell">9 篇</td>
                 <td class="description-cell"><details markdown>
                     <summary>展开</summary>
                     <div class="description">
                         该目录收录了一系列与多元性别相关的文学作品和艺术创作，旨在展现酷儿文化和跨性别议题在当代艺术中的重要性。目录中的作品涵盖了多个方面，包括2024年威尼斯双年展上素人艺术家的展评，此展评关注了未经主流认可的艺术创作，探索了身份和表现的多重性。吴曾的《镜头切开身份》作品也在其中，深入剖析了艺术创作如何与酷儿文化交织，提出了对身份认同和表达的反思。报告涉及的巴特勒作品集则引发对性别和权力关系的深刻探讨，鼓励观众在艺术中寻找自我认知。海伦·马尔滕与亚力汉德罗·西塞科的作品，通过艺术介入的方式揭示了社会问题的复杂性，展示了艺术在推动社会变革中的力量。总之，该目录不仅仅是艺术作品的合集，也是对多元性别现象的深刻洞察与探索。
-                        <br>文件数量：8 篇
+                        <br>文件数量：9 篇
                     </div>
                 </details></td>
             </tr>
@@ -80,17 +80,6 @@ search:
                     <div class="description">
                         该目录收录与跨性别相关的自传性文学作品，展示跨性别者的生命故事与过渡经历。自传不仅反映个人的成长与探索，还记录了在社会环境中的真实挑战与心路历程，具有重要的文学价值和社会意义。
                         <br>文件数量：55 篇
-                    </div>
-                </details></td>
-            </tr>
-<tr data-name="诗歌" data-count="3" data-date="0000-00-00">
-                <td><a href="诗歌" class="md-button">诗歌</a></td>
-                <td class="count-cell">3 篇</td>
-                <td class="description-cell"><details markdown>
-                    <summary>展开</summary>
-                    <div class="description">
-                        本目录收录与跨性别主题相关的诗歌作品，旨在通过文学的方式表达跨性别人群的内心世界与情感历程。这些作品反映了跨性别个体在社会、文化背景下的经历和感受，展示了多样的艺术表现形式。
-                        <br>文件数量：3 篇
                     </div>
                 </details></td>
             </tr>
