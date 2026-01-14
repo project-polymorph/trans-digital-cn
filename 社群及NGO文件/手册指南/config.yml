@@ -32,6 +32,13 @@ files:
   md5: 275eaa772f9aa521cfc5922cf5921cb0
   page: 2022版跨性别医疗照护手册_page.md
   visitors: 36
+- name: 250905-跨性别法律手册
+  filename: 250905-跨性别法律手册.pdf
+  type: document
+  format: PDF Document
+  size: 2415906
+  md5: 53795e18c6e017a6181e5ca555c3eee4
+  page: 250905-跨性别法律手册_page.md
 - name: Gossip_Boys_and_Girls_-_跨性別資源中心
   filename: Gossip_Boys_and_Girls_-_跨性別資源中心.pdf
   type: document

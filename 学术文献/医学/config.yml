@@ -118,6 +118,13 @@ files:
   md5: 79cd6bbf08e5a0c7f25fbff032ff0358
   page: 2023年鲁琳_双性人手术干预知情同意分析与后现代哲学思考_page.md
   visitors: 7
+- name: 2024_SFEDP专家共识：跨性别青少年的内分泌管理
+  filename: 2024_SFEDP专家共识：跨性别青少年的内分泌管理.pdf
+  type: document
+  format: PDF Document
+  size: 1336835
+  md5: b04b2d9a93bdbbd01b0b0394c9e3ed15
+  page: 2024_SFEDP专家共识：跨性别青少年的内分泌管理_page.md
 - name: 2024年医学与哲学_跨性别技术的伦理困境_俞玲玲
   filename: 2024年医学与哲学_跨性别技术的伦理困境_俞玲玲.pdf
   type: document
@@ -126,6 +133,20 @@ files:
   md5: b3765dda40c2ea3251d349ae583701d5
   page: 2024年医学与哲学_跨性别技术的伦理困境_俞玲玲_page.md
   visitors: 20
+- name: 2025_ISPN声明：_跨性别者和性别多样化青少年的心理健康护理
+  filename: 2025_ISPN声明：_跨性别者和性别多样化青少年的心理健康护理.pdf
+  type: document
+  format: PDF Document
+  size: 650115
+  md5: 07df38abb5e72a3cea3ff8b6c368de8a
+  page: 2025_ISPN声明：_跨性别者和性别多样化青少年的心理健康护理_page.md
+- name: 39例性别重置术后法医临床性别鉴定案例分析
+  filename: 39例性别重置术后法医临床性别鉴定案例分析.pdf
+  type: document
+  format: PDF Document
+  size: 749638
+  md5: 5b440eebd5e004c58310718f2d30dd1d
+  page: 39例性别重置术后法医临床性别鉴定案例分析_page.md
 - name: 5医学与哲学6人文社会医学版2007_年_第28_卷_易性癖及其手术治疗的全面审视
   filename: 5医学与哲学6人文社会医学版2007_年_第28_卷_易性癖及其手术治疗的全面审视.pdf
   type: document
@@ -614,6 +635,13 @@ files:
   size: 12251346
   md5: 0f3cb10f542c32f73cbe00f81237bd9f
   page: 变性术典型病例_-_美容与再造整形手术实例彩色图谱·躯干、会阴及四肢分册_-_中国工具书网络出版总库_20170326044255.png
+- name: 变性现象
+  filename: 变性现象.pdf
+  type: document
+  format: PDF Document
+  size: 4053831
+  md5: a1cd9c17210fc3ed1528dcb89856dee7
+  page: 变性现象_page.md
 - name: 图解现代人心理新话题
   filename: 图解现代人心理新话题.pdf
   type: document
@@ -724,6 +752,13 @@ files:
   md5: a8f00e765929f52b45655fcdaa1adbc2
   page: 性别不一致去精神病化的思考_page.md
   visitors: 7
+- name: 性别不一致者的内分泌管理
+  filename: 性别不一致者的内分泌管理.pdf
+  type: document
+  format: PDF Document
+  size: 1244362
+  md5: 79fa14a003afdd97a1b3f2ad19ea0470
+  page: 性别不一致者的内分泌管理_page.md
 - name: 性别危机何去何从_自闭症AD__性别焦虑GD_的真相
   filename: 性别危机何去何从_自闭症AD__性别焦虑GD_的真相.pdf
   type: document
