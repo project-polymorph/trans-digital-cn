@@ -8,6 +8,7 @@ __pycache__/
 cleanup.py
 old_workspace*/
 venv
+.venv
 my-api/
 unrelated_workspace*
 res.html
