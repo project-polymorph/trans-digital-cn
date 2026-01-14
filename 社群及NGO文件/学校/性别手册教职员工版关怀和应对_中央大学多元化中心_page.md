@@ -1,10 +1,6 @@
 # 性别手册教职员工版关怀和应对_中央大学多元化中心
 
-<!-- tcd_download_link -->
-下载: <a href="../性别手册教职员工版关怀和应对_中央大学多元化中心.pdf" download>性别手册教职员工版关怀和应对_中央大学多元化中心.pdf</a>
-
-
-<!-- tcd_download_link_end -->
+下载: <a href="https://www.chuo-u.ac.jp/campuslife/diversity/gs/book/" download>性别手册教职员工版关怀和应对_中央大学多元化中心.pdf</a>
 
 ## 摘要
 
@@ -37,8 +33,6 @@
 ## 正文 { data-search-exclude }
 
 <!-- tcd_main_text -->
-<iframe src="../性别手册教职员工版关怀和应对_中央大学多元化中心.pdf" width="100%" height="600px">
-    <p>无法显示PDF，请下载查看。</p>
-</iframe>
+
 <!-- tcd_main_text_end -->
 

@@ -1,10 +1,6 @@
 # PDF_性別手冊學生版
 
-<!-- tcd_download_link -->
 下载: <a href="https://www.chuo-u.ac.jp/campuslife/diversity/gs/book/" download>PDF_性別手冊學生版.pdf</a>
-
-
-<!-- tcd_download_link_end -->
 
 ## 摘要
 

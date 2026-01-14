@@ -19,7 +19,7 @@
 
 !!! note "📊 统计信息"
 
-    总计内容：5294 篇
+    总计内容：5293 篇
     标签：`学术文献` `跨性别` `多元性别` `文学艺术` `社会政策` `数据统计` `公共资源` `社区支持`
 
 
@@ -55,14 +55,14 @@
                     </div>
                 </details></td>
             </tr>
-<tr data-name="文学作品和艺术创作" data-count="197" data-date="0000-00-00">
+<tr data-name="文学作品和艺术创作" data-count="196" data-date="0000-00-00">
                 <td><a href="文学作品和艺术创作" class="md-button">文学作品和艺术创作</a></td>
-                <td class="count-cell">197 篇</td>
+                <td class="count-cell">196 篇</td>
                 <td class="description-cell"><details markdown>
                     <summary>展开</summary>
                     <div class="description">
                         本部分收录一切形式的跨儿文学艺术创作。无论是发布于互联网某个阴暗角落的「变性人」自传，还是形式晦涩、发人深省的诗歌电影，均可收录在本版块。，涵盖了多种形式的表达，包括小说、漫画、纪实作品、自传和诗歌等。
-                        <br>文件数量：197 篇
+                        <br>文件数量：196 篇
                     </div>
                 </details></td>
             </tr>
