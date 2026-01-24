@@ -379,6 +379,13 @@ files:
   md5: b3b99eef3b83e7bb214b8bbaec7545fb
   page: 自切教程萱酱版_page.md
   visitors: 129
+- name: 自切教程（唐毓文版）
+  filename: 自切教程（唐毓文版）.doc
+  type: document
+  format: Microsoft Word Document
+  size: 12831232
+  md5: c3cf895afb2b279412549dbd17472b28
+  page: 自切教程（唐毓文版）_page.md
 - name: 评估职场中LGBTQI_的包容性
   filename: 评估职场中LGBTQI_的包容性.pdf
   type: document
