@@ -7,7 +7,7 @@ beautifulsoup4==4.13.4
 bracex==2.5.post1
 CacheControl==0.14.3
 cairocffi==1.7.1
-CairoSVG==2.8.2
+CairoSVG==2.9.0
 certifi==2025.4.26
 cffi==1.17.1
 chardet==5.2.0
